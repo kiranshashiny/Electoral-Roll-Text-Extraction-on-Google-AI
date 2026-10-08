@@ -54,6 +54,86 @@ app.get('/api/datasets', (_req, res) => {
 
   const datasets = [
     {
+      id: '1',
+      name: 'Hebbal Assembly Constituency - Part No: 1 (1.pdf)',
+      electorCount: 415,
+      isPreloaded: true,
+      defaultOutput: '1.csv',
+      description: 'Gandhi Vidyalaya Kannada & Tamil Primary School, Room No. 1'
+    },
+    {
+      id: '2',
+      name: 'Hebbal Assembly Constituency - Part No: 2 (2.pdf)',
+      electorCount: 484,
+      isPreloaded: true,
+      defaultOutput: '2.csv',
+      description: 'Gandhi Vidyalaya Kannada & Tamil Primary School, Room No. 2'
+    },
+    {
+      id: '3',
+      name: 'Hebbal Assembly Constituency - Part No: 3 (3.pdf)',
+      electorCount: 608,
+      isPreloaded: true,
+      defaultOutput: '3.csv',
+      description: 'BBMP Ward Office, Opp. Sterling Apartment, Room No. 1'
+    },
+    {
+      id: '4',
+      name: 'Hebbal Assembly Constituency - Part No: 4 (4.pdf)',
+      electorCount: 588,
+      isPreloaded: true,
+      defaultOutput: '4.csv',
+      description: 'BBMP Ward Office, Opp. Sterling Apartment, Room No. 2'
+    },
+    {
+      id: '5',
+      name: 'Hebbal Assembly Constituency - Part No: 5 (5.pdf)',
+      electorCount: 643,
+      isPreloaded: true,
+      defaultOutput: '5.csv',
+      description: 'Central Library BBMP Building, Lottegollahalli, Room No. 1'
+    },
+    {
+      id: '6',
+      name: 'Hebbal Assembly Constituency - Part No: 6 (6.pdf)',
+      electorCount: 433,
+      isPreloaded: true,
+      defaultOutput: '6.csv',
+      description: 'Central Library BBMP Building, Lottegollahalli, Room No. 2'
+    },
+    {
+      id: '7',
+      name: 'Hebbal Assembly Constituency - Part No: 7 (7.pdf)',
+      electorCount: 553,
+      isPreloaded: true,
+      defaultOutput: '7.csv',
+      description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 1'
+    },
+    {
+      id: '8',
+      name: 'Hebbal Assembly Constituency - Part No: 8 (8.pdf)',
+      electorCount: 497,
+      isPreloaded: true,
+      defaultOutput: '8.csv',
+      description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 2'
+    },
+    {
+      id: '9',
+      name: 'Hebbal Assembly Constituency - Part No: 9 (9.pdf)',
+      electorCount: 592,
+      isPreloaded: true,
+      defaultOutput: '9.csv',
+      description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 3'
+    },
+    {
+      id: '10',
+      name: 'Hebbal Assembly Constituency - Part No: 10 (10.pdf)',
+      electorCount: 682,
+      isPreloaded: true,
+      defaultOutput: '10.csv',
+      description: 'Sunrise English School, Bhoopsandra, Room No. 1'
+    },
+    {
       id: '208',
       name: 'Hebbal Assembly Constituency - Part No: 208',
       electorCount: 697,

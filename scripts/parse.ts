@@ -4,7 +4,7 @@ import { runDatasetParser } from '../src/parser/engine';
 
 async function main() {
   const args = process.argv.slice(2);
-  let targets = args.length > 0 ? args : ['208', '207'];
+  let targets = args.length > 0 ? args : ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10', '208', '207'];
 
   console.log('\n======================================================================');
   console.log('   ELECTORAL ROLL PDF PARSER & CSV EXTRACTOR ENGINE');

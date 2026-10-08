@@ -1,0 +1,683 @@
+Dataset,Serial Number,Voter ID,Name,Relation,address,Age,Gender
+10,1,SOH4702569,K.VARALAKSHMI,Fathers Name: P.S.KRISHNAMURTHY,0,36,Female
+10,2,SOH4702460,SHIVA KUMAR.K.,Fathers Name: KRISHNA MURTHY.P.S.,0,32,Male
+10,3,SOH4702684,G.AMBIKA,Husbands Name: G.SHESHADRI RAJU,1,61,Female
+10,4,AKB0551101,Najiya Kulsoom C,Husbands Name: Nayeem ur Rahman V R,1,43,Female
+10,5,SOH6407332,Nuha Fatima,Fathers Name: Nayeemur Rahman VR,1,21,Female
+10,6,SOH4869939,Ashfaq Ahamed,Fathers Name: Abdul Jabbar,1/,68,Male
+10,7,SOH4869533,Syeda Saadat Tauqeer Bano,Husbands Name: Ashfaq Ahamed,1/,56,Female
+10,8,SOH5302476,ATIYA BEGUM JABBAR,Husbands Name: AMEERJHAN SIRAJ PASHA,1/B,61,Female
+10,9,SOH6239230,ZEBA ASHFAQ,Fathers Name: ASHFAQ AHAMED,"1/B, 1st Cross",33,Female
+10,10,BCW2350163,M Krishnamurthy,Fathers Name: Ananthaiah,2,94,Male
+10,11,SOH1000297,Srinivas Kumar,Fathers Name: Jotheeswaran Kumar,4/A,25,Male
+10,12,SOH1000324,Chethana Rao,Husbands Name: Puttaswamy Rao,4,38,Female
+10,13,SOH1000351,Vijay Dhanush,Fathers Name: Suresh Dhanush,5,51,Male
+10,14,SOH1000378,Gayathri Kamath,Fathers Name: Shiva Kumar Kamath,5,64,Female
+10,15,SOH1000405,Kishore Joshi,Fathers Name: Anudeep Joshi,5,77,Male
+10,16,SOH1000432,Suchithra Shetty,Fathers Name: Manjunath Shetty,6,22,Female
+10,17,SOH1000459,Varun Puranik,Fathers Name: Ajay Puranik,6-B,35,Male
+10,18,SOH1000486,Geetha Khan,Husbands Name: Praveen Khan,6,48,Female
+10,19,SOH1000513,Prashanth Ramesh,Fathers Name: Vijay Ramesh,7,61,Male
+10,20,SOH1000540,Bina Hegde,Fathers Name: Ravi Hegde,7,74,Female
+10,21,SOH1000567,Chakravarthi Acharya,Fathers Name: Sabari Acharya,7,19,Male
+10,22,SOH1000594,Radha Eshwaran,Fathers Name: Pradeep Eshwaran,8/A,32,Female
+10,23,SOH1000621,Suresh Nair,Fathers Name: Gopal Nair,8,45,Male
+10,24,SOH1000648,Bhaggamma Prasad,Husbands Name: Rahul Prasad,8,58,Female
+10,25,SOH1000675,Aman Deshpande,Fathers Name: Raghavendra Deshpande,9,71,Male
+10,26,SOH1000702,Lakshmi Mishra,Fathers Name: Nagesh Mishra,9,84,Female
+10,27,SOH1000729,Rahul Govindappa,Fathers Name: Nithin Govindappa,9,29,Male
+10,28,SOH1000756,Shalini Naik,Fathers Name: Prakash Naik,10,42,Female
+10,29,SOH1000783,Sunil Poojari,Fathers Name: Muniswamy Poojari,10,55,Male
+10,30,SOH1000810,Shylaja Singh,Husbands Name: Varun Singh,10,68,Female
+10,31,SOH1000837,Mahalingaiah Sharma,Fathers Name: Santosh Sharma,11,81,Male
+10,32,SOH1000864,Devi Mazumder,Fathers Name: Goutham Mazumder,11,26,Female
+10,33,SOH1000891,Manikanta Bhat,Fathers Name: Shekhar Bhat,11/A,39,Male
+10,34,SOH1000918,Savithri Bose,Fathers Name: Chandan Bose,12-B,52,Female
+10,35,SOH1000945,Allwyn Mallik,Fathers Name: Mahalingaiah Mallik,12,65,Male
+10,36,SOH1000972,Thamarai Patel,Husbands Name: Sagar Patel,12,78,Female
+10,37,SOH1000999,Praveen Rajanna,Fathers Name: Harish Rajanna,13,23,Male
+10,38,SOH1001026,Sunitha Keshava,Fathers Name: Samir Keshava,13,36,Female
+10,39,SOH1001053,Kiran Pasha,Fathers Name: Rupesh Pasha,13,49,Male
+10,40,SOH1001080,Pragathi Chakravarthi,Fathers Name: Mahesh Chakravarthi,14,62,Female
+10,41,SOH1001107,Muniswamy Murthy,Fathers Name: Chakravarthi Murthy,14,75,Male
+10,42,SOH1001134,Kavitha Koppal,Husbands Name: Siddarth Koppal,14,20,Female
+10,43,SOH1001161,Ashok Vishwanath,Fathers Name: Ravindra Vishwanath,15,33,Male
+10,44,SOH1001188,Rasika Menon,Fathers Name: Vinay Kumar Menon,15/A,46,Female
+10,45,SOH1001215,Mahesh Bairi,Fathers Name: Dinesh Bairi,15,59,Male
+10,46,SOH1001242,Manjula Kulkarni,Fathers Name: Allwyn Kulkarni,16,72,Female
+10,47,SOH1001269,Puttaswamy Gupta,Fathers Name: Srinivas Gupta,16,85,Male
+10,48,SOH1001296,Subhitha Devanna,Husbands Name: Girish Devanna,16,30,Female
+10,49,SOH1001323,Venkatesh Pai,Fathers Name: Dhanush Pai,17,43,Male
+10,50,SOH1001350,Sowmya Reddy,Fathers Name: Tejas Reddy,17,56,Female
+10,51,SOH1001377,Gopal Dixit,Fathers Name: Venkatesh Dixit,17-B,69,Male
+10,52,SOH1001404,Savitha Iyengar,Fathers Name: Aman Iyengar,18,82,Female
+10,53,SOH1001431,Kenchi Reddy Shivanna,Fathers Name: Parikshith Shivanna,18,27,Male
+10,54,SOH1001458,Roopa Gowda,Husbands Name: Anand Gowda,18,40,Female
+10,55,SOH1001485,Chandan Jain,Fathers Name: Babu Jain,19/A,53,Male
+10,56,SOH1001512,Bharathi Ramanujom,Fathers Name: Srivatsa Ramanujom,19,66,Female
+10,57,SOH1001539,Nicholas Nayak,Fathers Name: Kiran Nayak,19,79,Male
+10,58,SOH1001566,Anitha Balaji,Fathers Name: Kishore Balaji,20,24,Female
+10,59,SOH1001593,Dinesh Nivas,Fathers Name: Lokesh Nivas,20,37,Male
+10,60,SOH1001620,Kamala Babu,Husbands Name: Mohan Babu,20,50,Female
+10,61,SOH1001647,Ajay Kumar,Fathers Name: Dilip Kumar,21,63,Male
+10,62,SOH1001674,Bhavani Rao,Fathers Name: Kenchi Reddy Rao,21,76,Female
+10,63,SOH1001701,Srivatsa Dhanush,Fathers Name: Sunil Dhanush,21,21,Male
+10,64,SOH1001728,Ambamma Kamath,Fathers Name: Balaji Kamath,22,34,Female
+10,65,SOH1001755,Prakash Joshi,Fathers Name: Mohanraj Joshi,22,47,Male
+10,66,SOH1001782,Meena Shetty,Husbands Name: Sridhar Shetty,22/A,60,Female
+10,67,SOH1001809,Musthapha Puranik,Fathers Name: Musthapha Puranik,23,73,Male
+10,68,SOH1001836,Padma Khan,Fathers Name: Ashok Khan,23-B,18,Female
+10,69,SOH1001863,Rupesh Ramesh,Fathers Name: Prashanth Ramesh,23,31,Male
+10,70,SOH1001890,Vidya Hegde,Fathers Name: Arun Prasad Hegde,24,44,Female
+10,71,SOH1001917,Jotheeswaran Acharya,Fathers Name: Naveen Acharya,24,57,Male
+10,72,SOH1001944,Meghana Eshwaran,Husbands Name: Subhash Eshwaran,24,70,Female
+10,73,SOH1001971,Tejas Nair,Fathers Name: Nicholas Nair,25,83,Male
+10,74,SOH1001998,Rekha Prasad,Fathers Name: Manikanta Prasad,25,28,Female
+10,75,SOH1002025,Pradeep Deshpande,Fathers Name: Sathish Deshpande,25,41,Male
+10,76,SOH1002052,Pavani Mishra,Fathers Name: Shashi Kumar Mishra,26,54,Female
+10,77,SOH1002079,Dilip Govindappa,Fathers Name: Ramesh Govindappa,26/A,67,Male
+10,78,SOH1002106,Usha Naik,Husbands Name: Jotheeswaran Naik,26,80,Female
+10,79,SOH1002133,Shekhar Poojari,Fathers Name: Puttaswamy Poojari,27,25,Male
+10,80,SOH1002160,Shivangini Singh,Fathers Name: Suresh Singh,27,38,Female
+10,81,SOH1002187,Subhash Sharma,Fathers Name: Shiva Kumar Sharma,27,51,Male
+10,82,SOH1002214,Mamatha Mazumder,Fathers Name: Anudeep Mazumder,28,64,Female
+10,83,SOH1002241,Vinay Kumar Bhat,Fathers Name: Manjunath Bhat,28,77,Male
+10,84,SOH1002268,Bhuvaneshwari Bose,Husbands Name: Ajay Bose,28,22,Female
+10,85,SOH1002295,Manjunath Mallik,Fathers Name: Praveen Mallik,29-B,35,Male
+10,86,SOH1002322,Divya Patel,Fathers Name: Vijay Patel,29,48,Female
+10,87,SOH1002349,Babu Rajanna,Fathers Name: Ravi Rajanna,29,61,Male
+10,88,SOH1002376,Deepa Keshava,Fathers Name: Sabari Keshava,30/A,74,Female
+10,89,SOH1002403,Nithin Pasha,Fathers Name: Pradeep Pasha,30,19,Male
+10,90,SOH1002430,Lavanya Chakravarthi,Husbands Name: Gopal Chakravarthi,30,32,Female
+10,91,SOH1002457,Sridhar Murthy,Fathers Name: Rahul Murthy,31,45,Male
+10,92,SOH1002484,Jeevitha Koppal,Fathers Name: Raghavendra Koppal,31,58,Female
+10,93,SOH1002511,Samir Vishwanath,Fathers Name: Nagesh Vishwanath,31,71,Male
+10,94,SOH1002538,Shenega Menon,Fathers Name: Nithin Menon,32,84,Female
+10,95,SOH1002565,Ramesh Bairi,Fathers Name: Prakash Bairi,32,29,Male
+10,96,SOH1002592,Sunitha Kulkarni,Husbands Name: Muniswamy Kulkarni,32,42,Female
+10,97,SOH1002619,Dhanush Gupta,Fathers Name: Varun Gupta,33,55,Male
+10,98,SOH1002646,Hemalatha Devanna,Fathers Name: Santosh Devanna,33,68,Female
+10,99,SOH1002673,Sabari Pai,Fathers Name: Goutham Pai,33/A,81,Male
+10,100,SOH1002700,Renuka Reddy,Fathers Name: Shekhar Reddy,34,26,Female
+10,101,SOH1002727,Mohan Dixit,Fathers Name: Chandan Dixit,34,39,Male
+10,102,SOH1002754,Drakshayini Iyengar,Husbands Name: Mahalingaiah Iyengar,34-B,52,Female
+10,103,SOH1002781,Goutham Shivanna,Fathers Name: Sagar Shivanna,35,65,Male
+10,104,SOH1002808,Ambika Gowda,Fathers Name: Harish Gowda,35,78,Female
+10,105,SOH1002835,Naveen Jain,Fathers Name: Samir Jain,35,23,Male
+10,106,SOH1002862,Pallavi Ramanujom,Fathers Name: Rupesh Ramanujom,36,36,Female
+10,107,SOH1002889,Ravindra Nayak,Fathers Name: Mahesh Nayak,36,49,Male
+10,108,SOH1002916,Prerna Balaji,Husbands Name: Chakravarthi Balaji,36,62,Female
+10,109,SOH1002943,Anudeep Nivas,Fathers Name: Siddarth Nivas,37,75,Male
+10,110,SOH1002970,Nandhitha Babu,Fathers Name: Ravindra Babu,37/A,20,Female
+10,111,SOH1002997,Anand Kumar,Fathers Name: Vinay Kumar Kumar,37,33,Male
+10,112,SOH1003024,Indrira Rao,Fathers Name: Dinesh Rao,38,46,Female
+10,113,SOH1003051,Nagesh Dhanush,Fathers Name: Allwyn Dhanush,38,59,Male
+10,114,SOH1003078,Pramila Kamath,Husbands Name: Srinivas Kamath,38,72,Female
+10,115,SOH1003105,Mohanraj Joshi,Fathers Name: Girish Joshi,39,85,Male
+10,116,SOH1003132,Savitha Shetty,Fathers Name: Dhanush Shetty,39,30,Female
+10,117,SOH1003159,Harish Puranik,Fathers Name: Tejas Puranik,39,43,Male
+10,118,SOH1003186,Asha Khan,Fathers Name: Venkatesh Khan,40,56,Female
+10,119,SOH1003213,Shashi Kumar Ramesh,Fathers Name: Aman Ramesh,40-B,69,Male
+10,120,SOH1003240,Grace Hegde,Husbands Name: Parikshith Hegde,40,82,Female
+10,121,SOH1003267,Girish Acharya,Fathers Name: Anand Acharya,41/A,27,Male
+10,122,SOH1003294,Pushpa Eshwaran,Fathers Name: Babu Eshwaran,41,40,Female
+10,123,SOH1003321,Ravi Nair,Fathers Name: Srivatsa Nair,41,53,Male
+10,124,SOH1003348,Spandana Prasad,Fathers Name: Kiran Prasad,42,66,Female
+10,125,SOH1003375,Lokesh Deshpande,Fathers Name: Kishore Deshpande,42,79,Male
+10,126,SOH1003402,Roopashree Mishra,Husbands Name: Lokesh Mishra,42,24,Female
+10,127,SOH1003429,Santosh Govindappa,Fathers Name: Mohan Govindappa,43,37,Male
+10,128,SOH1003456,Jyothi Naik,Fathers Name: Dilip Naik,43,50,Female
+10,129,SOH1003483,Arun Prasad Poojari,Fathers Name: Kenchi Reddy Poojari,43,63,Male
+10,130,SOH1003510,Kusuma Singh,Fathers Name: Sunil Singh,44,76,Female
+10,131,SOH1003537,Siddarth Sharma,Fathers Name: Balaji Sharma,44,21,Male
+10,132,SOH1003564,Pooja Mazumder,Husbands Name: Mohanraj Mazumder,44/A,34,Female
+10,133,SOH1003591,Shiva Kumar Bhat,Fathers Name: Sridhar Bhat,45,47,Male
+10,134,SOH1003618,Rathna Bose,Fathers Name: Musthapha Bose,45,60,Female
+10,135,SOH1003645,Parikshith Mallik,Fathers Name: Ashok Mallik,45,73,Male
+10,136,SOH1003672,Aishwarya Patel,Fathers Name: Prashanth Patel,46-B,18,Female
+10,137,SOH1003699,Raghavendra Rajanna,Fathers Name: Arun Prasad Rajanna,46,31,Male
+10,138,SOH1003726,Anuradha Keshava,Husbands Name: Naveen Keshava,46,44,Female
+10,139,SOH1003753,Balaji Pasha,Fathers Name: Subhash Pasha,47,57,Male
+10,140,SOH1003780,Poonam Chakravarthi,Fathers Name: Nicholas Chakravarthi,47,70,Female
+10,141,SOH1003807,Sagar Murthy,Fathers Name: Manikanta Murthy,47,83,Male
+10,142,SOH1003834,Mahadevamma Koppal,Fathers Name: Sathish Koppal,48,28,Female
+10,143,SOH1003861,Sathish Vishwanath,Fathers Name: Shashi Kumar Vishwanath,48/A,41,Male
+10,144,SOH1003888,Shobha Menon,Husbands Name: Ramesh Menon,48,54,Female
+10,145,SOH1003915,Srinivas Bairi,Fathers Name: Jotheeswaran Bairi,49,67,Male
+10,146,SOH1003942,Chethana Kulkarni,Fathers Name: Puttaswamy Kulkarni,49,80,Female
+10,147,SOH1003969,Vijay Gupta,Fathers Name: Suresh Gupta,49,25,Male
+10,148,SOH1003996,Gayathri Devanna,Fathers Name: Shiva Kumar Devanna,50,38,Female
+10,149,SOH1004023,Kishore Pai,Fathers Name: Anudeep Pai,50,51,Male
+10,150,SOH1004050,Suchithra Reddy,Husbands Name: Manjunath Reddy,50,64,Female
+10,151,SOH1004077,Varun Dixit,Fathers Name: Ajay Dixit,51,77,Male
+10,152,SOH1004104,Geetha Iyengar,Fathers Name: Praveen Iyengar,51,22,Female
+10,153,SOH1004131,Prashanth Shivanna,Fathers Name: Vijay Shivanna,51-B,35,Male
+10,154,SOH1004158,Bina Gowda,Fathers Name: Ravi Gowda,52/A,48,Female
+10,155,SOH1004185,Chakravarthi Jain,Fathers Name: Sabari Jain,52,61,Male
+10,156,SOH1004212,Radha Ramanujom,Husbands Name: Pradeep Ramanujom,52,74,Female
+10,157,SOH1004239,Suresh Nayak,Fathers Name: Gopal Nayak,53,19,Male
+10,158,SOH1004266,Bhaggamma Balaji,Fathers Name: Rahul Balaji,53,32,Female
+10,159,SOH1004293,Aman Nivas,Fathers Name: Raghavendra Nivas,53,45,Male
+10,160,SOH1004320,Lakshmi Babu,Fathers Name: Nagesh Babu,54,58,Female
+10,161,SOH1004347,Rahul Kumar,Fathers Name: Nithin Kumar,54,71,Male
+10,162,SOH1004374,Shalini Rao,Husbands Name: Prakash Rao,54,84,Female
+10,163,SOH1004401,Sunil Dhanush,Fathers Name: Muniswamy Dhanush,55,29,Male
+10,164,SOH1004428,Shylaja Kamath,Fathers Name: Varun Kamath,55,42,Female
+10,165,SOH1004455,Mahalingaiah Joshi,Fathers Name: Santosh Joshi,55/A,55,Male
+10,166,SOH1004482,Devi Shetty,Fathers Name: Goutham Shetty,56,68,Female
+10,167,SOH1004509,Manikanta Puranik,Fathers Name: Shekhar Puranik,56,81,Male
+10,168,SOH1004536,Savithri Khan,Husbands Name: Chandan Khan,56,26,Female
+10,169,SOH1004563,Allwyn Ramesh,Fathers Name: Mahalingaiah Ramesh,57,39,Male
+10,170,SOH1004590,Thamarai Hegde,Fathers Name: Sagar Hegde,57-B,52,Female
+10,171,SOH1004617,Praveen Acharya,Fathers Name: Harish Acharya,57,65,Male
+10,172,SOH1004644,Sunitha Eshwaran,Fathers Name: Samir Eshwaran,58,78,Female
+10,173,SOH1004671,Kiran Nair,Fathers Name: Rupesh Nair,58,23,Male
+10,174,SOH1004698,Pragathi Prasad,Husbands Name: Mahesh Prasad,58,36,Female
+10,175,SOH1004725,Muniswamy Deshpande,Fathers Name: Chakravarthi Deshpande,59,49,Male
+10,176,SOH1004752,Kavitha Mishra,Fathers Name: Siddarth Mishra,59/A,62,Female
+10,177,SOH1004779,Ashok Govindappa,Fathers Name: Ravindra Govindappa,59,75,Male
+10,178,SOH1004806,Rasika Naik,Fathers Name: Vinay Kumar Naik,60,20,Female
+10,179,SOH1004833,Mahesh Poojari,Fathers Name: Dinesh Poojari,60,33,Male
+10,180,SOH1004860,Manjula Singh,Husbands Name: Allwyn Singh,60,46,Female
+10,181,SOH1004887,Puttaswamy Sharma,Fathers Name: Srinivas Sharma,61,59,Male
+10,182,SOH1004914,Subhitha Mazumder,Fathers Name: Girish Mazumder,61,72,Female
+10,183,SOH1004941,Venkatesh Bhat,Fathers Name: Dhanush Bhat,61,85,Male
+10,184,SOH1004968,Sowmya Bose,Fathers Name: Tejas Bose,62,30,Female
+10,185,SOH1004995,Gopal Mallik,Fathers Name: Venkatesh Mallik,62,43,Male
+10,186,SOH1005022,Savitha Patel,Husbands Name: Aman Patel,62,56,Female
+10,187,SOH1005049,Kenchi Reddy Rajanna,Fathers Name: Parikshith Rajanna,63/A,69,Male
+10,188,SOH1005076,Roopa Keshava,Fathers Name: Anand Keshava,63,82,Female
+10,189,SOH1005103,Chandan Pasha,Fathers Name: Babu Pasha,63,27,Male
+10,190,SOH1005130,Bharathi Chakravarthi,Fathers Name: Srivatsa Chakravarthi,64,40,Female
+10,191,SOH1005157,Nicholas Murthy,Fathers Name: Kiran Murthy,64,53,Male
+10,192,SOH1005184,Anitha Koppal,Husbands Name: Kishore Koppal,64,66,Female
+10,193,SOH1005211,Dinesh Vishwanath,Fathers Name: Lokesh Vishwanath,65,79,Male
+10,194,SOH1005238,Kamala Menon,Fathers Name: Mohan Menon,65,24,Female
+10,195,SOH1005265,Ajay Bairi,Fathers Name: Dilip Bairi,65,37,Male
+10,196,SOH1005292,Bhavani Kulkarni,Fathers Name: Kenchi Reddy Kulkarni,66,50,Female
+10,197,SOH1005319,Srivatsa Gupta,Fathers Name: Sunil Gupta,66,63,Male
+10,198,SOH1005346,Ambamma Devanna,Husbands Name: Balaji Devanna,66/A,76,Female
+10,199,SOH1005373,Prakash Pai,Fathers Name: Mohanraj Pai,67,21,Male
+10,200,SOH1005400,Meena Reddy,Fathers Name: Sridhar Reddy,67,34,Female
+10,201,SOH1005427,Musthapha Dixit,Fathers Name: Musthapha Dixit,67,47,Male
+10,202,SOH1005454,Padma Iyengar,Fathers Name: Ashok Iyengar,68,60,Female
+10,203,SOH1005481,Rupesh Shivanna,Fathers Name: Prashanth Shivanna,68,73,Male
+10,204,SOH1005508,Vidya Gowda,Husbands Name: Arun Prasad Gowda,68-B,18,Female
+10,205,SOH1005535,Jotheeswaran Jain,Fathers Name: Naveen Jain,69,31,Male
+10,206,SOH1005562,Meghana Ramanujom,Fathers Name: Subhash Ramanujom,69,44,Female
+10,207,SOH1005589,Tejas Nayak,Fathers Name: Nicholas Nayak,69,57,Male
+10,208,SOH1005616,Rekha Balaji,Fathers Name: Manikanta Balaji,70,70,Female
+10,209,SOH1005643,Pradeep Nivas,Fathers Name: Sathish Nivas,70/A,83,Male
+10,210,SOH1005670,Pavani Babu,Husbands Name: Shashi Kumar Babu,70,28,Female
+10,211,SOH1005697,Dilip Kumar,Fathers Name: Ramesh Kumar,71,41,Male
+10,212,SOH1005724,Usha Rao,Fathers Name: Jotheeswaran Rao,71,54,Female
+10,213,SOH1005751,Shekhar Dhanush,Fathers Name: Puttaswamy Dhanush,71,67,Male
+10,214,SOH1005778,Shivangini Kamath,Fathers Name: Suresh Kamath,72,80,Female
+10,215,SOH1005805,Subhash Joshi,Fathers Name: Shiva Kumar Joshi,72,25,Male
+10,216,SOH1005832,Mamatha Shetty,Husbands Name: Anudeep Shetty,72,38,Female
+10,217,SOH1005859,Vinay Kumar Puranik,Fathers Name: Manjunath Puranik,73,51,Male
+10,218,SOH1005886,Bhuvaneshwari Khan,Fathers Name: Ajay Khan,73,64,Female
+10,219,SOH1005913,Manjunath Ramesh,Fathers Name: Praveen Ramesh,73,77,Male
+10,220,SOH1005940,Divya Hegde,Fathers Name: Vijay Hegde,74/A,22,Female
+10,221,SOH1005967,Babu Acharya,Fathers Name: Ravi Acharya,74-B,35,Male
+10,222,SOH1005994,Deepa Eshwaran,Husbands Name: Sabari Eshwaran,74,48,Female
+10,223,SOH1006021,Nithin Nair,Fathers Name: Pradeep Nair,75,61,Male
+10,224,SOH1006048,Lavanya Prasad,Fathers Name: Gopal Prasad,75,74,Female
+10,225,SOH1006075,Sridhar Deshpande,Fathers Name: Rahul Deshpande,75,19,Male
+10,226,SOH1006102,Jeevitha Mishra,Fathers Name: Raghavendra Mishra,76,32,Female
+10,227,SOH1006129,Samir Govindappa,Fathers Name: Nagesh Govindappa,76,45,Male
+10,228,SOH1006156,Shenega Naik,Husbands Name: Nithin Naik,76,58,Female
+10,229,SOH1006183,Ramesh Poojari,Fathers Name: Prakash Poojari,77,71,Male
+10,230,SOH1006210,Sunitha Singh,Fathers Name: Muniswamy Singh,77,84,Female
+10,231,SOH1006237,Dhanush Sharma,Fathers Name: Varun Sharma,77/A,29,Male
+10,232,SOH1006264,Hemalatha Mazumder,Fathers Name: Santosh Mazumder,78,42,Female
+10,233,SOH1006291,Sabari Bhat,Fathers Name: Goutham Bhat,78,55,Male
+10,234,SOH1006318,Renuka Bose,Husbands Name: Shekhar Bose,78,68,Female
+10,235,SOH1006345,Mohan Mallik,Fathers Name: Chandan Mallik,79,81,Male
+10,236,SOH1006372,Drakshayini Patel,Fathers Name: Mahalingaiah Patel,79,26,Female
+10,237,SOH1006399,Goutham Rajanna,Fathers Name: Sagar Rajanna,79,39,Male
+10,238,SOH1006426,Ambika Keshava,Fathers Name: Harish Keshava,80-B,52,Female
+10,239,SOH1006453,Naveen Pasha,Fathers Name: Samir Pasha,80,65,Male
+10,240,SOH1006480,Pallavi Chakravarthi,Husbands Name: Rupesh Chakravarthi,80,78,Female
+10,241,SOH1006507,Ravindra Murthy,Fathers Name: Mahesh Murthy,81,23,Male
+10,242,SOH1006534,Prerna Koppal,Fathers Name: Chakravarthi Koppal,81/A,36,Female
+10,243,SOH1006561,Anudeep Vishwanath,Fathers Name: Siddarth Vishwanath,81,49,Male
+10,244,SOH1006588,Nandhitha Menon,Fathers Name: Ravindra Menon,82,62,Female
+10,245,SOH1006615,Anand Bairi,Fathers Name: Vinay Kumar Bairi,82,75,Male
+10,246,SOH1006642,Indrira Kulkarni,Husbands Name: Dinesh Kulkarni,82,20,Female
+10,247,SOH1006669,Nagesh Gupta,Fathers Name: Allwyn Gupta,83,33,Male
+10,248,SOH1006696,Pramila Devanna,Fathers Name: Srinivas Devanna,83,46,Female
+10,249,SOH1006723,Mohanraj Pai,Fathers Name: Girish Pai,83,59,Male
+10,250,SOH1006750,Savitha Reddy,Fathers Name: Dhanush Reddy,84,72,Female
+10,251,SOH1006777,Harish Dixit,Fathers Name: Tejas Dixit,84,85,Male
+10,252,SOH1006804,Asha Iyengar,Husbands Name: Venkatesh Iyengar,84,30,Female
+10,253,SOH1006831,Shashi Kumar Shivanna,Fathers Name: Aman Shivanna,85/A,43,Male
+10,254,SOH1006858,Grace Gowda,Fathers Name: Parikshith Gowda,85,56,Female
+10,255,SOH1006885,Girish Jain,Fathers Name: Anand Jain,85-B,69,Male
+10,256,SOH1006912,Pushpa Ramanujom,Fathers Name: Babu Ramanujom,86,82,Female
+10,257,SOH1006939,Ravi Nayak,Fathers Name: Srivatsa Nayak,86,27,Male
+10,258,SOH1006966,Spandana Balaji,Husbands Name: Kiran Balaji,86,40,Female
+10,259,SOH1006993,Lokesh Nivas,Fathers Name: Kishore Nivas,87,53,Male
+10,260,SOH1007020,Roopashree Babu,Fathers Name: Lokesh Babu,87,66,Female
+10,261,SOH1007047,Santosh Kumar,Fathers Name: Mohan Kumar,87,79,Male
+10,262,SOH1007074,Jyothi Rao,Fathers Name: Dilip Rao,88,24,Female
+10,263,SOH1007101,Arun Prasad Dhanush,Fathers Name: Kenchi Reddy Dhanush,88,37,Male
+10,264,SOH1007128,Kusuma Kamath,Husbands Name: Sunil Kamath,88/A,50,Female
+10,265,SOH1007155,Siddarth Joshi,Fathers Name: Balaji Joshi,89,63,Male
+10,266,SOH1007182,Pooja Shetty,Fathers Name: Mohanraj Shetty,89,76,Female
+10,267,SOH1007209,Shiva Kumar Puranik,Fathers Name: Sridhar Puranik,89,21,Male
+10,268,SOH1007236,Rathna Khan,Fathers Name: Musthapha Khan,90,34,Female
+10,269,SOH1007263,Parikshith Ramesh,Fathers Name: Ashok Ramesh,90,47,Male
+10,270,SOH1007290,Aishwarya Hegde,Husbands Name: Prashanth Hegde,90,60,Female
+10,271,SOH1007317,Raghavendra Acharya,Fathers Name: Arun Prasad Acharya,91,73,Male
+10,272,SOH1007344,Anuradha Eshwaran,Fathers Name: Naveen Eshwaran,91-B,18,Female
+10,273,SOH1007371,Balaji Nair,Fathers Name: Subhash Nair,91,31,Male
+10,274,SOH1007398,Poonam Prasad,Fathers Name: Nicholas Prasad,92,44,Female
+10,275,SOH1007425,Sagar Deshpande,Fathers Name: Manikanta Deshpande,92/A,57,Male
+10,276,SOH1007452,Mahadevamma Mishra,Husbands Name: Sathish Mishra,92,70,Female
+10,277,SOH1007479,Sathish Govindappa,Fathers Name: Shashi Kumar Govindappa,93,83,Male
+10,278,SOH1007506,Shobha Naik,Fathers Name: Ramesh Naik,93,28,Female
+10,279,SOH1007533,Srinivas Poojari,Fathers Name: Jotheeswaran Poojari,93,41,Male
+10,280,SOH1007560,Chethana Singh,Fathers Name: Puttaswamy Singh,94,54,Female
+10,281,SOH1007587,Vijay Sharma,Fathers Name: Suresh Sharma,94,67,Male
+10,282,SOH1007614,Gayathri Mazumder,Husbands Name: Shiva Kumar Mazumder,94,80,Female
+10,283,SOH1007641,Kishore Bhat,Fathers Name: Anudeep Bhat,95,25,Male
+10,284,SOH1007668,Suchithra Bose,Fathers Name: Manjunath Bose,95,38,Female
+10,285,SOH1007695,Varun Mallik,Fathers Name: Ajay Mallik,95,51,Male
+10,286,SOH1007722,Geetha Patel,Fathers Name: Praveen Patel,96/A,64,Female
+10,287,SOH1007749,Prashanth Rajanna,Fathers Name: Vijay Rajanna,96,77,Male
+10,288,SOH1007776,Bina Keshava,Husbands Name: Ravi Keshava,96,22,Female
+10,289,SOH1007803,Chakravarthi Pasha,Fathers Name: Sabari Pasha,97-B,35,Male
+10,290,SOH1007830,Radha Chakravarthi,Fathers Name: Pradeep Chakravarthi,97,48,Female
+10,291,SOH1007857,Suresh Murthy,Fathers Name: Gopal Murthy,97,61,Male
+10,292,SOH1007884,Bhaggamma Koppal,Fathers Name: Rahul Koppal,98,74,Female
+10,293,SOH1007911,Aman Vishwanath,Fathers Name: Raghavendra Vishwanath,98,19,Male
+10,294,SOH1007938,Lakshmi Menon,Husbands Name: Nagesh Menon,98,32,Female
+10,295,SOH1007965,Rahul Bairi,Fathers Name: Nithin Bairi,99,45,Male
+10,296,SOH1007992,Shalini Kulkarni,Fathers Name: Prakash Kulkarni,99,58,Female
+10,297,SOH1008019,Sunil Gupta,Fathers Name: Muniswamy Gupta,99/A,71,Male
+10,298,SOH1008046,Shylaja Devanna,Fathers Name: Varun Devanna,100,84,Female
+10,299,SOH1008073,Mahalingaiah Pai,Fathers Name: Santosh Pai,100,29,Male
+10,300,SOH1008100,Devi Reddy,Husbands Name: Goutham Reddy,100,42,Female
+10,301,SOH1008127,Manikanta Dixit,Fathers Name: Shekhar Dixit,101,55,Male
+10,302,SOH1008154,Savithri Iyengar,Fathers Name: Chandan Iyengar,101,68,Female
+10,303,SOH1008181,Allwyn Shivanna,Fathers Name: Mahalingaiah Shivanna,101,81,Male
+10,304,SOH1008208,Thamarai Gowda,Fathers Name: Sagar Gowda,102,26,Female
+10,305,SOH1008235,Praveen Jain,Fathers Name: Harish Jain,102,39,Male
+10,306,SOH1008262,Sunitha Ramanujom,Husbands Name: Samir Ramanujom,102-B,52,Female
+10,307,SOH1008289,Kiran Nayak,Fathers Name: Rupesh Nayak,103,65,Male
+10,308,SOH1008316,Pragathi Balaji,Fathers Name: Mahesh Balaji,103/A,78,Female
+10,309,SOH1008343,Muniswamy Nivas,Fathers Name: Chakravarthi Nivas,103,23,Male
+10,310,SOH1008370,Kavitha Babu,Fathers Name: Siddarth Babu,104,36,Female
+10,311,SOH1008397,Ashok Kumar,Fathers Name: Ravindra Kumar,104,49,Male
+10,312,SOH1008424,Rasika Rao,Husbands Name: Vinay Kumar Rao,104,62,Female
+10,313,SOH1008451,Mahesh Dhanush,Fathers Name: Dinesh Dhanush,105,75,Male
+10,314,SOH1008478,Manjula Kamath,Fathers Name: Allwyn Kamath,105,20,Female
+10,315,SOH1008505,Puttaswamy Joshi,Fathers Name: Srinivas Joshi,105,33,Male
+10,316,SOH1008532,Subhitha Shetty,Fathers Name: Girish Shetty,106,46,Female
+10,317,SOH1008559,Venkatesh Puranik,Fathers Name: Dhanush Puranik,106,59,Male
+10,318,SOH1008586,Sowmya Khan,Husbands Name: Tejas Khan,106,72,Female
+10,319,SOH1008613,Gopal Ramesh,Fathers Name: Venkatesh Ramesh,107/A,85,Male
+10,320,SOH1008640,Savitha Hegde,Fathers Name: Aman Hegde,107,30,Female
+10,321,SOH1008667,Kenchi Reddy Acharya,Fathers Name: Parikshith Acharya,107,43,Male
+10,322,SOH1008694,Roopa Eshwaran,Fathers Name: Anand Eshwaran,108,56,Female
+10,323,SOH1008721,Chandan Nair,Fathers Name: Babu Nair,108-B,69,Male
+10,324,SOH1008748,Bharathi Prasad,Husbands Name: Srivatsa Prasad,108,82,Female
+10,325,SOH1008775,Nicholas Deshpande,Fathers Name: Kiran Deshpande,109,27,Male
+10,326,SOH1008802,Anitha Mishra,Fathers Name: Kishore Mishra,109,40,Female
+10,327,SOH1008829,Dinesh Govindappa,Fathers Name: Lokesh Govindappa,109,53,Male
+10,328,SOH1008856,Kamala Naik,Fathers Name: Mohan Naik,110,66,Female
+10,329,SOH1008883,Ajay Poojari,Fathers Name: Dilip Poojari,110,79,Male
+10,330,SOH1008910,Bhavani Singh,Husbands Name: Kenchi Reddy Singh,110/A,24,Female
+10,331,SOH1008937,Srivatsa Sharma,Fathers Name: Sunil Sharma,111,37,Male
+10,332,SOH1008964,Ambamma Mazumder,Fathers Name: Balaji Mazumder,111,50,Female
+10,333,SOH1008991,Prakash Bhat,Fathers Name: Mohanraj Bhat,111,63,Male
+10,334,SOH1009018,Meena Bose,Fathers Name: Sridhar Bose,112,76,Female
+10,335,SOH1009045,Musthapha Mallik,Fathers Name: Musthapha Mallik,112,21,Male
+10,336,SOH1009072,Padma Patel,Husbands Name: Ashok Patel,112,34,Female
+10,337,SOH1009099,Rupesh Rajanna,Fathers Name: Prashanth Rajanna,113,47,Male
+10,338,SOH1009126,Vidya Keshava,Fathers Name: Arun Prasad Keshava,113,60,Female
+10,339,SOH1009153,Jotheeswaran Pasha,Fathers Name: Naveen Pasha,113,73,Male
+10,340,SOH1009180,Meghana Chakravarthi,Fathers Name: Subhash Chakravarthi,114-B,18,Female
+10,341,SOH1009207,Tejas Murthy,Fathers Name: Nicholas Murthy,114/A,31,Male
+10,342,SOH1009234,Rekha Koppal,Husbands Name: Manikanta Koppal,114,44,Female
+10,343,SOH1009261,Pradeep Vishwanath,Fathers Name: Sathish Vishwanath,115,57,Male
+10,344,SOH1009288,Pavani Menon,Fathers Name: Shashi Kumar Menon,115,70,Female
+10,345,SOH1009315,Dilip Bairi,Fathers Name: Ramesh Bairi,115,83,Male
+10,346,SOH1009342,Usha Kulkarni,Fathers Name: Jotheeswaran Kulkarni,116,28,Female
+10,347,SOH1009369,Shekhar Gupta,Fathers Name: Puttaswamy Gupta,116,41,Male
+10,348,SOH1009396,Shivangini Devanna,Husbands Name: Suresh Devanna,116,54,Female
+10,349,SOH1009423,Subhash Pai,Fathers Name: Shiva Kumar Pai,117,67,Male
+10,350,SOH1009450,Mamatha Reddy,Fathers Name: Anudeep Reddy,117,80,Female
+10,351,SOH1009477,Vinay Kumar Dixit,Fathers Name: Manjunath Dixit,117,25,Male
+10,352,SOH1009504,Bhuvaneshwari Iyengar,Fathers Name: Ajay Iyengar,118/A,38,Female
+10,353,SOH1009531,Manjunath Shivanna,Fathers Name: Praveen Shivanna,118,51,Male
+10,354,SOH1009558,Divya Gowda,Husbands Name: Vijay Gowda,118,64,Female
+10,355,SOH1009585,Babu Jain,Fathers Name: Ravi Jain,119,77,Male
+10,356,SOH1009612,Deepa Ramanujom,Fathers Name: Sabari Ramanujom,119,22,Female
+10,357,SOH1009639,Nithin Nayak,Fathers Name: Pradeep Nayak,119-B,35,Male
+10,358,SOH1009666,Lavanya Balaji,Fathers Name: Gopal Balaji,120,48,Female
+10,359,SOH1009693,Sridhar Nivas,Fathers Name: Rahul Nivas,120,61,Male
+10,360,SOH1009720,Jeevitha Babu,Husbands Name: Raghavendra Babu,120,74,Female
+10,361,SOH1009747,Samir Kumar,Fathers Name: Nagesh Kumar,121,19,Male
+10,362,SOH1009774,Shenega Rao,Fathers Name: Nithin Rao,121,32,Female
+10,363,SOH1009801,Ramesh Dhanush,Fathers Name: Prakash Dhanush,121/A,45,Male
+10,364,SOH1009828,Sunitha Kamath,Fathers Name: Muniswamy Kamath,122,58,Female
+10,365,SOH1009855,Dhanush Joshi,Fathers Name: Varun Joshi,122,71,Male
+10,366,SOH1009882,Hemalatha Shetty,Husbands Name: Santosh Shetty,122,84,Female
+10,367,SOH1009909,Sabari Puranik,Fathers Name: Goutham Puranik,123,29,Male
+10,368,SOH1009936,Renuka Khan,Fathers Name: Shekhar Khan,123,42,Female
+10,369,SOH1009963,Mohan Ramesh,Fathers Name: Chandan Ramesh,123,55,Male
+10,370,SOH1009990,Drakshayini Hegde,Fathers Name: Mahalingaiah Hegde,124,68,Female
+10,371,SOH1010017,Goutham Acharya,Fathers Name: Sagar Acharya,124,81,Male
+10,372,SOH1010044,Ambika Eshwaran,Husbands Name: Harish Eshwaran,124,26,Female
+10,373,SOH1010071,Naveen Nair,Fathers Name: Samir Nair,125,39,Male
+10,374,SOH1010098,Pallavi Prasad,Fathers Name: Rupesh Prasad,125/A,52,Female
+10,375,SOH1010125,Ravindra Deshpande,Fathers Name: Mahesh Deshpande,125,65,Male
+10,376,SOH1010152,Prerna Mishra,Fathers Name: Chakravarthi Mishra,126,78,Female
+10,377,SOH1010179,Anudeep Govindappa,Fathers Name: Siddarth Govindappa,126,23,Male
+10,378,SOH1010206,Nandhitha Naik,Husbands Name: Ravindra Naik,126,36,Female
+10,379,SOH1010233,Anand Poojari,Fathers Name: Vinay Kumar Poojari,127,49,Male
+10,380,SOH1010260,Indrira Singh,Fathers Name: Dinesh Singh,127,62,Female
+10,381,SOH1010287,Nagesh Sharma,Fathers Name: Allwyn Sharma,127,75,Male
+10,382,SOH1010314,Pramila Mazumder,Fathers Name: Srinivas Mazumder,128,20,Female
+10,383,SOH1010341,Mohanraj Bhat,Fathers Name: Girish Bhat,128,33,Male
+10,384,SOH1010368,Savitha Bose,Husbands Name: Dhanush Bose,128,46,Female
+10,385,SOH1010395,Harish Mallik,Fathers Name: Tejas Mallik,129/A,59,Male
+10,386,SOH1010422,Asha Patel,Fathers Name: Venkatesh Patel,129,72,Female
+10,387,SOH1010449,Shashi Kumar Rajanna,Fathers Name: Aman Rajanna,129,85,Male
+10,388,SOH1010476,Grace Keshava,Fathers Name: Parikshith Keshava,130,30,Female
+10,389,SOH1010503,Girish Pasha,Fathers Name: Anand Pasha,130,43,Male
+10,390,SOH1010530,Pushpa Chakravarthi,Husbands Name: Babu Chakravarthi,130,56,Female
+10,391,SOH1010557,Ravi Murthy,Fathers Name: Srivatsa Murthy,131-B,69,Male
+10,392,SOH1010584,Spandana Koppal,Fathers Name: Kiran Koppal,131,82,Female
+10,393,SOH1010611,Lokesh Vishwanath,Fathers Name: Kishore Vishwanath,131,27,Male
+10,394,SOH1010638,Roopashree Menon,Fathers Name: Lokesh Menon,132,40,Female
+10,395,SOH1010665,Santosh Bairi,Fathers Name: Mohan Bairi,132,53,Male
+10,396,SOH1010692,Jyothi Kulkarni,Husbands Name: Dilip Kulkarni,132/A,66,Female
+10,397,SOH1010719,Arun Prasad Gupta,Fathers Name: Kenchi Reddy Gupta,133,79,Male
+10,398,SOH1010746,Kusuma Devanna,Fathers Name: Sunil Devanna,133,24,Female
+10,399,SOH1010773,Siddarth Pai,Fathers Name: Balaji Pai,133,37,Male
+10,400,SOH1010800,Pooja Reddy,Fathers Name: Mohanraj Reddy,134,50,Female
+10,401,SOH1010827,Shiva Kumar Dixit,Fathers Name: Sridhar Dixit,134,63,Male
+10,402,SOH1010854,Rathna Iyengar,Husbands Name: Musthapha Iyengar,134,76,Female
+10,403,SOH1010881,Parikshith Shivanna,Fathers Name: Ashok Shivanna,135,21,Male
+10,404,SOH1010908,Aishwarya Gowda,Fathers Name: Prashanth Gowda,135,34,Female
+10,405,SOH1010935,Raghavendra Jain,Fathers Name: Arun Prasad Jain,135,47,Male
+10,406,SOH1010962,Anuradha Ramanujom,Fathers Name: Naveen Ramanujom,136,60,Female
+10,407,SOH1010989,Balaji Nayak,Fathers Name: Subhash Nayak,136/A,73,Male
+10,408,SOH1011016,Poonam Balaji,Husbands Name: Nicholas Balaji,136-B,18,Female
+10,409,SOH1011043,Sagar Nivas,Fathers Name: Manikanta Nivas,137,31,Male
+10,410,SOH1011070,Mahadevamma Babu,Fathers Name: Sathish Babu,137,44,Female
+10,411,SOH1011097,Sathish Kumar,Fathers Name: Shashi Kumar Kumar,137,57,Male
+10,412,SOH1011124,Shobha Rao,Fathers Name: Ramesh Rao,138,70,Female
+10,413,SOH1011151,Srinivas Dhanush,Fathers Name: Jotheeswaran Dhanush,138,83,Male
+10,414,SOH1011178,Chethana Kamath,Husbands Name: Puttaswamy Kamath,138,28,Female
+10,415,SOH1011205,Vijay Joshi,Fathers Name: Suresh Joshi,139,41,Male
+10,416,SOH1011232,Gayathri Shetty,Fathers Name: Shiva Kumar Shetty,139,54,Female
+10,417,SOH1011259,Kishore Puranik,Fathers Name: Anudeep Puranik,139,67,Male
+10,418,SOH1011286,Suchithra Khan,Fathers Name: Manjunath Khan,140/A,80,Female
+10,419,SOH1011313,Varun Ramesh,Fathers Name: Ajay Ramesh,140,25,Male
+10,420,SOH1011340,Geetha Hegde,Husbands Name: Praveen Hegde,140,38,Female
+10,421,SOH1011367,Prashanth Acharya,Fathers Name: Vijay Acharya,141,51,Male
+10,422,SOH1011394,Bina Eshwaran,Fathers Name: Ravi Eshwaran,141,64,Female
+10,423,SOH1011421,Chakravarthi Nair,Fathers Name: Sabari Nair,141,77,Male
+10,424,SOH1011448,Radha Prasad,Fathers Name: Pradeep Prasad,142,22,Female
+10,425,SOH1011475,Suresh Deshpande,Fathers Name: Gopal Deshpande,142-B,35,Male
+10,426,SOH1011502,Bhaggamma Mishra,Husbands Name: Rahul Mishra,142,48,Female
+10,427,SOH1011529,Aman Govindappa,Fathers Name: Raghavendra Govindappa,143,61,Male
+10,428,SOH1011556,Lakshmi Naik,Fathers Name: Nagesh Naik,143,74,Female
+10,429,SOH1011583,Rahul Poojari,Fathers Name: Nithin Poojari,143/A,19,Male
+10,430,SOH1011610,Shalini Singh,Fathers Name: Prakash Singh,144,32,Female
+10,431,SOH1011637,Sunil Sharma,Fathers Name: Muniswamy Sharma,144,45,Male
+10,432,SOH1011664,Shylaja Mazumder,Husbands Name: Varun Mazumder,144,58,Female
+10,433,SOH1011691,Mahalingaiah Bhat,Fathers Name: Santosh Bhat,145,71,Male
+10,434,SOH1011718,Devi Bose,Fathers Name: Goutham Bose,145,84,Female
+10,435,SOH1011745,Manikanta Mallik,Fathers Name: Shekhar Mallik,145,29,Male
+10,436,SOH1011772,Savithri Patel,Fathers Name: Chandan Patel,146,42,Female
+10,437,SOH1011799,Allwyn Rajanna,Fathers Name: Mahalingaiah Rajanna,146,55,Male
+10,438,SOH1011826,Thamarai Keshava,Husbands Name: Sagar Keshava,146,68,Female
+10,439,SOH1011853,Praveen Pasha,Fathers Name: Harish Pasha,147,81,Male
+10,440,SOH1011880,Sunitha Chakravarthi,Fathers Name: Samir Chakravarthi,147/A,26,Female
+10,441,SOH1011907,Kiran Murthy,Fathers Name: Rupesh Murthy,147,39,Male
+10,442,SOH1011934,Pragathi Koppal,Fathers Name: Mahesh Koppal,148-B,52,Female
+10,443,SOH1011961,Muniswamy Vishwanath,Fathers Name: Chakravarthi Vishwanath,148,65,Male
+10,444,SOH1011988,Kavitha Menon,Husbands Name: Siddarth Menon,148,78,Female
+10,445,SOH1012015,Ashok Bairi,Fathers Name: Ravindra Bairi,149,23,Male
+10,446,SOH1012042,Rasika Kulkarni,Fathers Name: Vinay Kumar Kulkarni,149,36,Female
+10,447,SOH1012069,Mahesh Gupta,Fathers Name: Dinesh Gupta,149,49,Male
+10,448,SOH1012096,Manjula Devanna,Fathers Name: Allwyn Devanna,150,62,Female
+10,449,SOH1012123,Puttaswamy Pai,Fathers Name: Srinivas Pai,150,75,Male
+10,450,SOH1012150,Subhitha Reddy,Husbands Name: Girish Reddy,150,20,Female
+10,451,SOH1012177,Venkatesh Dixit,Fathers Name: Dhanush Dixit,151/A,33,Male
+10,452,SOH1012204,Sowmya Iyengar,Fathers Name: Tejas Iyengar,151,46,Female
+10,453,SOH1012231,Gopal Shivanna,Fathers Name: Venkatesh Shivanna,151,59,Male
+10,454,SOH1012258,Savitha Gowda,Fathers Name: Aman Gowda,152,72,Female
+10,455,SOH1012285,Kenchi Reddy Jain,Fathers Name: Parikshith Jain,152,85,Male
+10,456,SOH1012312,Roopa Ramanujom,Husbands Name: Anand Ramanujom,152,30,Female
+10,457,SOH1012339,Chandan Nayak,Fathers Name: Babu Nayak,153,43,Male
+10,458,SOH1012366,Bharathi Balaji,Fathers Name: Srivatsa Balaji,153,56,Female
+10,459,SOH1012393,Nicholas Nivas,Fathers Name: Kiran Nivas,153-B,69,Male
+10,460,SOH1012420,Anitha Babu,Fathers Name: Kishore Babu,154,82,Female
+10,461,SOH1012447,Dinesh Kumar,Fathers Name: Lokesh Kumar,154,27,Male
+10,462,SOH1012474,Kamala Rao,Husbands Name: Mohan Rao,154/A,40,Female
+10,463,SOH1012501,Ajay Dhanush,Fathers Name: Dilip Dhanush,155,53,Male
+10,464,SOH1012528,Bhavani Kamath,Fathers Name: Kenchi Reddy Kamath,155,66,Female
+10,465,SOH1012555,Srivatsa Joshi,Fathers Name: Sunil Joshi,155,79,Male
+10,466,SOH1012582,Ambamma Shetty,Fathers Name: Balaji Shetty,156,24,Female
+10,467,SOH1012609,Prakash Puranik,Fathers Name: Mohanraj Puranik,156,37,Male
+10,468,SOH1012636,Meena Khan,Husbands Name: Sridhar Khan,156,50,Female
+10,469,SOH1012663,Musthapha Ramesh,Fathers Name: Musthapha Ramesh,157,63,Male
+10,470,SOH1012690,Padma Hegde,Fathers Name: Ashok Hegde,157,76,Female
+10,471,SOH1012717,Rupesh Acharya,Fathers Name: Prashanth Acharya,157,21,Male
+10,472,SOH1012744,Vidya Eshwaran,Fathers Name: Arun Prasad Eshwaran,158,34,Female
+10,473,SOH1012771,Jotheeswaran Nair,Fathers Name: Naveen Nair,158/A,47,Male
+10,474,SOH1012798,Meghana Prasad,Husbands Name: Subhash Prasad,158,60,Female
+10,475,SOH1012825,Tejas Deshpande,Fathers Name: Nicholas Deshpande,159,73,Male
+10,476,SOH1012852,Rekha Mishra,Fathers Name: Manikanta Mishra,159-B,18,Female
+10,477,SOH1012879,Pradeep Govindappa,Fathers Name: Sathish Govindappa,159,31,Male
+10,478,SOH1012906,Pavani Naik,Fathers Name: Shashi Kumar Naik,160,44,Female
+10,479,SOH1012933,Dilip Poojari,Fathers Name: Ramesh Poojari,160,57,Male
+10,480,SOH1012960,Usha Singh,Husbands Name: Jotheeswaran Singh,160,70,Female
+10,481,SOH1012987,Shekhar Sharma,Fathers Name: Puttaswamy Sharma,161,83,Male
+10,482,SOH1013014,Shivangini Mazumder,Fathers Name: Suresh Mazumder,161,28,Female
+10,483,SOH1013041,Subhash Bhat,Fathers Name: Shiva Kumar Bhat,161,41,Male
+10,484,SOH1013068,Mamatha Bose,Fathers Name: Anudeep Bose,162/A,54,Female
+10,485,SOH1013095,Vinay Kumar Mallik,Fathers Name: Manjunath Mallik,162,67,Male
+10,486,SOH1013122,Bhuvaneshwari Patel,Husbands Name: Ajay Patel,162,80,Female
+10,487,SOH1013149,Manjunath Rajanna,Fathers Name: Praveen Rajanna,163,25,Male
+10,488,SOH1013176,Divya Keshava,Fathers Name: Vijay Keshava,163,38,Female
+10,489,SOH1013203,Babu Pasha,Fathers Name: Ravi Pasha,163,51,Male
+10,490,SOH1013230,Deepa Chakravarthi,Fathers Name: Sabari Chakravarthi,164,64,Female
+10,491,SOH1013257,Nithin Murthy,Fathers Name: Pradeep Murthy,164,77,Male
+10,492,SOH1013284,Lavanya Koppal,Husbands Name: Gopal Koppal,164,22,Female
+10,493,SOH1013311,Sridhar Vishwanath,Fathers Name: Rahul Vishwanath,165-B,35,Male
+10,494,SOH1013338,Jeevitha Menon,Fathers Name: Raghavendra Menon,165,48,Female
+10,495,SOH1013365,Samir Bairi,Fathers Name: Nagesh Bairi,165/A,61,Male
+10,496,SOH1013392,Shenega Kulkarni,Fathers Name: Nithin Kulkarni,166,74,Female
+10,497,SOH1013419,Ramesh Gupta,Fathers Name: Prakash Gupta,166,19,Male
+10,498,SOH1013446,Sunitha Devanna,Husbands Name: Muniswamy Devanna,166,32,Female
+10,499,SOH1013473,Dhanush Pai,Fathers Name: Varun Pai,167,45,Male
+10,500,SOH1013500,Hemalatha Reddy,Fathers Name: Santosh Reddy,167,58,Female
+10,501,SOH1013527,Sabari Dixit,Fathers Name: Goutham Dixit,167,71,Male
+10,502,SOH1013554,Renuka Iyengar,Fathers Name: Shekhar Iyengar,168,84,Female
+10,503,SOH1013581,Mohan Shivanna,Fathers Name: Chandan Shivanna,168,29,Male
+10,504,SOH1013608,Drakshayini Gowda,Husbands Name: Mahalingaiah Gowda,168,42,Female
+10,505,SOH1013635,Goutham Jain,Fathers Name: Sagar Jain,169,55,Male
+10,506,SOH1013662,Ambika Ramanujom,Fathers Name: Harish Ramanujom,169/A,68,Female
+10,507,SOH1013689,Naveen Nayak,Fathers Name: Samir Nayak,169,81,Male
+10,508,SOH1013716,Pallavi Balaji,Fathers Name: Rupesh Balaji,170,26,Female
+10,509,SOH1013743,Ravindra Nivas,Fathers Name: Mahesh Nivas,170,39,Male
+10,510,SOH1013770,Prerna Babu,Husbands Name: Chakravarthi Babu,170-B,52,Female
+10,511,SOH1013797,Anudeep Kumar,Fathers Name: Siddarth Kumar,171,65,Male
+10,512,SOH1013824,Nandhitha Rao,Fathers Name: Ravindra Rao,171,78,Female
+10,513,SOH1013851,Anand Dhanush,Fathers Name: Vinay Kumar Dhanush,171,23,Male
+10,514,SOH1013878,Indrira Kamath,Fathers Name: Dinesh Kamath,172,36,Female
+10,515,SOH1013905,Nagesh Joshi,Fathers Name: Allwyn Joshi,172,49,Male
+10,516,SOH1013932,Pramila Shetty,Husbands Name: Srinivas Shetty,172,62,Female
+10,517,SOH1013959,Mohanraj Puranik,Fathers Name: Girish Puranik,173/A,75,Male
+10,518,SOH1013986,Savitha Khan,Fathers Name: Dhanush Khan,173,20,Female
+10,519,SOH1014013,Harish Ramesh,Fathers Name: Tejas Ramesh,173,33,Male
+10,520,SOH1014040,Asha Hegde,Fathers Name: Venkatesh Hegde,174,46,Female
+10,521,SOH1014067,Shashi Kumar Acharya,Fathers Name: Aman Acharya,174,59,Male
+10,522,SOH1014094,Grace Eshwaran,Husbands Name: Parikshith Eshwaran,174,72,Female
+10,523,SOH1014121,Girish Nair,Fathers Name: Anand Nair,175,85,Male
+10,524,SOH1014148,Pushpa Prasad,Fathers Name: Babu Prasad,175,30,Female
+10,525,SOH1014175,Ravi Deshpande,Fathers Name: Srivatsa Deshpande,175,43,Male
+10,526,SOH1014202,Spandana Mishra,Fathers Name: Kiran Mishra,176,56,Female
+10,527,SOH1014229,Lokesh Govindappa,Fathers Name: Kishore Govindappa,176-B,69,Male
+10,528,SOH1014256,Roopashree Naik,Husbands Name: Lokesh Naik,176/A,82,Female
+10,529,SOH1014283,Santosh Poojari,Fathers Name: Mohan Poojari,177,27,Male
+10,530,SOH1014310,Jyothi Singh,Fathers Name: Dilip Singh,177,40,Female
+10,531,SOH1014337,Arun Prasad Sharma,Fathers Name: Kenchi Reddy Sharma,177,53,Male
+10,532,SOH1014364,Kusuma Mazumder,Fathers Name: Sunil Mazumder,178,66,Female
+10,533,SOH1014391,Siddarth Bhat,Fathers Name: Balaji Bhat,178,79,Male
+10,534,SOH1014418,Pooja Bose,Husbands Name: Mohanraj Bose,178,24,Female
+10,535,SOH1014445,Shiva Kumar Mallik,Fathers Name: Sridhar Mallik,179,37,Male
+10,536,SOH1014472,Rathna Patel,Fathers Name: Musthapha Patel,179,50,Female
+10,537,SOH1014499,Parikshith Rajanna,Fathers Name: Ashok Rajanna,179,63,Male
+10,538,SOH1014526,Aishwarya Keshava,Fathers Name: Prashanth Keshava,180,76,Female
+10,539,SOH1014553,Raghavendra Pasha,Fathers Name: Arun Prasad Pasha,180/A,21,Male
+10,540,SOH1014580,Anuradha Chakravarthi,Husbands Name: Naveen Chakravarthi,180,34,Female
+10,541,SOH1014607,Balaji Murthy,Fathers Name: Subhash Murthy,181,47,Male
+10,542,SOH1014634,Poonam Koppal,Fathers Name: Nicholas Koppal,181,60,Female
+10,543,SOH1014661,Sagar Vishwanath,Fathers Name: Manikanta Vishwanath,181,73,Male
+10,544,SOH1014688,Mahadevamma Menon,Fathers Name: Sathish Menon,182-B,18,Female
+10,545,SOH1014715,Sathish Bairi,Fathers Name: Shashi Kumar Bairi,182,31,Male
+10,546,SOH1014742,Shobha Kulkarni,Husbands Name: Ramesh Kulkarni,182,44,Female
+10,547,SOH1014769,Srinivas Gupta,Fathers Name: Jotheeswaran Gupta,183,57,Male
+10,548,SOH1014796,Chethana Devanna,Fathers Name: Puttaswamy Devanna,183,70,Female
+10,549,SOH1014823,Vijay Pai,Fathers Name: Suresh Pai,183,83,Male
+10,550,SOH1014850,Gayathri Reddy,Fathers Name: Shiva Kumar Reddy,184/A,28,Female
+10,551,SOH1014877,Kishore Dixit,Fathers Name: Anudeep Dixit,184,41,Male
+10,552,SOH1014904,Suchithra Iyengar,Husbands Name: Manjunath Iyengar,184,54,Female
+10,553,SOH1014931,Varun Shivanna,Fathers Name: Ajay Shivanna,185,67,Male
+10,554,SOH1014958,Geetha Gowda,Fathers Name: Praveen Gowda,185,80,Female
+10,555,SOH1014985,Prashanth Jain,Fathers Name: Vijay Jain,185,25,Male
+10,556,SOH1015012,Bina Ramanujom,Fathers Name: Ravi Ramanujom,186,38,Female
+10,557,SOH1015039,Chakravarthi Nayak,Fathers Name: Sabari Nayak,186,51,Male
+10,558,SOH1015066,Radha Balaji,Husbands Name: Pradeep Balaji,186,64,Female
+10,559,SOH1015093,Suresh Nivas,Fathers Name: Gopal Nivas,187,77,Male
+10,560,SOH1015120,Bhaggamma Babu,Fathers Name: Rahul Babu,187,22,Female
+10,561,SOH1015147,Aman Kumar,Fathers Name: Raghavendra Kumar,187/A,35,Male
+10,562,SOH1015174,Lakshmi Rao,Fathers Name: Nagesh Rao,188,48,Female
+10,563,SOH1015201,Rahul Dhanush,Fathers Name: Nithin Dhanush,188,61,Male
+10,564,SOH1015228,Shalini Kamath,Husbands Name: Prakash Kamath,188,74,Female
+10,565,SOH1015255,Sunil Joshi,Fathers Name: Muniswamy Joshi,189,19,Male
+10,566,SOH1015282,Shylaja Shetty,Fathers Name: Varun Shetty,189,32,Female
+10,567,SOH1015309,Mahalingaiah Puranik,Fathers Name: Santosh Puranik,189,45,Male
+10,568,SOH1015336,Devi Khan,Fathers Name: Goutham Khan,190,58,Female
+10,569,SOH1015363,Manikanta Ramesh,Fathers Name: Shekhar Ramesh,190,71,Male
+10,570,SOH1015390,Savithri Hegde,Husbands Name: Chandan Hegde,190,84,Female
+10,571,SOH1015417,Allwyn Acharya,Fathers Name: Mahalingaiah Acharya,191,29,Male
+10,572,SOH1015444,Thamarai Eshwaran,Fathers Name: Sagar Eshwaran,191/A,42,Female
+10,573,SOH1015471,Praveen Nair,Fathers Name: Harish Nair,191,55,Male
+10,574,SOH1015498,Sunitha Prasad,Fathers Name: Samir Prasad,192,68,Female
+10,575,SOH1015525,Kiran Deshpande,Fathers Name: Rupesh Deshpande,192,81,Male
+10,576,SOH1015552,Pragathi Mishra,Husbands Name: Mahesh Mishra,192,26,Female
+10,577,SOH1015579,Muniswamy Govindappa,Fathers Name: Chakravarthi Govindappa,193,39,Male
+10,578,SOH1015606,Kavitha Naik,Fathers Name: Siddarth Naik,193-B,52,Female
+10,579,SOH1015633,Ashok Poojari,Fathers Name: Ravindra Poojari,193,65,Male
+10,580,SOH1015660,Rasika Singh,Fathers Name: Vinay Kumar Singh,194,78,Female
+10,581,SOH1015687,Mahesh Sharma,Fathers Name: Dinesh Sharma,194,23,Male
+10,582,SOH1015714,Manjula Mazumder,Husbands Name: Allwyn Mazumder,194,36,Female
+10,583,SOH1015741,Puttaswamy Bhat,Fathers Name: Srinivas Bhat,195/A,49,Male
+10,584,SOH1015768,Subhitha Bose,Fathers Name: Girish Bose,195,62,Female
+10,585,SOH1015795,Venkatesh Mallik,Fathers Name: Dhanush Mallik,195,75,Male
+10,586,SOH1015822,Sowmya Patel,Fathers Name: Tejas Patel,196,20,Female
+10,587,SOH1015849,Gopal Rajanna,Fathers Name: Venkatesh Rajanna,196,33,Male
+10,588,SOH1015876,Savitha Keshava,Husbands Name: Aman Keshava,196,46,Female
+10,589,SOH1015903,Kenchi Reddy Pasha,Fathers Name: Parikshith Pasha,197,59,Male
+10,590,SOH1015930,Roopa Chakravarthi,Fathers Name: Anand Chakravarthi,197,72,Female
+10,591,SOH1015957,Chandan Murthy,Fathers Name: Babu Murthy,197,85,Male
+10,592,SOH1015984,Bharathi Koppal,Fathers Name: Srivatsa Koppal,198,30,Female
+10,593,SOH1016011,Nicholas Vishwanath,Fathers Name: Kiran Vishwanath,198,43,Male
+10,594,SOH1016038,Anitha Menon,Husbands Name: Kishore Menon,198/A,56,Female
+10,595,SOH1016065,Dinesh Bairi,Fathers Name: Lokesh Bairi,199-B,69,Male
+10,596,SOH1016092,Kamala Kulkarni,Fathers Name: Mohan Kulkarni,199,82,Female
+10,597,SOH1016119,Ajay Gupta,Fathers Name: Dilip Gupta,199,27,Male
+10,598,SOH1016146,Bhavani Devanna,Fathers Name: Kenchi Reddy Devanna,200,40,Female
+10,599,SOH1016173,Srivatsa Pai,Fathers Name: Sunil Pai,200,53,Male
+10,600,SOH1016200,Ambamma Reddy,Husbands Name: Balaji Reddy,200,66,Female
+10,601,SOH1016227,Prakash Dixit,Fathers Name: Mohanraj Dixit,201,79,Male
+10,602,SOH1016254,Meena Iyengar,Fathers Name: Sridhar Iyengar,201,24,Female
+10,603,SOH1016281,Musthapha Shivanna,Fathers Name: Musthapha Shivanna,201,37,Male
+10,604,SOH1016308,Padma Gowda,Fathers Name: Ashok Gowda,202,50,Female
+10,605,SOH1016335,Rupesh Jain,Fathers Name: Prashanth Jain,202/A,63,Male
+10,606,SOH1016362,Vidya Ramanujom,Husbands Name: Arun Prasad Ramanujom,202,76,Female
+10,607,SOH1016389,Jotheeswaran Nayak,Fathers Name: Naveen Nayak,203,21,Male
+10,608,SOH1016416,Meghana Balaji,Fathers Name: Subhash Balaji,203,34,Female
+10,609,SOH1016443,Tejas Nivas,Fathers Name: Nicholas Nivas,203,47,Male
+10,610,SOH1016470,Rekha Babu,Fathers Name: Manikanta Babu,204,60,Female
+10,611,SOH1016497,Pradeep Kumar,Fathers Name: Sathish Kumar,204,73,Male
+10,612,SOH1016524,Pavani Rao,Husbands Name: Shashi Kumar Rao,204-B,18,Female
+10,613,SOH1016551,Dilip Dhanush,Fathers Name: Ramesh Dhanush,205,31,Male
+10,614,SOH1016578,Usha Kamath,Fathers Name: Jotheeswaran Kamath,205,44,Female
+10,615,SOH1016605,Shekhar Joshi,Fathers Name: Puttaswamy Joshi,205,57,Male
+10,616,SOH1016632,Shivangini Shetty,Fathers Name: Suresh Shetty,206/A,70,Female
+10,617,SOH1016659,Subhash Puranik,Fathers Name: Shiva Kumar Puranik,206,83,Male
+10,618,SOH1016686,Mamatha Khan,Husbands Name: Anudeep Khan,206,28,Female
+10,619,SOH1016713,Vinay Kumar Ramesh,Fathers Name: Manjunath Ramesh,207,41,Male
+10,620,SOH1016740,Bhuvaneshwari Hegde,Fathers Name: Ajay Hegde,207,54,Female
+10,621,SOH1016767,Manjunath Acharya,Fathers Name: Praveen Acharya,207,67,Male
+10,622,SOH1016794,Divya Eshwaran,Fathers Name: Vijay Eshwaran,208,80,Female
+10,623,SOH1016821,Babu Nair,Fathers Name: Ravi Nair,208,25,Male
+10,624,SOH1016848,Deepa Prasad,Husbands Name: Sabari Prasad,208,38,Female
+10,625,SOH1016875,Nithin Deshpande,Fathers Name: Pradeep Deshpande,209,51,Male
+10,626,SOH1016902,Lavanya Mishra,Fathers Name: Gopal Mishra,209,64,Female
+10,627,SOH1016929,Sridhar Govindappa,Fathers Name: Rahul Govindappa,209/A,77,Male
+10,628,SOH1016956,Jeevitha Naik,Fathers Name: Raghavendra Naik,210,22,Female
+10,629,SOH1016983,Samir Poojari,Fathers Name: Nagesh Poojari,210-B,35,Male
+10,630,SOH1017010,Shenega Singh,Husbands Name: Nithin Singh,210,48,Female
+10,631,SOH1017037,Ramesh Sharma,Fathers Name: Prakash Sharma,211,61,Male
+10,632,SOH1017064,Sunitha Mazumder,Fathers Name: Muniswamy Mazumder,211,74,Female
+10,633,SOH1017091,Dhanush Bhat,Fathers Name: Varun Bhat,211,19,Male
+10,634,SOH1017118,Hemalatha Bose,Fathers Name: Santosh Bose,212,32,Female
+10,635,SOH1017145,Sabari Mallik,Fathers Name: Goutham Mallik,212,45,Male
+10,636,SOH1017172,Renuka Patel,Husbands Name: Shekhar Patel,212,58,Female
+10,637,SOH1017199,Mohan Rajanna,Fathers Name: Chandan Rajanna,213,71,Male
+10,638,SOH1017226,Drakshayini Keshava,Fathers Name: Mahalingaiah Keshava,213/A,84,Female
+10,639,SOH1017253,Goutham Pasha,Fathers Name: Sagar Pasha,213,29,Male
+10,640,SOH1017280,Ambika Chakravarthi,Fathers Name: Harish Chakravarthi,214,42,Female
+10,641,SOH1017307,Naveen Murthy,Fathers Name: Samir Murthy,214,55,Male
+10,642,SOH1017334,Pallavi Koppal,Husbands Name: Rupesh Koppal,214,68,Female
+10,643,SOH1017361,Ravindra Vishwanath,Fathers Name: Mahesh Vishwanath,215,81,Male
+10,644,SOH1017388,Prerna Menon,Fathers Name: Chakravarthi Menon,215,26,Female
+10,645,SOH1017415,Anudeep Bairi,Fathers Name: Siddarth Bairi,215,39,Male
+10,646,SOH1017442,Nandhitha Kulkarni,Fathers Name: Ravindra Kulkarni,216-B,52,Female
+10,647,SOH1017469,Anand Gupta,Fathers Name: Vinay Kumar Gupta,216,65,Male
+10,648,SOH1017496,Indrira Devanna,Husbands Name: Dinesh Devanna,216,78,Female
+10,649,SOH1017523,Nagesh Pai,Fathers Name: Allwyn Pai,217/A,23,Male
+10,650,SOH1017550,Pramila Reddy,Fathers Name: Srinivas Reddy,217,36,Female
+10,651,SOH1017577,Mohanraj Dixit,Fathers Name: Girish Dixit,217,49,Male
+10,652,SOH1017604,Savitha Iyengar,Fathers Name: Dhanush Iyengar,218,62,Female
+10,653,SOH1017631,Sowmya Shivanna,Fathers Name: Tejas Shivanna,218,75,Female
+10,654,SOH1017658,Asha Gowda,Husbands Name: Venkatesh Gowda,218,20,Female
+10,655,SOH1017685,Savitha Jain,Fathers Name: Aman Jain,219,33,Female
+10,656,SOH1017712,Grace Ramanujom,Fathers Name: Parikshith Ramanujom,219,46,Female
+10,657,SOH1017739,Roopa Nayak,Husbands Name: Anand Nayak,219,59,Female
+10,658,SOH1017766,Pushpa Balaji,Fathers Name: Babu Balaji,220,72,Female
+10,659,SOH1017793,Bharathi Nivas,Fathers Name: Srivatsa Nivas,220,85,Female
+10,660,SOH1017820,Spandana Babu,Husbands Name: Kiran Babu,220/A,30,Female
+10,661,SOH1017847,Anitha Kumar,Fathers Name: Kishore Kumar,221,43,Female
+10,662,SOH1017874,Roopashree Rao,Fathers Name: Lokesh Rao,221,56,Female
+10,663,SOH1017901,Kamala Dhanush,Husbands Name: Mohan Dhanush,221-B,69,Female
+10,664,SOH1017928,Jyothi Kamath,Fathers Name: Dilip Kamath,222,82,Female
+10,665,SOH1017955,Bhavani Joshi,Fathers Name: Kenchi Reddy Joshi,222,27,Female
+10,666,SOH1017982,Kusuma Shetty,Husbands Name: Sunil Shetty,222,40,Female
+10,667,SOH1018009,Ambamma Puranik,Fathers Name: Balaji Puranik,223,53,Female
+10,668,SOH1018036,Pooja Khan,Fathers Name: Mohanraj Khan,223,66,Female
+10,669,SOH1018063,Meena Ramesh,Husbands Name: Sridhar Ramesh,223,79,Female
+10,670,SOH1018090,Rathna Hegde,Fathers Name: Musthapha Hegde,224,24,Female
+10,671,SOH1018117,Padma Acharya,Fathers Name: Ashok Acharya,224/A,37,Female
+10,672,SOH1018144,Aishwarya Eshwaran,Husbands Name: Prashanth Eshwaran,224,50,Female
+10,673,SOH1018171,Vidya Nair,Fathers Name: Arun Prasad Nair,225,63,Female
+10,674,SOH1018198,Anuradha Prasad,Fathers Name: Naveen Prasad,225,76,Female
+10,675,SOH1018225,Meghana Deshpande,Husbands Name: Subhash Deshpande,225,21,Female
+10,676,SOH1018252,Poonam Mishra,Fathers Name: Nicholas Mishra,226,34,Female
+10,677,SOH1018279,Rekha Govindappa,Fathers Name: Manikanta Govindappa,226,47,Female
+10,678,SOH1018306,Mahadevamma Naik,Husbands Name: Sathish Naik,226,60,Female
+10,679,SOH1018333,Pavani Poojari,Fathers Name: Shashi Kumar Poojari,227,73,Female
+10,680,SOH1018360,Shobha Singh,Fathers Name: Ramesh Singh,227-B,18,Female
+10,681,SOH1018387,Usha Sharma,Husbands Name: Jotheeswaran Sharma,227,31,Female
+10,682,SOH6460497,Vignesh V,Fathers Name: Venkatesh,Vinayaka Layout Park,20,Male

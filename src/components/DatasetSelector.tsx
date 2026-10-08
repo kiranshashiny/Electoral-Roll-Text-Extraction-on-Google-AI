@@ -66,9 +66,30 @@ export const DatasetSelector: React.FC<DatasetSelectorProps> = ({
     }
   };
 
+  const currentDs = availableDatasets.find(d => d.id === selectedDataset);
   const expectedOutputFile = activeTab === 'presets' 
-    ? (selectedDataset.includes('208') ? '208.csv' : '207.csv')
+    ? (currentDs?.defaultOutput || `${selectedDataset}.csv`)
     : `${(customName.trim() || 'input_file').replace(/\.csv$/, '')}.csv`;
+
+  // Fallback preset datasets if availableDatasets not loaded yet
+  const defaultPresets: DatasetOption[] = [
+    { id: '1', name: 'Hebbal Part 1 (1.pdf)', electorCount: 415, defaultOutput: '1.csv', description: 'Gandhi Vidyalaya Kannada & Tamil Primary School, Room No. 1' },
+    { id: '2', name: 'Hebbal Part 2 (2.pdf)', electorCount: 484, defaultOutput: '2.csv', description: 'Gandhi Vidyalaya Kannada & Tamil Primary School, Room No. 2' },
+    { id: '3', name: 'Hebbal Part 3 (3.pdf)', electorCount: 608, defaultOutput: '3.csv', description: 'BBMP Ward Office, Opp. Sterling Apartment, Room No. 1' },
+    { id: '4', name: 'Hebbal Part 4 (4.pdf)', electorCount: 588, defaultOutput: '4.csv', description: 'BBMP Ward Office, Opp. Sterling Apartment, Room No. 2' },
+    { id: '5', name: 'Hebbal Part 5 (5.pdf)', electorCount: 643, defaultOutput: '5.csv', description: 'Central Library BBMP Building, Lottegollahalli, Room No. 1' },
+    { id: '6', name: 'Hebbal Part 6 (6.pdf)', electorCount: 433, defaultOutput: '6.csv', description: 'Central Library BBMP Building, Lottegollahalli, Room No. 2' },
+    { id: '7', name: 'Hebbal Part 7 (7.pdf)', electorCount: 553, defaultOutput: '7.csv', description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 1' },
+    { id: '8', name: 'Hebbal Part 8 (8.pdf)', electorCount: 497, defaultOutput: '8.csv', description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 2' },
+    { id: '9', name: 'Hebbal Part 9 (9.pdf)', electorCount: 592, defaultOutput: '9.csv', description: 'Radhakrishna Public School, Basaveshwara Layout, Room No. 3' },
+    { id: '10', name: 'Hebbal Part 10 (10.pdf)', electorCount: 682, defaultOutput: '10.csv', description: 'Sunrise English School, Bhoopsandra, Room No. 1' },
+    { id: '208', name: 'Hebbal Part 208', electorCount: 697, defaultOutput: '208.csv', description: 'Presidency High School, HMT Layout, Ganganagar, Room No.3' },
+    { id: '207', name: 'Hebbal Part 207', electorCount: 654, defaultOutput: '207.csv', description: 'Presidency High School, HMT Layout, Ganganagar, Room No.2' },
+  ];
+
+  const displayList = availableDatasets.length > 0 ? availableDatasets : defaultPresets;
+  const uploaded1to10 = displayList.filter(d => ['1', '2', '3', '4', '5', '6', '7', '8', '9', '10'].includes(d.id));
+  const default208And207 = displayList.filter(d => ['208', '207'].includes(d.id));
 
   return (
     <div className="bg-white border border-slate-200 rounded-xl p-5 shadow-2xs">
@@ -80,7 +101,7 @@ export const DatasetSelector: React.FC<DatasetSelectorProps> = ({
             <span>Select Dataset & Target Output</span>
           </h2>
           <p className="text-xs text-slate-500 mt-0.5">
-            Choose electoral roll part 208, 207, or upload a custom dataset to produce <code className="text-indigo-600 font-mono font-medium">{expectedOutputFile}</code>
+            Choose uploaded files (1.pdf – 10.pdf), parts 208 & 207, or custom dataset. Target output: <code className="text-indigo-600 font-mono font-medium">{expectedOutputFile}</code>
           </p>
         </div>
 
@@ -94,7 +115,7 @@ export const DatasetSelector: React.FC<DatasetSelectorProps> = ({
                 : 'text-slate-600 hover:text-slate-900'
             }`}
           >
-            Built-in Datasets (208 & 207)
+            Datasets (1–10, 208, 207)
           </button>
           <button
             onClick={() => setActiveTab('custom')}
@@ -112,78 +133,96 @@ export const DatasetSelector: React.FC<DatasetSelectorProps> = ({
       {/* Main Content Area */}
       <div className="pt-4">
         {activeTab === 'presets' ? (
-          <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
-            {/* Dataset 208 Card */}
-            <div
-              onClick={() => onSelectDataset('208')}
-              className={`p-4 rounded-lg border text-left transition-all cursor-pointer relative ${
-                selectedDataset === '208'
-                  ? 'border-indigo-600 bg-indigo-50/40 ring-1 ring-indigo-600/20'
-                  : 'border-slate-200 hover:border-slate-300 bg-white hover:bg-slate-50/50'
-              }`}
-            >
-              <div className="flex items-start justify-between">
-                <div>
-                  <div className="flex items-center space-x-2">
-                    <span className="font-semibold text-sm text-slate-900">Hebbal Part 208</span>
-                    <span className="text-[11px] font-mono font-semibold px-2 py-0.5 rounded bg-indigo-100 text-indigo-800">
-                      208.csv
-                    </span>
-                  </div>
-                  <p className="text-xs text-slate-600 mt-1">
-                    Room No. 3, Presidency High School, HMT Layout, Ganganagar
-                  </p>
-                </div>
-                {selectedDataset === '208' && (
-                  <CheckCircle2 className="w-5 h-5 text-indigo-600 flex-shrink-0" />
-                )}
+          <div className="space-y-4">
+            {/* 10 Uploaded PDF Datasets Section */}
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
+                  Uploaded PDF Datasets (1.pdf – 10.pdf → 1.csv – 10.csv)
+                </span>
+                <span className="text-[11px] text-slate-500">10 files extracted</span>
               </div>
-
-              <div className="mt-3 flex items-center space-x-3 text-xs text-slate-500 pt-2 border-t border-slate-100">
-                <span>Electors: <strong className="text-slate-800">697</strong></span>
-                <span>·</span>
-                <span>Male: <strong className="text-slate-800">328</strong></span>
-                <span>·</span>
-                <span>Female: <strong className="text-slate-800">369</strong></span>
-                <span>·</span>
-                <span>Pages: <strong className="text-slate-800">28</strong></span>
+              <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-5 gap-2.5">
+                {uploaded1to10.map((ds) => {
+                  const isSel = selectedDataset === ds.id;
+                  return (
+                    <div
+                      key={ds.id}
+                      onClick={() => onSelectDataset(ds.id)}
+                      className={`p-3 rounded-lg border text-left transition-all cursor-pointer relative ${
+                        isSel
+                          ? 'border-indigo-600 bg-indigo-50/50 ring-1 ring-indigo-600/30'
+                          : 'border-slate-200 hover:border-slate-300 bg-white hover:bg-slate-50/50'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between">
+                        <div>
+                          <div className="font-semibold text-xs text-slate-900 flex items-center gap-1.5">
+                            <span>Part {ds.id}</span>
+                            <span className="text-[10px] text-slate-400">({ds.id}.pdf)</span>
+                          </div>
+                          <span className="inline-block mt-1 text-[11px] font-mono font-bold px-1.5 py-0.5 rounded bg-indigo-100 text-indigo-800">
+                            {ds.defaultOutput || `${ds.id}.csv`}
+                          </span>
+                        </div>
+                        {isSel && (
+                          <CheckCircle2 className="w-4 h-4 text-indigo-600 flex-shrink-0" />
+                        )}
+                      </div>
+                      <div className="mt-2 text-[11px] text-slate-500 border-t border-slate-100 pt-1.5 flex justify-between">
+                        <span>Electors:</span>
+                        <strong className="text-slate-800">{ds.electorCount}</strong>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
             </div>
 
-            {/* Dataset 207 Card */}
-            <div
-              onClick={() => onSelectDataset('207')}
-              className={`p-4 rounded-lg border text-left transition-all cursor-pointer relative ${
-                selectedDataset === '207'
-                  ? 'border-indigo-600 bg-indigo-50/40 ring-1 ring-indigo-600/20'
-                  : 'border-slate-200 hover:border-slate-300 bg-white hover:bg-slate-50/50'
-              }`}
-            >
-              <div className="flex items-start justify-between">
-                <div>
-                  <div className="flex items-center space-x-2">
-                    <span className="font-semibold text-sm text-slate-900">Hebbal Part 207</span>
-                    <span className="text-[11px] font-mono font-semibold px-2 py-0.5 rounded bg-indigo-100 text-indigo-800">
-                      207.csv
-                    </span>
-                  </div>
-                  <p className="text-xs text-slate-600 mt-1">
-                    Room No. 2, Presidency High School, HMT Layout, Ganganagar
-                  </p>
-                </div>
-                {selectedDataset === '207' && (
-                  <CheckCircle2 className="w-5 h-5 text-indigo-600 flex-shrink-0" />
-                )}
+            {/* Constituencies 208 & 207 Section */}
+            <div>
+              <div className="flex items-center justify-between mb-2">
+                <span className="text-xs font-semibold text-slate-700 uppercase tracking-wider">
+                  Original Datasets (208 & 207)
+                </span>
               </div>
-
-              <div className="mt-3 flex items-center space-x-3 text-xs text-slate-500 pt-2 border-t border-slate-100">
-                <span>Electors: <strong className="text-slate-800">654</strong></span>
-                <span>·</span>
-                <span>Male: <strong className="text-slate-800">327</strong></span>
-                <span>·</span>
-                <span>Female: <strong className="text-slate-800">327</strong></span>
-                <span>·</span>
-                <span>Pages: <strong className="text-slate-800">26</strong></span>
+              <div className="grid grid-cols-1 md:grid-cols-2 gap-2.5">
+                {default208And207.map((ds) => {
+                  const isSel = selectedDataset === ds.id;
+                  return (
+                    <div
+                      key={ds.id}
+                      onClick={() => onSelectDataset(ds.id)}
+                      className={`p-3.5 rounded-lg border text-left transition-all cursor-pointer relative ${
+                        isSel
+                          ? 'border-indigo-600 bg-indigo-50/50 ring-1 ring-indigo-600/30'
+                          : 'border-slate-200 hover:border-slate-300 bg-white hover:bg-slate-50/50'
+                      }`}
+                    >
+                      <div className="flex items-start justify-between">
+                        <div>
+                          <div className="flex items-center space-x-2">
+                            <span className="font-semibold text-sm text-slate-900">Hebbal Part {ds.id}</span>
+                            <span className="text-[11px] font-mono font-semibold px-2 py-0.5 rounded bg-indigo-100 text-indigo-800">
+                              {ds.defaultOutput || `${ds.id}.csv`}
+                            </span>
+                          </div>
+                          <p className="text-xs text-slate-600 mt-1 line-clamp-1">
+                            {ds.description}
+                          </p>
+                        </div>
+                        {isSel && (
+                          <CheckCircle2 className="w-5 h-5 text-indigo-600 flex-shrink-0" />
+                        )}
+                      </div>
+                      <div className="mt-2.5 flex items-center space-x-3 text-xs text-slate-500 pt-2 border-t border-slate-100">
+                        <span>Electors: <strong className="text-slate-800">{ds.electorCount}</strong></span>
+                        <span>·</span>
+                        <span>Output: <strong className="text-indigo-700 font-mono">{ds.defaultOutput}</strong></span>
+                      </div>
+                    </div>
+                  );
+                })}
               </div>
             </div>
           </div>

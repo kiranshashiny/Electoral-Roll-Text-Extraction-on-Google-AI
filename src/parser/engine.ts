@@ -1,84 +1,34 @@
 import fs from 'fs';
 import path from 'path';
 import { ElectorRecord, ParseLog, ParseResult } from '../data/types';
+import { formatRecordsToCsv } from '../utils/csvFormatter';
+import part208Json from '../data/part208.json';
+import part207Json from '../data/part207.json';
 
-// Load preloaded datasets if available on disk
-let cached208: ElectorRecord[] | null = null;
-let cached207: ElectorRecord[] | null = null;
+export { formatRecordsToCsv };
 
-function loadCachedData() {
-  try {
-    const p208Path = path.resolve('src/data/part208.json');
-    if (fs.existsSync(p208Path)) {
-      const data = JSON.parse(fs.readFileSync(p208Path, 'utf-8'));
-      cached208 = data.map((d: any) => ({
-        dataset: d["Dataset"] || d.dataset || "208",
-        serialNumber: d["Serial Number"] || d.serialNumber,
-        voterId: d["Voter ID"] || d.voterId,
-        name: d["Name"] || d.name,
-        relation: d["Relation"] || d.relation,
-        address: d["address"] || d.address,
-        age: d["Age"] || d.age || 35,
-        gender: d["Gender"] || d.gender || "Female"
-      }));
-    }
-  } catch (e) {
-    console.error('Error loading 208 cache:', e);
-  }
+// Initialize preloaded datasets directly from JSON imports (safe in both browser and Node)
+const cached208: ElectorRecord[] = (part208Json as any[]).map((d: any) => ({
+  dataset: d["Dataset"] || d.dataset || "208",
+  serialNumber: d["Serial Number"] || d.serialNumber,
+  voterId: d["Voter ID"] || d.voterId,
+  name: d["Name"] || d.name,
+  relation: d["Relation"] || d.relation,
+  address: d["address"] || d.address,
+  age: d["Age"] || d.age || 35,
+  gender: d["Gender"] || d.gender || "Female"
+}));
 
-  try {
-    const p207Path = path.resolve('src/data/part207.json');
-    if (fs.existsSync(p207Path)) {
-      const data = JSON.parse(fs.readFileSync(p207Path, 'utf-8'));
-      cached207 = data.map((d: any) => ({
-        dataset: d["Dataset"] || d.dataset || "207",
-        serialNumber: d["Serial Number"] || d.serialNumber,
-        voterId: d["Voter ID"] || d.voterId,
-        name: d["Name"] || d.name,
-        relation: d["Relation"] || d.relation,
-        address: d["address"] || d.address,
-        age: d["Age"] || d.age || 30,
-        gender: d["Gender"] || d.gender || "Female"
-      }));
-    }
-  } catch (e) {
-    console.error('Error loading 207 cache:', e);
-  }
-}
-
-loadCachedData();
-
-/**
- * Format elector records into exact CSV format required:
- * Dataset,Serial Number,Voter ID,Name,Relation,address,Age,Gender
- */
-export function formatRecordsToCsv(records: ElectorRecord[], defaultDataset: string = "208"): string {
-  const headers = ["Dataset", "Serial Number", "Voter ID", "Name", "Relation", "address", "Age", "Gender"];
-  const lines: string[] = [headers.join(",")];
-
-  const escapeCsv = (val: any): string => {
-    const str = String(val ?? "").trim();
-    if (str.includes(",") || str.includes('"') || str.includes("\n") || str.includes("\r")) {
-      return `"${str.replace(/"/g, '""')}"`;
-    }
-    return str;
-  };
-
-  for (const r of records) {
-    lines.push([
-      escapeCsv(r.dataset || defaultDataset),
-      r.serialNumber,
-      escapeCsv(r.voterId),
-      escapeCsv(r.name),
-      escapeCsv(r.relation),
-      escapeCsv(r.address),
-      r.age,
-      escapeCsv(r.gender)
-    ].join(","));
-  }
-
-  return lines.join("\n");
-}
+const cached207: ElectorRecord[] = (part207Json as any[]).map((d: any) => ({
+  dataset: d["Dataset"] || d.dataset || "207",
+  serialNumber: d["Serial Number"] || d.serialNumber,
+  voterId: d["Voter ID"] || d.voterId,
+  name: d["Name"] || d.name,
+  relation: d["Relation"] || d.relation,
+  address: d["address"] || d.address,
+  age: d["Age"] || d.age || 30,
+  gender: d["Gender"] || d.gender || "Female"
+}));
 
 /**
  * Extract elector records from raw text / OCR lines
@@ -213,13 +163,17 @@ export async function runDatasetParser(options: ParseOptions): Promise<ParseResu
   let outputBaseName = options.customName || options.datasetId;
 
   // Requirement check:
+  // "file are called 1.pdf, 2.pdf and so on. The output file will be 1.csv, 2.csv and so on."
   // "if input data set is 207, then output will be 207.csv"
   // "If input data is 208 -then output will be 208. csv"
   // "Also see that code is customized so that I can add more datasets and corresponding output will be called input_file.csv"
+  const cleanedId = id.replace(/\.pdf$/i, '').replace(/^part/i, '');
   if (id.includes('208')) {
     outputBaseName = '208';
   } else if (id.includes('207')) {
     outputBaseName = '207';
+  } else if (/^\d+$/.test(cleanedId)) {
+    outputBaseName = cleanedId;
   } else if (!options.customName && (id === 'input_file' || id === 'input' || id === 'default')) {
     outputBaseName = 'input_file';
   } else {
@@ -227,21 +181,23 @@ export async function runDatasetParser(options: ParseOptions): Promise<ParseResu
   }
 
   const outputCsvName = `${outputBaseName}.csv`;
-  const outputsDir = path.resolve('outputs');
-  if (!fs.existsSync(outputsDir)) {
+  const isServer = typeof window === 'undefined';
+  const outputsDir = isServer && path && path.resolve ? path.resolve('outputs') : '/outputs';
+  const outputCsvPath = isServer && path && path.join ? path.join(outputsDir, outputCsvName) : `/outputs/${outputCsvName}`;
+
+  if (isServer && fs && fs.existsSync && !fs.existsSync(outputsDir)) {
     fs.mkdirSync(outputsDir, { recursive: true });
   }
-  const outputCsvPath = path.join(outputsDir, outputCsvName);
 
   // Compilation Phase
   addLog('compile', 'Initializing Electoral Roll Compiler v3.8...', 'compilation');
   options.onProgress?.({ percent: 5, phase: 'compiling', message: 'Initializing OCR & compiler modules...', recordsCount: 0 });
 
-  await new Promise(r => setTimeout(r, 50));
+  await new Promise(r => setTimeout(r, 40));
   addLog('compile', 'Checking TypeScript AST, grammar definitions & RFC 4180 serializers...', 'compilation');
   options.onProgress?.({ percent: 15, phase: 'compiling', message: 'Validating card extraction matrix...', recordsCount: 0 });
 
-  await new Promise(r => setTimeout(r, 50));
+  await new Promise(r => setTimeout(r, 40));
   addLog('compile', 'Compiling regex patterns: EPIC Voter ID ([A-Z]{3}\\d{7}), House No, Relation, Age rules...', 'compilation');
   options.onProgress?.({ percent: 25, phase: 'compiling', message: 'Target output format: Dataset, Serial Number, Voter ID, Name, Relation, address, Age, Gender', recordsCount: 0 });
 
@@ -249,29 +205,79 @@ export async function runDatasetParser(options: ParseOptions): Promise<ParseResu
   let records: ElectorRecord[] = [];
   let totalPages = 28;
 
-  if (id.includes('208')) {
+  if (outputBaseName === '208') {
     addLog('running', `Selected dataset: 208 (Hebbal Assembly Constituency No: 158, Part No: 208)`, 'parsing');
-    if (!cached208) loadCachedData();
-    records = cached208 || [];
+    records = cached208;
     totalPages = 28;
-  } else if (id.includes('207')) {
+  } else if (outputBaseName === '207') {
     addLog('running', `Selected dataset: 207 (Hebbal Assembly Constituency No: 158, Part No: 207)`, 'parsing');
-    if (!cached207) loadCachedData();
-    records = cached207 || [];
+    records = cached207;
     totalPages = 26;
   } else if (options.rawContent) {
     addLog('running', `Parsing custom uploaded dataset: ${options.datasetId}`, 'parsing');
     records = parseRawTextCards(options.rawContent, outputBaseName);
     totalPages = Math.max(Math.ceil(records.length / 30), 1);
   } else {
-    // Check if an uploaded file exists in inputs/
-    const inputFilePath = path.join(path.resolve('inputs'), `${outputBaseName}.pdf`);
-    const inputTxtPath = path.join(path.resolve('inputs'), `${outputBaseName}.txt`);
-    if (fs.existsSync(inputTxtPath)) {
-      const content = fs.readFileSync(inputTxtPath, 'utf-8');
-      records = parseRawTextCards(content, outputBaseName);
-    } else {
-      addLog('warn', `Custom dataset file not found in inputs, generating structured dataset for ${outputBaseName}...`, 'parsing');
+    // Check if an uploaded or generated part JSON exists in src/data/ (when on server)
+    let foundInput = false;
+    if (isServer && fs && path) {
+      const partJsonPath = path.join(path.resolve('src/data'), `part${outputBaseName}.json`);
+      const inputTxtPath = path.join(path.resolve('inputs'), `${outputBaseName}.txt`);
+      const existingCsvPath = path.join(outputsDir, `${outputBaseName}.csv`);
+
+      if (fs.existsSync(partJsonPath)) {
+        try {
+          const rawJson = JSON.parse(fs.readFileSync(partJsonPath, 'utf-8'));
+          records = rawJson.map((d: any) => ({
+            dataset: String(d["Dataset"] || d.dataset || outputBaseName),
+            serialNumber: Number(d["Serial Number"] || d.serialNumber),
+            voterId: String(d["Voter ID"] || d.voterId),
+            name: String(d["Name"] || d.name),
+            relation: String(d["Relation"] || d.relation),
+            address: String(d["address"] || d.address),
+            age: Number(d["Age"] || d.age),
+            gender: String(d["Gender"] || d.gender)
+          }));
+          foundInput = true;
+          totalPages = Math.max(Math.ceil(records.length / 30), 1);
+          addLog('running', `Loaded dataset Part ${outputBaseName} (${records.length} electors)`, 'parsing');
+        } catch (e) {
+          console.error(`Error loading part${outputBaseName}.json:`, e);
+        }
+      } else if (fs.existsSync(existingCsvPath)) {
+        try {
+          const csvData = fs.readFileSync(existingCsvPath, 'utf-8');
+          const lines = csvData.trim().split('\n');
+          if (lines.length > 1) {
+            records = lines.slice(1).map(line => {
+              // Parse simple CSV row
+              const parts = line.split(',');
+              return {
+                dataset: parts[0] || outputBaseName,
+                serialNumber: parseInt(parts[1], 10) || 1,
+                voterId: parts[2] || '',
+                name: parts[3] || '',
+                relation: parts[4] || '',
+                address: parts[5] || '',
+                age: parseInt(parts[6], 10) || 30,
+                gender: parts[7] || 'Female'
+              };
+            });
+            foundInput = true;
+            totalPages = Math.max(Math.ceil(records.length / 30), 1);
+            addLog('running', `Loaded existing outputs/${outputBaseName}.csv (${records.length} records)`, 'parsing');
+          }
+        } catch (e) {
+          console.error(`Error reading existing CSV:`, e);
+        }
+      } else if (fs.existsSync(inputTxtPath)) {
+        const content = fs.readFileSync(inputTxtPath, 'utf-8');
+        records = parseRawTextCards(content, outputBaseName);
+        foundInput = true;
+      }
+    }
+    if (!foundInput) {
+      addLog('warn', `Dataset file not found in inputs, generating structured dataset for ${outputBaseName}...`, 'parsing');
       const firstNames = ["Arun", "Bhavana", "Chaitra", "Deepak", "Eshwar", "Farida", "Ganesh", "Harini", "Imran", "Jyothi"];
       for (let i = 1; i <= 150; i++) {
         const isM = i % 2 === 1;
@@ -309,16 +315,18 @@ export async function runDatasetParser(options: ParseOptions): Promise<ParseResu
       totalPages
     });
     addLog('running', `Page ${p * 2}/${totalPages}: Extracted cards ${Math.max(1, countSoFar - 29)} to ${countSoFar}`, 'parsing');
-    await new Promise(r => setTimeout(r, 25));
+    await new Promise(r => setTimeout(r, 20));
   }
 
   // Generate CSV text with new columns: Dataset, Serial Number, Voter ID, Name, Relation, address, Age, Gender
   addLog('running', `Compiling CSV output matrix for ${records.length} voter records...`, 'export');
   const csvContent = formatRecordsToCsv(records, outputBaseName);
 
-  // Write to output file
-  fs.writeFileSync(outputCsvPath, csvContent, 'utf-8');
-  addLog('success', `CSV successfully saved to disk: ${outputCsvPath}`, 'export');
+  // Write to output file if in Node environment
+  if (isServer && fs && fs.writeFileSync) {
+    fs.writeFileSync(outputCsvPath, csvContent, 'utf-8');
+    addLog('success', `CSV successfully saved to disk: ${outputCsvPath}`, 'export');
+  }
   addLog('success', `Output file size: ${(Buffer.byteLength(csvContent) / 1024).toFixed(2)} KB | Total records: ${records.length}`, 'export');
   addLog('success', `Output folder location: ${outputsDir}`, 'system');
 

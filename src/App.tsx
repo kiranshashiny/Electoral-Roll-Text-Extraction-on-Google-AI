@@ -12,7 +12,7 @@ import { OutputFolderManager, OutputFileInfo } from './components/OutputFolderMa
 import { DataTableViewer } from './components/DataTableViewer';
 import { DatabasePanel } from './components/DatabasePanel';
 import { ElectorRecord, ParseLog } from './data/types';
-import { formatRecordsToCsv } from './parser/engine';
+import { formatRecordsToCsv } from './utils/csvFormatter';
 import { fetchElectorsFromDatabase } from './services/databaseService';
 
 export default function App() {
@@ -163,7 +163,8 @@ export default function App() {
     setStatusMessage('Compiling card tokenizer and OCR matrix...');
     setSelectedDataset(datasetId);
 
-    const targetOutput = (datasetId.includes('208') ? '208.csv' : datasetId.includes('207') ? '207.csv' : `${customName || 'input_file'}.csv`);
+    const cleaned = datasetId.replace(/\.pdf$/i, '').replace(/^part/i, '');
+    const targetOutput = (datasetId === '208' ? '208.csv' : datasetId === '207' ? '207.csv' : /^\d+$/.test(cleaned) ? `${cleaned}.csv` : `${customName || datasetId || 'input_file'}.csv`);
     setOutputFileName(targetOutput);
 
     const now = new Date().toLocaleTimeString('en-US', { hour12: false });
