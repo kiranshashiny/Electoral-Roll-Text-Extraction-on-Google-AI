@@ -1,0 +1,47 @@
+rules_version = '2';
+service cloud.firestore {
+  match /databases/{database}/documents {
+
+    function isValidId(id) {
+      return id is string && id.size() > 0 && id.size() <= 64 && id.matches('^[a-zA-Z0-9_\\-]+$');
+    }
+
+    function isValidDataset(data) {
+      return data.keys().hasAll(['id', 'name', 'partNo', 'totalElectors'])
+        && data.keys().hasOnly(['id', 'name', 'partNo', 'constituency', 'totalElectors', 'createdAt'])
+        && data.id is string && data.id.size() > 0 && data.id.size() <= 64
+        && data.name is string && data.name.size() > 0 && data.name.size() <= 200
+        && data.partNo is string && data.partNo.size() > 0 && data.partNo.size() <= 32
+        && data.totalElectors is number && data.totalElectors >= 0;
+    }
+
+    function isValidElector(data) {
+      return data.keys().hasAll(['dataset', 'serialNumber', 'voterId', 'name', 'relation', 'address', 'age', 'gender'])
+        && data.keys().hasOnly(['dataset', 'serialNumber', 'voterId', 'name', 'relation', 'address', 'age', 'gender', 'createdAt'])
+        && data.dataset is string && data.dataset.size() > 0 && data.dataset.size() <= 64
+        && data.serialNumber is number && data.serialNumber > 0
+        && data.voterId is string && data.voterId.size() > 0 && data.voterId.size() <= 64
+        && data.name is string && data.name.size() > 0 && data.name.size() <= 200
+        && data.relation is string && data.relation.size() <= 250
+        && data.address is string && data.address.size() <= 250
+        && data.age is number && data.age >= 0 && data.age <= 150
+        && data.gender is string && data.gender.size() <= 32;
+    }
+
+    match /datasets/{datasetId} {
+      allow read: if true;
+      allow create, update: if isValidId(datasetId) && isValidDataset(request.resource.data);
+      allow delete: if isValidId(datasetId);
+
+      match /electors/{electorId} {
+        allow read: if true;
+        allow create, update: if isValidId(datasetId) && isValidId(electorId) && isValidElector(request.resource.data);
+        allow delete: if isValidId(datasetId) && isValidId(electorId);
+      }
+    }
+
+    match /test/{docId} {
+      allow read, write: if true;
+    }
+  }
+}

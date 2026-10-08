@@ -1,0 +1,151 @@
+Serial Number,Voter ID,Name,Relation,address,Sex,Gender
+1,VTR5100037,Bhavana Kumar,Fathers Name: Senior Elector 1,1,Male,Male
+2,VTR5100074,Chaitra Kumar,Husbands Name: Spouse 2,1,Female,Female
+3,VTR5100111,Deepak Kumar,Fathers Name: Senior Elector 3,1,Male,Male
+4,VTR5100148,Eshwar Kumar,Husbands Name: Spouse 4,2,Female,Female
+5,VTR5100185,Farida Kumar,Fathers Name: Senior Elector 5,2,Male,Male
+6,VTR5100222,Ganesh Kumar,Husbands Name: Spouse 6,2,Female,Female
+7,VTR5100259,Harini Kumar,Fathers Name: Senior Elector 7,3,Male,Male
+8,VTR5100296,Imran Kumar,Husbands Name: Spouse 8,3,Female,Female
+9,VTR5100333,Jyothi Kumar,Fathers Name: Senior Elector 9,3,Male,Male
+10,VTR5100370,Arun Kumar,Husbands Name: Spouse 10,4,Female,Female
+11,VTR5100407,Bhavana Kumar,Fathers Name: Senior Elector 11,4,Male,Male
+12,VTR5100444,Chaitra Kumar,Husbands Name: Spouse 12,4,Female,Female
+13,VTR5100481,Deepak Kumar,Fathers Name: Senior Elector 13,5,Male,Male
+14,VTR5100518,Eshwar Kumar,Husbands Name: Spouse 14,5,Female,Female
+15,VTR5100555,Farida Kumar,Fathers Name: Senior Elector 15,5,Male,Male
+16,VTR5100592,Ganesh Kumar,Husbands Name: Spouse 16,6,Female,Female
+17,VTR5100629,Harini Kumar,Fathers Name: Senior Elector 17,6,Male,Male
+18,VTR5100666,Imran Kumar,Husbands Name: Spouse 18,6,Female,Female
+19,VTR5100703,Jyothi Kumar,Fathers Name: Senior Elector 19,7,Male,Male
+20,VTR5100740,Arun Kumar,Husbands Name: Spouse 20,7,Female,Female
+21,VTR5100777,Bhavana Kumar,Fathers Name: Senior Elector 21,7,Male,Male
+22,VTR5100814,Chaitra Kumar,Husbands Name: Spouse 22,8,Female,Female
+23,VTR5100851,Deepak Kumar,Fathers Name: Senior Elector 23,8,Male,Male
+24,VTR5100888,Eshwar Kumar,Husbands Name: Spouse 24,8,Female,Female
+25,VTR5100925,Farida Kumar,Fathers Name: Senior Elector 25,9,Male,Male
+26,VTR5100962,Ganesh Kumar,Husbands Name: Spouse 26,9,Female,Female
+27,VTR5100999,Harini Kumar,Fathers Name: Senior Elector 27,9,Male,Male
+28,VTR5101036,Imran Kumar,Husbands Name: Spouse 28,10,Female,Female
+29,VTR5101073,Jyothi Kumar,Fathers Name: Senior Elector 29,10,Male,Male
+30,VTR5101110,Arun Kumar,Husbands Name: Spouse 30,10,Female,Female
+31,VTR5101147,Bhavana Kumar,Fathers Name: Senior Elector 31,11,Male,Male
+32,VTR5101184,Chaitra Kumar,Husbands Name: Spouse 32,11,Female,Female
+33,VTR5101221,Deepak Kumar,Fathers Name: Senior Elector 33,11,Male,Male
+34,VTR5101258,Eshwar Kumar,Husbands Name: Spouse 34,12,Female,Female
+35,VTR5101295,Farida Kumar,Fathers Name: Senior Elector 35,12,Male,Male
+36,VTR5101332,Ganesh Kumar,Husbands Name: Spouse 36,12,Female,Female
+37,VTR5101369,Harini Kumar,Fathers Name: Senior Elector 37,13,Male,Male
+38,VTR5101406,Imran Kumar,Husbands Name: Spouse 38,13,Female,Female
+39,VTR5101443,Jyothi Kumar,Fathers Name: Senior Elector 39,13,Male,Male
+40,VTR5101480,Arun Kumar,Husbands Name: Spouse 40,14,Female,Female
+41,VTR5101517,Bhavana Kumar,Fathers Name: Senior Elector 41,14,Male,Male
+42,VTR5101554,Chaitra Kumar,Husbands Name: Spouse 42,14,Female,Female
+43,VTR5101591,Deepak Kumar,Fathers Name: Senior Elector 43,15,Male,Male
+44,VTR5101628,Eshwar Kumar,Husbands Name: Spouse 44,15,Female,Female
+45,VTR5101665,Farida Kumar,Fathers Name: Senior Elector 45,15,Male,Male
+46,VTR5101702,Ganesh Kumar,Husbands Name: Spouse 46,16,Female,Female
+47,VTR5101739,Harini Kumar,Fathers Name: Senior Elector 47,16,Male,Male
+48,VTR5101776,Imran Kumar,Husbands Name: Spouse 48,16,Female,Female
+49,VTR5101813,Jyothi Kumar,Fathers Name: Senior Elector 49,17,Male,Male
+50,VTR5101850,Arun Kumar,Husbands Name: Spouse 50,17,Female,Female
+51,VTR5101887,Bhavana Kumar,Fathers Name: Senior Elector 51,17,Male,Male
+52,VTR5101924,Chaitra Kumar,Husbands Name: Spouse 52,18,Female,Female
+53,VTR5101961,Deepak Kumar,Fathers Name: Senior Elector 53,18,Male,Male
+54,VTR5101998,Eshwar Kumar,Husbands Name: Spouse 54,18,Female,Female
+55,VTR5102035,Farida Kumar,Fathers Name: Senior Elector 55,19,Male,Male
+56,VTR5102072,Ganesh Kumar,Husbands Name: Spouse 56,19,Female,Female
+57,VTR5102109,Harini Kumar,Fathers Name: Senior Elector 57,19,Male,Male
+58,VTR5102146,Imran Kumar,Husbands Name: Spouse 58,20,Female,Female
+59,VTR5102183,Jyothi Kumar,Fathers Name: Senior Elector 59,20,Male,Male
+60,VTR5102220,Arun Kumar,Husbands Name: Spouse 60,20,Female,Female
+61,VTR5102257,Bhavana Kumar,Fathers Name: Senior Elector 61,21,Male,Male
+62,VTR5102294,Chaitra Kumar,Husbands Name: Spouse 62,21,Female,Female
+63,VTR5102331,Deepak Kumar,Fathers Name: Senior Elector 63,21,Male,Male
+64,VTR5102368,Eshwar Kumar,Husbands Name: Spouse 64,22,Female,Female
+65,VTR5102405,Farida Kumar,Fathers Name: Senior Elector 65,22,Male,Male
+66,VTR5102442,Ganesh Kumar,Husbands Name: Spouse 66,22,Female,Female
+67,VTR5102479,Harini Kumar,Fathers Name: Senior Elector 67,23,Male,Male
+68,VTR5102516,Imran Kumar,Husbands Name: Spouse 68,23,Female,Female
+69,VTR5102553,Jyothi Kumar,Fathers Name: Senior Elector 69,23,Male,Male
+70,VTR5102590,Arun Kumar,Husbands Name: Spouse 70,24,Female,Female
+71,VTR5102627,Bhavana Kumar,Fathers Name: Senior Elector 71,24,Male,Male
+72,VTR5102664,Chaitra Kumar,Husbands Name: Spouse 72,24,Female,Female
+73,VTR5102701,Deepak Kumar,Fathers Name: Senior Elector 73,25,Male,Male
+74,VTR5102738,Eshwar Kumar,Husbands Name: Spouse 74,25,Female,Female
+75,VTR5102775,Farida Kumar,Fathers Name: Senior Elector 75,25,Male,Male
+76,VTR5102812,Ganesh Kumar,Husbands Name: Spouse 76,26,Female,Female
+77,VTR5102849,Harini Kumar,Fathers Name: Senior Elector 77,26,Male,Male
+78,VTR5102886,Imran Kumar,Husbands Name: Spouse 78,26,Female,Female
+79,VTR5102923,Jyothi Kumar,Fathers Name: Senior Elector 79,27,Male,Male
+80,VTR5102960,Arun Kumar,Husbands Name: Spouse 80,27,Female,Female
+81,VTR5102997,Bhavana Kumar,Fathers Name: Senior Elector 81,27,Male,Male
+82,VTR5103034,Chaitra Kumar,Husbands Name: Spouse 82,28,Female,Female
+83,VTR5103071,Deepak Kumar,Fathers Name: Senior Elector 83,28,Male,Male
+84,VTR5103108,Eshwar Kumar,Husbands Name: Spouse 84,28,Female,Female
+85,VTR5103145,Farida Kumar,Fathers Name: Senior Elector 85,29,Male,Male
+86,VTR5103182,Ganesh Kumar,Husbands Name: Spouse 86,29,Female,Female
+87,VTR5103219,Harini Kumar,Fathers Name: Senior Elector 87,29,Male,Male
+88,VTR5103256,Imran Kumar,Husbands Name: Spouse 88,30,Female,Female
+89,VTR5103293,Jyothi Kumar,Fathers Name: Senior Elector 89,30,Male,Male
+90,VTR5103330,Arun Kumar,Husbands Name: Spouse 90,30,Female,Female
+91,VTR5103367,Bhavana Kumar,Fathers Name: Senior Elector 91,31,Male,Male
+92,VTR5103404,Chaitra Kumar,Husbands Name: Spouse 92,31,Female,Female
+93,VTR5103441,Deepak Kumar,Fathers Name: Senior Elector 93,31,Male,Male
+94,VTR5103478,Eshwar Kumar,Husbands Name: Spouse 94,32,Female,Female
+95,VTR5103515,Farida Kumar,Fathers Name: Senior Elector 95,32,Male,Male
+96,VTR5103552,Ganesh Kumar,Husbands Name: Spouse 96,32,Female,Female
+97,VTR5103589,Harini Kumar,Fathers Name: Senior Elector 97,33,Male,Male
+98,VTR5103626,Imran Kumar,Husbands Name: Spouse 98,33,Female,Female
+99,VTR5103663,Jyothi Kumar,Fathers Name: Senior Elector 99,33,Male,Male
+100,VTR5103700,Arun Kumar,Husbands Name: Spouse 100,34,Female,Female
+101,VTR5103737,Bhavana Kumar,Fathers Name: Senior Elector 101,34,Male,Male
+102,VTR5103774,Chaitra Kumar,Husbands Name: Spouse 102,34,Female,Female
+103,VTR5103811,Deepak Kumar,Fathers Name: Senior Elector 103,35,Male,Male
+104,VTR5103848,Eshwar Kumar,Husbands Name: Spouse 104,35,Female,Female
+105,VTR5103885,Farida Kumar,Fathers Name: Senior Elector 105,35,Male,Male
+106,VTR5103922,Ganesh Kumar,Husbands Name: Spouse 106,36,Female,Female
+107,VTR5103959,Harini Kumar,Fathers Name: Senior Elector 107,36,Male,Male
+108,VTR5103996,Imran Kumar,Husbands Name: Spouse 108,36,Female,Female
+109,VTR5104033,Jyothi Kumar,Fathers Name: Senior Elector 109,37,Male,Male
+110,VTR5104070,Arun Kumar,Husbands Name: Spouse 110,37,Female,Female
+111,VTR5104107,Bhavana Kumar,Fathers Name: Senior Elector 111,37,Male,Male
+112,VTR5104144,Chaitra Kumar,Husbands Name: Spouse 112,38,Female,Female
+113,VTR5104181,Deepak Kumar,Fathers Name: Senior Elector 113,38,Male,Male
+114,VTR5104218,Eshwar Kumar,Husbands Name: Spouse 114,38,Female,Female
+115,VTR5104255,Farida Kumar,Fathers Name: Senior Elector 115,39,Male,Male
+116,VTR5104292,Ganesh Kumar,Husbands Name: Spouse 116,39,Female,Female
+117,VTR5104329,Harini Kumar,Fathers Name: Senior Elector 117,39,Male,Male
+118,VTR5104366,Imran Kumar,Husbands Name: Spouse 118,40,Female,Female
+119,VTR5104403,Jyothi Kumar,Fathers Name: Senior Elector 119,40,Male,Male
+120,VTR5104440,Arun Kumar,Husbands Name: Spouse 120,40,Female,Female
+121,VTR5104477,Bhavana Kumar,Fathers Name: Senior Elector 121,41,Male,Male
+122,VTR5104514,Chaitra Kumar,Husbands Name: Spouse 122,41,Female,Female
+123,VTR5104551,Deepak Kumar,Fathers Name: Senior Elector 123,41,Male,Male
+124,VTR5104588,Eshwar Kumar,Husbands Name: Spouse 124,42,Female,Female
+125,VTR5104625,Farida Kumar,Fathers Name: Senior Elector 125,42,Male,Male
+126,VTR5104662,Ganesh Kumar,Husbands Name: Spouse 126,42,Female,Female
+127,VTR5104699,Harini Kumar,Fathers Name: Senior Elector 127,43,Male,Male
+128,VTR5104736,Imran Kumar,Husbands Name: Spouse 128,43,Female,Female
+129,VTR5104773,Jyothi Kumar,Fathers Name: Senior Elector 129,43,Male,Male
+130,VTR5104810,Arun Kumar,Husbands Name: Spouse 130,44,Female,Female
+131,VTR5104847,Bhavana Kumar,Fathers Name: Senior Elector 131,44,Male,Male
+132,VTR5104884,Chaitra Kumar,Husbands Name: Spouse 132,44,Female,Female
+133,VTR5104921,Deepak Kumar,Fathers Name: Senior Elector 133,45,Male,Male
+134,VTR5104958,Eshwar Kumar,Husbands Name: Spouse 134,45,Female,Female
+135,VTR5104995,Farida Kumar,Fathers Name: Senior Elector 135,45,Male,Male
+136,VTR5105032,Ganesh Kumar,Husbands Name: Spouse 136,46,Female,Female
+137,VTR5105069,Harini Kumar,Fathers Name: Senior Elector 137,46,Male,Male
+138,VTR5105106,Imran Kumar,Husbands Name: Spouse 138,46,Female,Female
+139,VTR5105143,Jyothi Kumar,Fathers Name: Senior Elector 139,47,Male,Male
+140,VTR5105180,Arun Kumar,Husbands Name: Spouse 140,47,Female,Female
+141,VTR5105217,Bhavana Kumar,Fathers Name: Senior Elector 141,47,Male,Male
+142,VTR5105254,Chaitra Kumar,Husbands Name: Spouse 142,48,Female,Female
+143,VTR5105291,Deepak Kumar,Fathers Name: Senior Elector 143,48,Male,Male
+144,VTR5105328,Eshwar Kumar,Husbands Name: Spouse 144,48,Female,Female
+145,VTR5105365,Farida Kumar,Fathers Name: Senior Elector 145,49,Male,Male
+146,VTR5105402,Ganesh Kumar,Husbands Name: Spouse 146,49,Female,Female
+147,VTR5105439,Harini Kumar,Fathers Name: Senior Elector 147,49,Male,Male
+148,VTR5105476,Imran Kumar,Husbands Name: Spouse 148,50,Female,Female
+149,VTR5105513,Jyothi Kumar,Fathers Name: Senior Elector 149,50,Male,Male
+150,VTR5105550,Arun Kumar,Husbands Name: Spouse 150,50,Female,Female

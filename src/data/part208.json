@@ -1,0 +1,6972 @@
+[
+  {
+    "Dataset": "208",
+    "Serial Number": 1,
+    "Voter ID": "SOH5577911",
+    "Name": "Meenakshi G",
+    "Relation": "Husbands Name: Nagaraja A Reddy",
+    "address": "03",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 2,
+    "Voter ID": "SOH5042528",
+    "Name": "Sanghamitra lyengar",
+    "Relation": "Mothers Name: Rajalakshmi Bhupal",
+    "address": "05",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 3,
+    "Voter ID": "SOH5201082",
+    "Name": "Ujwala",
+    "Relation": "Husbands Name: Jawaherlal Doddanavar",
+    "address": "6",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 4,
+    "Voter ID": "SOH5201199",
+    "Name": "Jawaharalal Doddanavar",
+    "Relation": "Fathers Name: Parishnath Doddanavar",
+    "address": "6",
+    "Age": 31,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 5,
+    "Voter ID": "SOH6092605",
+    "Name": "SURESHA B S",
+    "Relation": "Fathers Name: SUBBANNA",
+    "address": "7",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 6,
+    "Voter ID": "SOH6096259",
+    "Name": "S N PADMAVATHI",
+    "Relation": "Husbands Name: SURESHA B S",
+    "address": "7",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 7,
+    "Voter ID": "SOH6092621",
+    "Name": "SANJAY SURESHA",
+    "Relation": "Fathers Name: SURESHA B S",
+    "address": "7",
+    "Age": 28,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 8,
+    "Voter ID": "SOH6092639",
+    "Name": "SWATHI SURESHA",
+    "Relation": "Fathers Name: SURESHA B S",
+    "address": "7",
+    "Age": 25,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 9,
+    "Voter ID": "SOH0843631",
+    "Name": "Dr. Dilip Deshpande",
+    "Relation": "Fathers Name: Vasanth Deshpande",
+    "address": "9",
+    "Age": 76,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 10,
+    "Voter ID": "SOH0843649",
+    "Name": "Shalini Deshpande",
+    "Relation": "Husbands Name: Dr Dilip Deshpande",
+    "address": "9",
+    "Age": 71,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 11,
+    "Voter ID": "SOH0843730",
+    "Name": "M D Satyanarayana",
+    "Relation": "Fathers Name: M D Devarasegowda",
+    "address": "14",
+    "Age": 77,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 12,
+    "Voter ID": "SOH0843789",
+    "Name": "Sujatha M",
+    "Relation": "Husbands Name: Sathya Narayana M D",
+    "address": "14",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 13,
+    "Voter ID": "BTF1234236",
+    "Name": "Smruti M S",
+    "Relation": "Fathers Name: Sathyanarayan M D",
+    "address": "14",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 14,
+    "Voter ID": "BTF3546058",
+    "Name": "M. S. Shriyas",
+    "Relation": "Fathers Name: M. D. Sathyanarayan",
+    "address": "14",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 15,
+    "Voter ID": "BTF0978130",
+    "Name": "Prabhakaran",
+    "Relation": "Fathers Name: K K Bhupalan",
+    "address": "21",
+    "Age": 66,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 16,
+    "Voter ID": "BTF0975193",
+    "Name": "Shanthi B",
+    "Relation": "Husbands Name: Prabhakaran",
+    "address": "21",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 17,
+    "Voter ID": "SOH0124719",
+    "Name": "Pravinkumar.P",
+    "Relation": "Fathers Name: Prabhakaran",
+    "address": "21",
+    "Age": 38,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 18,
+    "Voter ID": "SOH4356804",
+    "Name": "G Kiran",
+    "Relation": "Fathers Name: D R Guru Prasad",
+    "address": "26",
+    "Age": 48,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 19,
+    "Voter ID": "SOH0844175",
+    "Name": "Suresh Babu Lokunde S",
+    "Relation": "Fathers Name: Late. Sundar Rao Lokunde V L",
+    "address": "27",
+    "Age": 70,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 20,
+    "Voter ID": "SOH0844159",
+    "Name": "Manjunabath S",
+    "Relation": "Fathers Name: Sundara Rao Lakonda V L",
+    "address": "27",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 21,
+    "Voter ID": "SOH0844134",
+    "Name": "Kalpana K",
+    "Relation": "Husbands Name: Suresh Babu",
+    "address": "27",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 22,
+    "Voter ID": "SOH0844142",
+    "Name": "Bharathi K",
+    "Relation": "Husbands Name: Manjunath S",
+    "address": "27",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 23,
+    "Voter ID": "TNH3649134",
+    "Name": "MEGHANA NARASINGARAO",
+    "Relation": "Fathers Name: R NARASINGARAO",
+    "address": "27",
+    "Age": 27,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 24,
+    "Voter ID": "BTF2165249",
+    "Name": "Bhaskar B S",
+    "Relation": "Fathers Name: Sriramulu G",
+    "address": "29",
+    "Age": 61,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 25,
+    "Voter ID": "BTF2165231",
+    "Name": "Susheela",
+    "Relation": "Husbands Name: Bhaskar",
+    "address": "29",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 26,
+    "Voter ID": "SOH5579289",
+    "Name": "SUMITRA R",
+    "Relation": "Fathers Name: Rajanna",
+    "address": "29",
+    "Age": 29,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 27,
+    "Voter ID": "SOH5578992",
+    "Name": "Sowmya R",
+    "Relation": "Fathers Name: Rajanna",
+    "address": "29",
+    "Age": 27,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 28,
+    "Voter ID": "SOH6355820",
+    "Name": "AKARSH KIRAN BHASKAR",
+    "Relation": "Fathers Name: BHASKAR",
+    "address": "#29, Sri sapthagiri",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 29,
+    "Voter ID": "BTF2165660",
+    "Name": "Nayana Padiyar",
+    "Relation": "Husbands Name: Nagesh Padiyar",
+    "address": "31",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 30,
+    "Voter ID": "BTF2165546",
+    "Name": "Prasad Kamatha",
+    "Relation": "Fathers Name: Raghavendra Kamath",
+    "address": "31",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 31,
+    "Voter ID": "BTF2165678",
+    "Name": "Nithina Padiyar",
+    "Relation": "Fathers Name: Nagesh Padiyar",
+    "address": "31",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 32,
+    "Voter ID": "SOH0702696",
+    "Name": "Naveen Kadiyar",
+    "Relation": "Fathers Name: Nagesh Kadiyar",
+    "address": "31",
+    "Age": 40,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 33,
+    "Voter ID": "SOH5375662",
+    "Name": "Latha C",
+    "Relation": "Mothers Name: Gunasundari",
+    "address": "32",
+    "Age": 36,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 34,
+    "Voter ID": "SOH0705012",
+    "Name": "Mir Himayath Uddin",
+    "Relation": "Fathers Name: Mir Ajiz Uddin",
+    "address": "32/2",
+    "Age": 77,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 35,
+    "Voter ID": "SOH0844266",
+    "Name": "Shah Banu",
+    "Relation": "Husbands Name: Mir Himayath Ddin",
+    "address": "32/2",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 36,
+    "Voter ID": "SOH0851337",
+    "Name": "Jayalakshmamma",
+    "Relation": "Husbands Name: Prabhakara Reddy",
+    "address": "33",
+    "Age": 82,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 37,
+    "Voter ID": "SOH0844324",
+    "Name": "Priyadarshini P",
+    "Relation": "Fathers Name: S Prabhakara Reddy",
+    "address": "33",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 38,
+    "Voter ID": "SOH4939856",
+    "Name": "Manjula.S",
+    "Relation": "Husbands Name: Lokesh.K.S",
+    "address": "34",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 39,
+    "Voter ID": "SOH0167064",
+    "Name": "Ramakrishna Gowda .K.N",
+    "Relation": "Fathers Name: Narayana",
+    "address": "34/1",
+    "Age": 61,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 40,
+    "Voter ID": "SOH0844332",
+    "Name": "C Devaraj",
+    "Relation": "Fathers Name: Chikkannappa M P Late",
+    "address": "34-2",
+    "Age": 83,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 41,
+    "Voter ID": "SOH0844340",
+    "Name": "M Nagarathna",
+    "Relation": "Husbands Name: C Devaraj",
+    "address": "34-2",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 42,
+    "Voter ID": "SOH0844357",
+    "Name": "Chethana.D",
+    "Relation": "Fathers Name: Devaraj.C",
+    "address": "34/2",
+    "Age": 42,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 43,
+    "Voter ID": "SOH5201009",
+    "Name": "S Kalavathi",
+    "Relation": "Fathers Name: N C Somashekar",
+    "address": "37",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 44,
+    "Voter ID": "SOH5201181",
+    "Name": "Vijaya Raghavan",
+    "Relation": "Fathers Name: N C Somashekar",
+    "address": "37",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 45,
+    "Voter ID": "SOH4356580",
+    "Name": "Prabhudev H T",
+    "Relation": "Fathers Name: H R Tammaiah",
+    "address": "39",
+    "Age": 77,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 46,
+    "Voter ID": "SOH4356374",
+    "Name": "U P Bhagirathi",
+    "Relation": "Husbands Name: HT Prabhu deev",
+    "address": "39",
+    "Age": 69,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 47,
+    "Voter ID": "SOH0612622",
+    "Name": "Radha",
+    "Relation": "Husbands Name: P Balakrishna",
+    "address": "40",
+    "Age": 67,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 48,
+    "Voter ID": "SOH0612630",
+    "Name": "B Ravikumar",
+    "Relation": "Fathers Name: P Balakrishna",
+    "address": "40",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 49,
+    "Voter ID": "SOH0612648",
+    "Name": "B Shashikumar",
+    "Relation": "Fathers Name: P Balakrishna",
+    "address": "40",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 50,
+    "Voter ID": "SOH4356705",
+    "Name": "Chandan K",
+    "Relation": "Husbands Name: ravi kumar bala krishna",
+    "address": "40",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 51,
+    "Voter ID": "SOH0844506",
+    "Name": "Vanitha Shashikumar",
+    "Relation": "Husbands Name: Shashikumar B.",
+    "address": "40",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 52,
+    "Voter ID": "SOH6512180",
+    "Name": "Anirudh B Shashikumar",
+    "Relation": "Fathers Name: Shashikumar Balakrishna",
+    "address": "40",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 53,
+    "Voter ID": "SOH5950506",
+    "Name": "Savithri G",
+    "Relation": "Husbands Name: S R N Prasad",
+    "address": "41",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 54,
+    "Voter ID": "BTF0971994",
+    "Name": "K Kumar",
+    "Relation": "Fathers Name: R V Krishnamurthy",
+    "address": "42",
+    "Age": 75,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 55,
+    "Voter ID": "BTF0971978",
+    "Name": "K Venkatesh",
+    "Relation": "Fathers Name: Late R V Krishnamurthy",
+    "address": "42",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 56,
+    "Voter ID": "BTF0972000",
+    "Name": "K Vijayalakshmi",
+    "Relation": "Husbands Name: K Kumar",
+    "address": "42",
+    "Age": 63,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 57,
+    "Voter ID": "BTF3545399",
+    "Name": "SHANKAR KUMAR",
+    "Relation": "Fathers Name: K. Kumar",
+    "address": "42",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 58,
+    "Voter ID": "SOH4483160",
+    "Name": "Shreyas.R",
+    "Relation": "Fathers Name: Raja Ram.K",
+    "address": "42",
+    "Age": 35,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 59,
+    "Voter ID": "SOH0844605",
+    "Name": "Lalitha Gopalakrishna",
+    "Relation": "Husbands Name: G Gopalakrishna",
+    "address": "43",
+    "Age": 83,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 60,
+    "Voter ID": "SOH0844613",
+    "Name": "Nagendra H",
+    "Relation": "Fathers Name: G Gopalakrishna",
+    "address": "43",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 61,
+    "Voter ID": "SOH4482949",
+    "Name": "Vasuki.H.R",
+    "Relation": "Husbands Name: Nagendra.H Hulikal",
+    "address": "43",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 62,
+    "Voter ID": "SOH0844621",
+    "Name": "Surendra H",
+    "Relation": "Fathers Name: G Gopalakrishna",
+    "address": "43",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 63,
+    "Voter ID": "SOH6112965",
+    "Name": "KAUSTUBH HOLLA",
+    "Relation": "Fathers Name: NAGENDRA HULIKAL",
+    "address": "43",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 64,
+    "Voter ID": "BTF2165298",
+    "Name": "Ajay Prasad",
+    "Relation": "Fathers Name: Prasad M R",
+    "address": "44",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 65,
+    "Voter ID": "SOH3868676",
+    "Name": "Tarini Bohra",
+    "Relation": "Fathers Name: Dinesh Singh Bohra",
+    "address": "45",
+    "Age": 35,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 66,
+    "Voter ID": "SOH4474573",
+    "Name": "Dirsha Bohra",
+    "Relation": "Fathers Name: Dinesh Singh Bohra",
+    "address": "45",
+    "Age": 33,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 67,
+    "Voter ID": "SOH0612135",
+    "Name": "Dinesh Sing Bahura",
+    "Relation": "Fathers Name: Late. Sampath Sing Bahura",
+    "address": "45N",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 68,
+    "Voter ID": "SOH0612127",
+    "Name": "Mala Bahura",
+    "Relation": "Husbands Name: Dinesh Sing Bahura",
+    "address": "45N",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 69,
+    "Voter ID": "SOH0612119",
+    "Name": "Sonam Murut",
+    "Relation": "Fathers Name: Abhya Munut",
+    "address": "45N",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 70,
+    "Voter ID": "BTF0948331",
+    "Name": "B S Venkatesh Kumar",
+    "Relation": "Fathers Name: V Srinivasalah",
+    "address": "46",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 71,
+    "Voter ID": "BTF0978445",
+    "Name": "Nagesh B S",
+    "Relation": "Fathers Name: V Srinivasalah",
+    "address": "46",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 72,
+    "Voter ID": "SOH6437024",
+    "Name": "HUMSIKA V VENKTESH",
+    "Relation": "Fathers Name: VENKATESH KUMAR BS",
+    "address": "#46 venkateshwara nilaya",
+    "Age": 20,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 73,
+    "Voter ID": "SOH3854726",
+    "Name": "Shilpa Sambasivan",
+    "Relation": "Fathers Name: D Samba Sivan",
+    "address": "47",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 74,
+    "Voter ID": "SOH6013734",
+    "Name": "PAVAN KUMAR R",
+    "Relation": "Fathers Name: RAJU M",
+    "address": "47",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 75,
+    "Voter ID": "SOH4120168",
+    "Name": "T R Narayanan kutty",
+    "Relation": "Fathers Name: K Raman Kutty",
+    "address": "48",
+    "Age": 84,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 76,
+    "Voter ID": "SOH4120200",
+    "Name": "Radha kutty",
+    "Relation": "Husbands Name: Narayana kutty kutty",
+    "address": "48",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 77,
+    "Voter ID": "SOH3880010",
+    "Name": "Dilshad",
+    "Relation": "Husbands Name: Khasim Beig",
+    "address": "49/5",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 78,
+    "Voter ID": "SOH4120317",
+    "Name": "Sindhu pradeep",
+    "Relation": "Husbands Name: S Pradeep",
+    "address": "50",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 79,
+    "Voter ID": "BTF0975334",
+    "Name": "Rohini",
+    "Relation": "Husbands Name: N Pandurangan",
+    "address": "54",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 80,
+    "Voter ID": "SOH0634915",
+    "Name": "Dilip .P",
+    "Relation": "Fathers Name: Panduranga.N",
+    "address": "54",
+    "Age": 38,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 81,
+    "Voter ID": "SOH1807593",
+    "Name": "Deeraj .P",
+    "Relation": "Fathers Name: N.Pandurangan",
+    "address": "54",
+    "Age": 36,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 82,
+    "Voter ID": "SOH3877503",
+    "Name": "Pradeep Kumar",
+    "Relation": "Fathers Name: K Jayaram",
+    "address": "60",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 83,
+    "Voter ID": "SOH4356416",
+    "Name": "N B Shobha",
+    "Relation": "Fathers Name: NN Bheemaiah",
+    "address": "61",
+    "Age": 69,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 84,
+    "Voter ID": "BTF1200344",
+    "Name": "ABHISHEK SRINIVAS GOWDA",
+    "Relation": "Fathers Name: Srinivas K K",
+    "address": "65, SREE NILAYA",
+    "Age": 45,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 85,
+    "Voter ID": "SOH4449260",
+    "Name": "Majida Begaum",
+    "Relation": "Fathers Name: Khasim Ali Khan",
+    "address": "66A/N",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 86,
+    "Voter ID": "SOH4356911",
+    "Name": "P K Ramesha",
+    "Relation": "Fathers Name: P Krishna Rao",
+    "address": "73",
+    "Age": 68,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 87,
+    "Voter ID": "SOH4356390",
+    "Name": "H R Kalavathi",
+    "Relation": "Husbands Name: P K ramesh",
+    "address": "73",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 88,
+    "Voter ID": "SOH4356978",
+    "Name": "P K Veenakumari",
+    "Relation": "Husbands Name: Krishna Rao",
+    "address": "73",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 89,
+    "Voter ID": "SOH4356762",
+    "Name": "N.V Chikkaramaiah",
+    "Relation": "Fathers Name: vagappa chikka Ramaiah",
+    "address": "74",
+    "Age": 92,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 90,
+    "Voter ID": "SOH4356903",
+    "Name": "Vijayalakshmi Chikkaramaiah",
+    "Relation": "Husbands Name: chikka ramaiah",
+    "address": "74",
+    "Age": 81,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 91,
+    "Voter ID": "SOH4356606",
+    "Name": "Shridhar Chikkavaraiah",
+    "Relation": "Fathers Name: Chikkavaraiah.N.V",
+    "address": "74",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 92,
+    "Voter ID": "SOH4357109",
+    "Name": "Kusuma M",
+    "Relation": "Husbands Name: Shashidar",
+    "address": "74",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 93,
+    "Voter ID": "SOH0845271",
+    "Name": "H Puttaiah",
+    "Relation": "Fathers Name: Hanumoji Rao",
+    "address": "76",
+    "Age": 92,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 94,
+    "Voter ID": "SOH4947438",
+    "Name": "Hussainabee",
+    "Relation": "Fathers Name: Hasanasab Meladamani",
+    "address": "76",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 95,
+    "Voter ID": "SOH6445852",
+    "Name": "SHAHEEN BEGUM",
+    "Relation": "Fathers Name: RAJESAB RAJESAB",
+    "address": "#76",
+    "Age": 20,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 96,
+    "Voter ID": "SOH6501886",
+    "Name": "Jhanvi Bai Bangalore Manohar",
+    "Relation": "Fathers Name: Manohar Rao Harale Bangalore Puttaiah",
+    "address": "76 PUJA",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 97,
+    "Voter ID": "BTF0972125",
+    "Name": "C G Subbamma",
+    "Relation": "Husbands Name: C A Gopinath",
+    "address": "79",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 98,
+    "Voter ID": "BTF0972133",
+    "Name": "C G Anand",
+    "Relation": "Fathers Name: C A Gopinath",
+    "address": "79",
+    "Age": 64,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 99,
+    "Voter ID": "BTF0972141",
+    "Name": "C S Padmarekha",
+    "Relation": "Husbands Name: C G Aanand",
+    "address": "79",
+    "Age": 63,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 100,
+    "Voter ID": "BTF0955617",
+    "Name": "C G Muralimohan",
+    "Relation": "Fathers Name: Gopinath",
+    "address": "79",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 101,
+    "Voter ID": "SOH0845370",
+    "Name": "Ananthalakshmi",
+    "Relation": "Husbands Name: Ram Belludi",
+    "address": "81",
+    "Age": 85,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 102,
+    "Voter ID": "SOH0845388",
+    "Name": "Anjaneya B R",
+    "Relation": "Fathers Name: Ramappa Belludi",
+    "address": "81",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 103,
+    "Voter ID": "SOH0845396",
+    "Name": "Janardhana",
+    "Relation": "Fathers Name: Natarajan",
+    "address": "82",
+    "Age": 68,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 104,
+    "Voter ID": "SOH0845404",
+    "Name": "Sudha Janardhana",
+    "Relation": "Husbands Name: Janardhana",
+    "address": "82",
+    "Age": 63,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 105,
+    "Voter ID": "SOH0845420",
+    "Name": "Muralidharan K.R",
+    "Relation": "Fathers Name: Krishna Pillai",
+    "address": "83",
+    "Age": 79,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 106,
+    "Voter ID": "SOH0845438",
+    "Name": "Sree Kumari.R",
+    "Relation": "Husbands Name: Muralidharan K R",
+    "address": "83",
+    "Age": 78,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 107,
+    "Voter ID": "SOH0845453",
+    "Name": "Vijay M Krishna",
+    "Relation": "Fathers Name: Muralidharan.K.R",
+    "address": "83",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 108,
+    "Voter ID": "SOH5204201",
+    "Name": "Vijay Kumar",
+    "Relation": "Fathers Name: Lakshman Rao",
+    "address": "85",
+    "Age": 84,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 109,
+    "Voter ID": "SOH5204193",
+    "Name": "Vanamala Padaki",
+    "Relation": "Husbands Name: Vijay Kumar Padaki",
+    "address": "85",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 110,
+    "Voter ID": "BTF2165157",
+    "Name": "Vikram Padaki",
+    "Relation": "Fathers Name: Vijayakumar",
+    "address": "85",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 111,
+    "Voter ID": "BTF0947515",
+    "Name": "Vinutha V Padaki",
+    "Relation": "Fathers Name: Vijayakumar",
+    "address": "85",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 112,
+    "Voter ID": "SOH0612051",
+    "Name": "Vinayak Vijya Padaki",
+    "Relation": "Fathers Name: Vijye Kumar",
+    "address": "85",
+    "Age": 41,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 113,
+    "Voter ID": "SOH4656880",
+    "Name": "Venkatesh Reddy.C.R",
+    "Relation": "Fathers Name: Ramareddi",
+    "address": "87N",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 114,
+    "Voter ID": "SOH0646950",
+    "Name": "Veena.R",
+    "Relation": "Husbands Name: Venkatesh Reddy.C.R",
+    "address": "87N",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 115,
+    "Voter ID": "SOH6278055",
+    "Name": "Darshan N Patel",
+    "Relation": "Fathers Name: Niraj Manubhai Patel",
+    "address": "90",
+    "Age": 30,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 116,
+    "Voter ID": "SOH4071262",
+    "Name": "Sonal N Patel",
+    "Relation": "Husbands Name: NIRAJ M PATEL",
+    "address": "90, SHREE AMBE",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 117,
+    "Voter ID": "SOH0845495",
+    "Name": "NIRAJ M PATEL",
+    "Relation": "Fathers Name: MANUBHAI M PATEL",
+    "address": "90, SHREE AMBE",
+    "Age": 40,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 118,
+    "Voter ID": "BTF1171982",
+    "Name": "B T Seshachalam",
+    "Relation": "Fathers Name: B R T Mudaliyar",
+    "address": "91",
+    "Age": 94,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 119,
+    "Voter ID": "SOH4449229",
+    "Name": "Saraswathi Raman",
+    "Relation": "Husbands Name: Raman",
+    "address": "91",
+    "Age": 72,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 120,
+    "Voter ID": "SOH4356697",
+    "Name": "V. Shekhar",
+    "Relation": "Fathers Name: H R Vishwanath",
+    "address": "91",
+    "Age": 70,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 121,
+    "Voter ID": "BTF1173400",
+    "Name": "B S Chandrika",
+    "Relation": "Husbands Name: V Shekar",
+    "address": "91",
+    "Age": 64,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 122,
+    "Voter ID": "SOH6484885",
+    "Name": "Anshul Khurana",
+    "Relation": "Mothers Name: Devaki Khurana",
+    "address": "91/1, Nikhil Apartments",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 123,
+    "Voter ID": "SOH0845594",
+    "Name": "B Vijaya",
+    "Relation": "Husbands Name: J M Veerannagowda",
+    "address": "92",
+    "Age": 73,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 124,
+    "Voter ID": "BTF0949131",
+    "Name": "Aravind M V",
+    "Relation": "Fathers Name: G M Veerannagowda",
+    "address": "92",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 125,
+    "Voter ID": "TPC4310397",
+    "Name": "Najma M",
+    "Relation": "Fathers Name: Mahammad Khan",
+    "address": "#92",
+    "Age": 36,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 126,
+    "Voter ID": "BTF0949123",
+    "Name": "Geetha B",
+    "Relation": "Husbands Name: Aravind M V",
+    "address": "92-A",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 127,
+    "Voter ID": "BTF2160984",
+    "Name": "Prathibha",
+    "Relation": "Husbands Name: Mahesh Niyogi R",
+    "address": "94",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 128,
+    "Voter ID": "BTF0974782",
+    "Name": "Susheelamma",
+    "Relation": "Husbands Name: Siddagangappa",
+    "address": "95",
+    "Age": 80,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 129,
+    "Voter ID": "BTF0974774",
+    "Name": "Jayaprakash B S",
+    "Relation": "Fathers Name: Siddagangappa",
+    "address": "95",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 130,
+    "Voter ID": "BTF0974766",
+    "Name": "Jyothi N V",
+    "Relation": "Husbands Name: Jayaprakash B S",
+    "address": "95",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 131,
+    "Voter ID": "SOH6420087",
+    "Name": "ANEESH J PRAKASH",
+    "Relation": "Fathers Name: JAYAPRAKASH B S",
+    "address": "95",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 132,
+    "Voter ID": "BTF3545647",
+    "Name": "Venkatesh Ellora",
+    "Relation": "Fathers Name: E. K. Govindaraj",
+    "address": "96",
+    "Age": 70,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 133,
+    "Voter ID": "SOH5200977",
+    "Name": "Srikrishna ellore",
+    "Relation": "Fathers Name: Venkatesh ellore",
+    "address": "96",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 134,
+    "Voter ID": "SOH5201157",
+    "Name": "Arjun Ellore",
+    "Relation": "Fathers Name: Venkatesh Ellore",
+    "address": "96",
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 135,
+    "Voter ID": "BTF2160927",
+    "Name": "C Niranjan",
+    "Relation": "Fathers Name: B K Chennanna",
+    "address": "98",
+    "Age": 67,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 136,
+    "Voter ID": "BTF0975102",
+    "Name": "Rekha. N",
+    "Relation": "Husbands Name: C Niranjan",
+    "address": "98",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 137,
+    "Voter ID": "BTF0972034",
+    "Name": "M.K. Radha",
+    "Relation": "Husbands Name: C S Kumar",
+    "address": "99",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 138,
+    "Voter ID": "SOH0124230",
+    "Name": "M. K. Satish Kumar",
+    "Relation": "Fathers Name: C. S. Kumar",
+    "address": "99",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 139,
+    "Voter ID": "SOH4666061",
+    "Name": "Ambika Satish",
+    "Relation": "Husbands Name: Satish Kumar. M. K",
+    "address": "99",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 140,
+    "Voter ID": "BTF0972026",
+    "Name": "H Leelavathi",
+    "Relation": "Husbands Name: D Harikrishnan",
+    "address": "100",
+    "Age": 86,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 141,
+    "Voter ID": "SOH6447338",
+    "Name": "Pradeep Harikrishnan",
+    "Relation": "Mothers Name: Leelavathi H",
+    "address": "100",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 142,
+    "Voter ID": "SOH6447239",
+    "Name": "Indira Pradeep",
+    "Relation": "Husbands Name: Pradeep Harikrishnan",
+    "address": "100",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 143,
+    "Voter ID": "SOH0845768",
+    "Name": "Shamala",
+    "Relation": "Husbands Name: G A Nirmala Kumar",
+    "address": "101",
+    "Age": 81,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 144,
+    "Voter ID": "SOH0845776",
+    "Name": "Manasa",
+    "Relation": "Fathers Name: Nirmal Kumar G A",
+    "address": "101",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 145,
+    "Voter ID": "BTF2165413",
+    "Name": "Pramila",
+    "Relation": "Husbands Name: R Subbaraju",
+    "address": "102",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 146,
+    "Voter ID": "BTF0951889",
+    "Name": "G Sridhar Raju",
+    "Relation": "Fathers Name: G S Raghavaraju",
+    "address": "102",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 147,
+    "Voter ID": "BTF0974113",
+    "Name": "Srivani G",
+    "Relation": "Husbands Name: Sridhar Raju G",
+    "address": "102",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 148,
+    "Voter ID": "BTF0950469",
+    "Name": "R Vasugi",
+    "Relation": "Husbands Name: M Ranganathan",
+    "address": "103",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 149,
+    "Voter ID": "SOH5460852",
+    "Name": "R Bhaskaran",
+    "Relation": "Fathers Name: M Ranga nath",
+    "address": "103",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 150,
+    "Voter ID": "SOH0845800",
+    "Name": "R Parthiban",
+    "Relation": "Fathers Name: Ranganathan M",
+    "address": "103",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 151,
+    "Voter ID": "SOH0845818",
+    "Name": "R Gangadharan",
+    "Relation": "Fathers Name: M Ranganathan",
+    "address": "103",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 152,
+    "Voter ID": "BTF2174167",
+    "Name": "K V Balakrishna Urs",
+    "Relation": "Fathers Name: K P Venkate Urs",
+    "address": "106",
+    "Age": 93,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 153,
+    "Voter ID": "BTF2174175",
+    "Name": "Jayalakshammany R",
+    "Relation": "Husbands Name: K V Balakrishna Urs",
+    "address": "106",
+    "Age": 86,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 154,
+    "Voter ID": "SOH0845883",
+    "Name": "Srinivasa..B..K",
+    "Relation": "Fathers Name: Balakrishna Urs.K.V",
+    "address": "106",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 155,
+    "Voter ID": "SOH5960786",
+    "Name": "NEHA S",
+    "Relation": "Mothers Name: JYOTHI K",
+    "address": "106",
+    "Age": 25,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 156,
+    "Voter ID": "SOH6534986",
+    "Name": "NITHIN S URS",
+    "Relation": "Fathers Name: B K SRINIVAS",
+    "address": "106",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 157,
+    "Voter ID": "SOH0845933",
+    "Name": "Prathibhaa M Bhat",
+    "Relation": "Husbands Name: Mahadev S Bhat",
+    "address": "107",
+    "Age": 75,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 158,
+    "Voter ID": "SOH0845941",
+    "Name": "C Pramod Bhat",
+    "Relation": "Fathers Name: Mahadev S Bhat",
+    "address": "107",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 159,
+    "Voter ID": "SOH0845966",
+    "Name": "Jyothi Padiadpu",
+    "Relation": "Husbands Name: C Pramod Bhat",
+    "address": "107",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 160,
+    "Voter ID": "SOH0845974",
+    "Name": "Ashwath Narayan K",
+    "Relation": "Fathers Name: K Ramaiah",
+    "address": "108",
+    "Age": 87,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 161,
+    "Voter ID": "BTF2165710",
+    "Name": "K A Venkatesh",
+    "Relation": "Fathers Name: K Ashwath Narayan",
+    "address": "108",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 162,
+    "Voter ID": "BTF0955047",
+    "Name": "I G Ponnappa",
+    "Relation": "Fathers Name: I K Ganapathi",
+    "address": "109",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 163,
+    "Voter ID": "BTF0972596",
+    "Name": "I K Ganapathi",
+    "Relation": "Fathers Name: I K Kuttappa",
+    "address": "109/1",
+    "Age": 87,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 164,
+    "Voter ID": "BTF2166247",
+    "Name": "Chitharanjan K",
+    "Relation": "Fathers Name: Annappaiah K",
+    "address": "110",
+    "Age": 85,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 165,
+    "Voter ID": "BTF2166254",
+    "Name": "Shakunthala K",
+    "Relation": "Husbands Name: Chitharanjan K",
+    "address": "110",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 166,
+    "Voter ID": "BTF3545761",
+    "Name": "Gayithri K",
+    "Relation": "Husbands Name: Chitharanjan K",
+    "address": "110",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 167,
+    "Voter ID": "SOH6373757",
+    "Name": "K Jhenkar",
+    "Relation": "Fathers Name: K Shailendra",
+    "address": "110",
+    "Age": 28,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 168,
+    "Voter ID": "BTF0947366",
+    "Name": "Shobi Thomas",
+    "Relation": "Fathers Name: Thomas Omain",
+    "address": "111",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 169,
+    "Voter ID": "BTF0947358",
+    "Name": "Sara S Thomas",
+    "Relation": "Husbands Name: Shobi Thomas",
+    "address": "111",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 170,
+    "Voter ID": "SOH4483228",
+    "Name": "Johann.S Thomas",
+    "Relation": "Fathers Name: Shobi Thomas",
+    "address": "111",
+    "Age": 35,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 171,
+    "Voter ID": "BTF3191913",
+    "Name": "H S Prabhakar",
+    "Relation": "Fathers Name: Subraya",
+    "address": "112",
+    "Age": 83,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 172,
+    "Voter ID": "SOH0846022",
+    "Name": "Rathna Prabhakar",
+    "Relation": "Husbands Name: Prabhakar H.S.",
+    "address": "112",
+    "Age": 73,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 173,
+    "Voter ID": "BTF3192614",
+    "Name": "H P Prithwikumara",
+    "Relation": "Fathers Name: Prabhakar H S",
+    "address": "112",
+    "Age": 48,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 174,
+    "Voter ID": "SOH0175844",
+    "Name": "Divya Pruthavi",
+    "Relation": "Husbands Name: Pruthavi Kumar.H .P",
+    "address": "112",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 175,
+    "Voter ID": "BTF0976597",
+    "Name": "G D Kavitha",
+    "Relation": "Fathers Name: G S Dwarakanath",
+    "address": "113",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 176,
+    "Voter ID": "SOH5706437",
+    "Name": "BHOOMIKA B S",
+    "Relation": "Fathers Name: R SHANKAR",
+    "address": "114 gowrisharan",
+    "Age": 26,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 177,
+    "Voter ID": "SOH4356846",
+    "Name": "Sajida Begaum khaji",
+    "Relation": "Husbands Name: sharif sab",
+    "address": "115",
+    "Age": 72,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 178,
+    "Voter ID": "SOH4356994",
+    "Name": "Mohammed Arif Khazi",
+    "Relation": "Fathers Name: Mohamad Sharif",
+    "address": "115",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 179,
+    "Voter ID": "BTF0974865",
+    "Name": "Mahamada Thanwira Khaji",
+    "Relation": "Fathers Name: Mohammed Sharif Kazi",
+    "address": "115",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 180,
+    "Voter ID": "SOH4356440",
+    "Name": "Pharaha Naz Khazi",
+    "Relation": "Husbands Name: Shariff Sab",
+    "address": "115",
+    "Age": 38,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 181,
+    "Voter ID": "SOH3799525",
+    "Name": "G Deepa",
+    "Relation": "Husbands Name: U Girish Kumar",
+    "address": "116",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 182,
+    "Voter ID": "SOH3799517",
+    "Name": "U Girish Kumar",
+    "Relation": "Fathers Name: Umapathi",
+    "address": "116",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 183,
+    "Voter ID": "SOH5553946",
+    "Name": "Sanjana G",
+    "Relation": "Fathers Name: U Girish Kumar",
+    "address": "116",
+    "Age": 30,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 184,
+    "Voter ID": "BTF3544574",
+    "Name": "Achinthyakumara Basu",
+    "Relation": "Fathers Name: Sachiranjana. B",
+    "address": "117",
+    "Age": 82,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 185,
+    "Voter ID": "BTF3544582",
+    "Name": "Kalpana. A. Basu",
+    "Relation": "Husbands Name: Achinthyakumara. B",
+    "address": "117",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 186,
+    "Voter ID": "BTF3545639",
+    "Name": "Subrahmanyan G K R",
+    "Relation": "Fathers Name: Gopalakrishna",
+    "address": "118",
+    "Age": 75,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 187,
+    "Voter ID": "BTF3545548",
+    "Name": "Padma Subrahmanyan",
+    "Relation": "Husbands Name: Subrahmanyan",
+    "address": "118",
+    "Age": 69,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 188,
+    "Voter ID": "SOH0611053",
+    "Name": "Shri Krishnan",
+    "Relation": "Fathers Name: Subramanayya.G.K.R",
+    "address": "118",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 189,
+    "Voter ID": "SOH5194246",
+    "Name": "Rathnamma T N",
+    "Relation": "Husbands Name: Akkalappa A C",
+    "address": "121",
+    "Age": 67,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 190,
+    "Voter ID": "SOH0846121",
+    "Name": "Ramamangaladevi B",
+    "Relation": "Husbands Name: S Basava Rajaiah",
+    "address": "122",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 191,
+    "Voter ID": "SOH0846139",
+    "Name": "Jayanth B",
+    "Relation": "Fathers Name: S Basavarajaiah",
+    "address": "122",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 192,
+    "Voter ID": "SOH0846147",
+    "Name": "Geeta Jayanth",
+    "Relation": "Husbands Name: Jayanth B",
+    "address": "122",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 193,
+    "Voter ID": "SOH5577622",
+    "Name": "Padmanabha M D",
+    "Relation": "Fathers Name: Late Doreswamy M S",
+    "address": "123",
+    "Age": 64,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 194,
+    "Voter ID": "SOH5578802",
+    "Name": "Ramesh M D",
+    "Relation": "Fathers Name: Late Doreswamy M S",
+    "address": "123",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 195,
+    "Voter ID": "SOH5578836",
+    "Name": "Shobha M Kanakapur",
+    "Relation": "Husbands Name: Padnamabha M D",
+    "address": "123",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 196,
+    "Voter ID": "SOH4356887",
+    "Name": "Jubedha Khathun",
+    "Relation": "Husbands Name: Syed Maqbool Ahmed",
+    "address": "124",
+    "Age": 73,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 197,
+    "Voter ID": "ZBG7001936",
+    "Name": "Anam Fathima",
+    "Relation": "Husbands Name: Kalim Pasha",
+    "address": "125",
+    "Age": 31,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 198,
+    "Voter ID": "BTF0971234",
+    "Name": "Savithri P R",
+    "Relation": "Husbands Name: P Ramakrishna Bhat",
+    "address": "126",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 199,
+    "Voter ID": "BTF0971218",
+    "Name": "P Ishwara Bhat",
+    "Relation": "Fathers Name: P Ramakrishna Bhat",
+    "address": "126",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 200,
+    "Voter ID": "BTF0971226",
+    "Name": "Kavyashree P I",
+    "Relation": "Husbands Name: Ishwara Bhat P",
+    "address": "126",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 201,
+    "Voter ID": "BTF3544012",
+    "Name": "Jameela Matheen",
+    "Relation": "Fathers Name: Abdul Majid Khan",
+    "address": "127",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 202,
+    "Voter ID": "BTF0951632",
+    "Name": "Abdul Razaq Khari",
+    "Relation": "Fathers Name: Abdul Majeed Khan",
+    "address": "127",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 203,
+    "Voter ID": "BTF0946541",
+    "Name": "TASNEEM FATHIMA A S",
+    "Relation": "Husbands Name: Abdul Razaq Khan",
+    "address": "127",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 204,
+    "Voter ID": "SOH4667358",
+    "Name": "Aasiph Muhumda .A.H",
+    "Relation": "Fathers Name: Late Abdul Hamid",
+    "address": "127",
+    "Age": 39,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 205,
+    "Voter ID": "SOH5994173",
+    "Name": "Mohammed Farhan Khan",
+    "Relation": "Fathers Name: Abdul Razaq Khan",
+    "address": "127",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 206,
+    "Voter ID": "SOH6372601",
+    "Name": "SUMAIYA FATHIMA",
+    "Relation": "Mothers Name: TASNEEM FATHIMA A S",
+    "address": "127",
+    "Age": 21,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 207,
+    "Voter ID": "SOH6532840",
+    "Name": "MOHAMMED IRFAN KHAN",
+    "Relation": "Fathers Name: ABDUL RAZAQ KHAN",
+    "address": "127",
+    "Age": 19,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 208,
+    "Voter ID": "SOH5927280",
+    "Name": "Shahbuddin Kaleem Khan",
+    "Relation": "Fathers Name: Shahbuddin Khan",
+    "address": "# 127",
+    "Age": 75,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 209,
+    "Voter ID": "SOH5457767",
+    "Name": "Mappala Karthik Kumar",
+    "Relation": "Fathers Name: M V Narayana Raju",
+    "address": "128",
+    "Age": 40,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 210,
+    "Voter ID": "SOH5194105",
+    "Name": "V C Shridhar",
+    "Relation": "Fathers Name: V P C Naidu",
+    "address": "131",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 211,
+    "Voter ID": "SOH5194378",
+    "Name": "Suma Sridhar",
+    "Relation": "Husbands Name: V C Sridhar",
+    "address": "131",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 212,
+    "Voter ID": "SOH0846337",
+    "Name": "M S Kamala",
+    "Relation": "Husbands Name: B K Subramanyam",
+    "address": "135",
+    "Age": 94,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 213,
+    "Voter ID": "SOH0176487",
+    "Name": "B S Prathibha",
+    "Relation": "Fathers Name: B K Subramanyam",
+    "address": "135",
+    "Age": 67,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 214,
+    "Voter ID": "SOH0128298",
+    "Name": "S Anantha",
+    "Relation": "Fathers Name: Shivaram",
+    "address": "135",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 215,
+    "Voter ID": "SOH0846345",
+    "Name": "Trishul",
+    "Relation": "Mothers Name: Parthiba S",
+    "address": "135",
+    "Age": 37,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 216,
+    "Voter ID": "BTF0973297",
+    "Name": "Suguna Selvan",
+    "Relation": "Husbands Name: Selvan J",
+    "address": "136",
+    "Age": 88,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 217,
+    "Voter ID": "SOH0846352",
+    "Name": "Suresh Selvan",
+    "Relation": "Fathers Name: Selvan.J",
+    "address": "136",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 218,
+    "Voter ID": "SOH0846360",
+    "Name": "Shanthi Suresh",
+    "Relation": "Husbands Name: Suresh Selvan",
+    "address": "136",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 219,
+    "Voter ID": "SOH4120119",
+    "Name": "supriya suresh",
+    "Relation": "Fathers Name: suresh",
+    "address": "136",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 220,
+    "Voter ID": "SOH0846386",
+    "Name": "Masood Khan D",
+    "Relation": "Fathers Name: Davud Khan D",
+    "address": "137",
+    "Age": 67,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 221,
+    "Voter ID": "BTF0971820",
+    "Name": "Zareena Begum",
+    "Relation": "Husbands Name: Davood Khan",
+    "address": "137",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 222,
+    "Voter ID": "BTF0971838",
+    "Name": "Rokhiya Sultana",
+    "Relation": "Husbands Name: Vasimulla Khan",
+    "address": "137",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 223,
+    "Voter ID": "SOH6010722",
+    "Name": "SAUD MASOOD KHAN KHAN",
+    "Relation": "Mothers Name: SHABANA KOUSER",
+    "address": "137",
+    "Age": 25,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 224,
+    "Voter ID": "SOH6010706",
+    "Name": "RIMSHA MEHNAAZ KHAN KHAN",
+    "Relation": "Fathers Name: DAWOOD MASOOD KHAN",
+    "address": "137",
+    "Age": 22,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 225,
+    "Voter ID": "SOH6186621",
+    "Name": "SYED SHABUDDIN",
+    "Relation": "Fathers Name: SYED NAYEEMUDDIN",
+    "address": "138",
+    "Age": 22,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 226,
+    "Voter ID": "BTF0948554",
+    "Name": "Sachin S",
+    "Relation": "Fathers Name: K Sridhar",
+    "address": "138-1",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 227,
+    "Voter ID": "SOH5791066",
+    "Name": "T Rajaram",
+    "Relation": "Fathers Name: Rajaram Thirumalachar",
+    "address": "139",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 228,
+    "Voter ID": "SOH5791058",
+    "Name": "M S Kanyakumari",
+    "Relation": "Husbands Name: T Rajaram",
+    "address": "139",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 229,
+    "Voter ID": "SOH0846469",
+    "Name": "S Sarang Pani",
+    "Relation": "Fathers Name: Shamachar",
+    "address": "141",
+    "Age": 94,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 230,
+    "Voter ID": "SOH0846493",
+    "Name": "Shamasundar S",
+    "Relation": "Fathers Name: S Sarang Pani",
+    "address": "141",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 231,
+    "Voter ID": "BTF2165629",
+    "Name": "Chakravarthi Raman Sridhar",
+    "Relation": "Fathers Name: Karurna Bura Chakravarthi Raman",
+    "address": "143",
+    "Age": 76,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 232,
+    "Voter ID": "SOH0647651",
+    "Name": "Sarayu Shridhara",
+    "Relation": "Husbands Name: Shridhar.C.R",
+    "address": "143",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 233,
+    "Voter ID": "SOH0846568",
+    "Name": "Guddaiah",
+    "Relation": "Fathers Name: Chikkaiah",
+    "address": "144",
+    "Age": 83,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 234,
+    "Voter ID": "SOH0846576",
+    "Name": "Keshav G",
+    "Relation": "Fathers Name: Guddaiah",
+    "address": "144",
+    "Age": 77,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 235,
+    "Voter ID": "SOH0846584",
+    "Name": "Padma T",
+    "Relation": "Husbands Name: Guddaiah",
+    "address": "144",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 236,
+    "Voter ID": "SOH0846592",
+    "Name": "Aanand V",
+    "Relation": "Fathers Name: Viranna Gowda",
+    "address": "144",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 237,
+    "Voter ID": "SOH0611038",
+    "Name": "Sarala",
+    "Relation": "Husbands Name: Aanand V",
+    "address": "144",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 238,
+    "Voter ID": "SOH0846600",
+    "Name": "Shilpa G",
+    "Relation": "Husbands Name: Keshava.G",
+    "address": "144",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 239,
+    "Voter ID": "SOH6443063",
+    "Name": "Reyansh Keshava",
+    "Relation": "Mothers Name: Shilpa G",
+    "address": "144",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 240,
+    "Voter ID": "BTF0945154",
+    "Name": "Vinodha Surendranath",
+    "Relation": "Husbands Name: K P Surendra Nath",
+    "address": "145",
+    "Age": 89,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 241,
+    "Voter ID": "BTF1177138",
+    "Name": "G N Uma",
+    "Relation": "Husbands Name: G Nagesh",
+    "address": "148",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 242,
+    "Voter ID": "BTF2162667",
+    "Name": "G N Madhu",
+    "Relation": "Fathers Name: G Nagesh",
+    "address": "148",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 243,
+    "Voter ID": "SOH0846667",
+    "Name": "Padmini P",
+    "Relation": "Husbands Name: Madhu.G.N",
+    "address": "148",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 244,
+    "Voter ID": "SOH4071395",
+    "Name": "Bindesh A Patel",
+    "Relation": "Fathers Name: Aravind Bai Patel",
+    "address": "149",
+    "Age": 84,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 245,
+    "Voter ID": "SOH4071387",
+    "Name": "Damayanthi A Patel",
+    "Relation": "Husbands Name: Aravind Bai Patel",
+    "address": "149",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 246,
+    "Voter ID": "SOH3881521",
+    "Name": "Nikhil A Patel",
+    "Relation": "Fathers Name: Aravind Patel",
+    "address": "149",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 247,
+    "Voter ID": "SOH4071411",
+    "Name": "Bela B Patel",
+    "Relation": "Husbands Name: Bindesh Patel",
+    "address": "149",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 248,
+    "Voter ID": "SOH3881513",
+    "Name": "Hemangini N Patel",
+    "Relation": "Husbands Name: Nikhil Kumar Patel",
+    "address": "149",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 249,
+    "Voter ID": "SOH4356515",
+    "Name": "Prasanna",
+    "Relation": "Husbands Name: mohan",
+    "address": "151",
+    "Age": 70,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 250,
+    "Voter ID": "BTF1170505",
+    "Name": "Tharabai S",
+    "Relation": "Husbands Name: S Mahabala Shet",
+    "address": "152",
+    "Age": 90,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 251,
+    "Voter ID": "BTF1174465",
+    "Name": "S Ravi Shankar Shet",
+    "Relation": "Fathers Name: S Mahabala Shet",
+    "address": "152",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 252,
+    "Voter ID": "BTF1170497",
+    "Name": "Latha R",
+    "Relation": "Husbands Name: S Ravi Shankar Shet",
+    "address": "152",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 253,
+    "Voter ID": "SOH0122143",
+    "Name": "Navanith.R",
+    "Relation": "Fathers Name: Ravishankar Shet.S",
+    "address": "152",
+    "Age": 39,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 254,
+    "Voter ID": "BTF0944793",
+    "Name": "K P Ananthagopal",
+    "Relation": "Fathers Name: K S Perumal",
+    "address": "153",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 255,
+    "Voter ID": "BTF0944553",
+    "Name": "Sandhya K",
+    "Relation": "Husbands Name: Ananthagopal K P",
+    "address": "153",
+    "Age": 64,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 256,
+    "Voter ID": "SOH0846691",
+    "Name": "Lakshmi",
+    "Relation": "Fathers Name: Ananth Gopal",
+    "address": "153",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 257,
+    "Voter ID": "SOH4898631",
+    "Name": "KANTHI K A",
+    "Relation": "Fathers Name: Ananthagopal K P",
+    "address": "153",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 258,
+    "Voter ID": "SOH6108203",
+    "Name": "Navin Suparna Bindiganavile",
+    "Relation": "Mothers Name: Usha Suparna",
+    "address": "155",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 259,
+    "Voter ID": "SOH6103022",
+    "Name": "Priyanka J P",
+    "Relation": "Husbands Name: Jayaprakash P",
+    "address": "155 Madiiu 8th Cross",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 260,
+    "Voter ID": "BTF0971291",
+    "Name": "Narayan Swamy S T",
+    "Relation": "Fathers Name: B Thopegowda",
+    "address": "156",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 261,
+    "Voter ID": "SOH6185789",
+    "Name": "MANISH L V L V",
+    "Relation": "Fathers Name: VIJAYAKUMAR N L N L",
+    "address": "159",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 262,
+    "Voter ID": "SOH0170951",
+    "Name": "Anjum Afshan",
+    "Relation": "Husbands Name: Haroon Pasha",
+    "address": "160",
+    "Age": 70,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 263,
+    "Voter ID": "SOH3799210",
+    "Name": "Jainabe",
+    "Relation": "Husbands Name: M Shakila",
+    "address": "160",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 264,
+    "Voter ID": "SOH3799228",
+    "Name": "M Shakei",
+    "Relation": "Fathers Name: Rehaman",
+    "address": "160",
+    "Age": 66,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 265,
+    "Voter ID": "SOH4660759",
+    "Name": "Shuyrab Haron",
+    "Relation": "Fathers Name: Dr. Haron Pasha",
+    "address": "160",
+    "Age": 49,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 266,
+    "Voter ID": "SOH4636296",
+    "Name": "Zuheb Harun",
+    "Relation": "Fathers Name: Dr Haron Pasha",
+    "address": "160",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 267,
+    "Voter ID": "SOH0170431",
+    "Name": "Hamza Haroon",
+    "Relation": "Fathers Name: Haroon Pasha",
+    "address": "160",
+    "Age": 41,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 268,
+    "Voter ID": "SOH0170969",
+    "Name": "Sana Chhaudhyari",
+    "Relation": "Husbands Name: Shuybe Harun",
+    "address": "160",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 269,
+    "Voter ID": "SOH0846790",
+    "Name": "Jayalakshmi",
+    "Relation": "Husbands Name: Chandrashekhar",
+    "address": "163",
+    "Age": 87,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 270,
+    "Voter ID": "BTF0946640",
+    "Name": "Shashidhar M C Holla",
+    "Relation": "Fathers Name: Chandrashekhar M N",
+    "address": "163",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 271,
+    "Voter ID": "SOH0847103",
+    "Name": "Mayuri G",
+    "Relation": "Husbands Name: Sanjeev Kumar G H",
+    "address": "163",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 272,
+    "Voter ID": "BTF0946632",
+    "Name": "Akhila",
+    "Relation": "Husbands Name: Shashidhar",
+    "address": "163",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 273,
+    "Voter ID": "BTF0972521",
+    "Name": "Dattatri",
+    "Relation": "Fathers Name: Mannoji Rao",
+    "address": "164",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 274,
+    "Voter ID": "SOH0177311",
+    "Name": "Bharathi",
+    "Relation": "Husbands Name: Daththadri",
+    "address": "164",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 275,
+    "Voter ID": "SOH0846840",
+    "Name": "Khatija Hussain",
+    "Relation": "Fathers Name: Mohammed Hamza",
+    "address": "166",
+    "Age": 58,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 276,
+    "Voter ID": "SOH0846865",
+    "Name": "Mohammed Arif",
+    "Relation": "Fathers Name: Mohammed Hamza",
+    "address": "166",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 277,
+    "Voter ID": "SOH4356523",
+    "Name": "Mohammed Jabed",
+    "Relation": "Fathers Name: Mohamad hamja",
+    "address": "166",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 278,
+    "Voter ID": "SOH0846881",
+    "Name": "Mohammed Usman",
+    "Relation": "Fathers Name: Mohammed Hamza",
+    "address": "166",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 279,
+    "Voter ID": "SOH0846899",
+    "Name": "Nasareen Arif",
+    "Relation": "Husbands Name: Mohammed Arif",
+    "address": "166",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 280,
+    "Voter ID": "SOH0169185",
+    "Name": "Sajida.T.A",
+    "Relation": "Husbands Name: Mahummad Zubera",
+    "address": "166",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 281,
+    "Voter ID": "BTF0971549",
+    "Name": "Mohammed Ali",
+    "Relation": "Fathers Name: Mohammed Hamza",
+    "address": "166",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 282,
+    "Voter ID": "BTF0974600",
+    "Name": "Mohammed Faizal",
+    "Relation": "Fathers Name: Mohammed Hamza",
+    "address": "166",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 283,
+    "Voter ID": "BTF3544889",
+    "Name": "Bibi Balkisa",
+    "Relation": "Fathers Name: Mohammed Ham",
+    "address": "166",
+    "Age": 42,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 284,
+    "Voter ID": "SOH5291356",
+    "Name": "Sajani",
+    "Relation": "Husbands Name: Mohammed Usman",
+    "address": "166",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 285,
+    "Voter ID": "SOH6186027",
+    "Name": "Saadia Zakir Hussain",
+    "Relation": "Mothers Name: KHATIJA HUSSAIN",
+    "address": "166",
+    "Age": 24,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 286,
+    "Voter ID": "SOH0846949",
+    "Name": "Dr. Mallik Kamaruddin Ahmed",
+    "Relation": "Fathers Name: Mallik Azeezuddin",
+    "address": "169",
+    "Age": 77,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 287,
+    "Voter ID": "SOH0846964",
+    "Name": "Malik Najamuddin",
+    "Relation": "Fathers Name: Malik Kamaruddin Ahmed",
+    "address": "169",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 288,
+    "Voter ID": "SOH0846972",
+    "Name": "Nerjis Malik",
+    "Relation": "Fathers Name: Malik Khamruddin Ahmed",
+    "address": "169",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 289,
+    "Voter ID": "BTF0974618",
+    "Name": "Malik Shamsuddin",
+    "Relation": "Fathers Name: Malik Khamaruddin",
+    "address": "169-1",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 290,
+    "Voter ID": "BTF0948570",
+    "Name": "Zeenathunnisa",
+    "Relation": "Husbands Name: Azeez Khan H K",
+    "address": "171",
+    "Age": 78,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 291,
+    "Voter ID": "SOH0171298",
+    "Name": "Aaptha Chaubega",
+    "Relation": "Husbands Name: Hyedara Beg",
+    "address": "171",
+    "Age": 75,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 292,
+    "Voter ID": "BTF0948588",
+    "Name": "Nabilia Azeez",
+    "Relation": "Husbands Name: Mohamed Farook",
+    "address": "171",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 293,
+    "Voter ID": "SOH0171579",
+    "Name": "Baig Aftab Hyder",
+    "Relation": "Fathers Name: Hyder Baig",
+    "address": "171",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 294,
+    "Voter ID": "BTF0948596",
+    "Name": "Shahilla Azeez",
+    "Relation": "Husbands Name: K Azeez Khan",
+    "address": "171",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 295,
+    "Voter ID": "SOH0171215",
+    "Name": "Syed Roshan",
+    "Relation": "Husbands Name: Munavar Baig",
+    "address": "171",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 296,
+    "Voter ID": "BTF0958587",
+    "Name": "Prabhakara",
+    "Relation": "Fathers Name: Bairappa",
+    "address": "172",
+    "Age": 83,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 297,
+    "Voter ID": "BTF0982850",
+    "Name": "Vijayalakshmi",
+    "Relation": "Husbands Name: Prabhakara",
+    "address": "172",
+    "Age": 76,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 298,
+    "Voter ID": "BTF0947283",
+    "Name": "Kanthimathi",
+    "Relation": "Husbands Name: P D S Pandian",
+    "address": "173",
+    "Age": 79,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 299,
+    "Voter ID": "BTF0958363",
+    "Name": "Sudhakar P Joshua",
+    "Relation": "Fathers Name: P D S Pandiyan",
+    "address": "173",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 300,
+    "Voter ID": "BTF0972729",
+    "Name": "Surovi Ganguly",
+    "Relation": "Husbands Name: M K Gangopadhyay",
+    "address": "174",
+    "Age": 69,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 301,
+    "Voter ID": "SOH4151437",
+    "Name": "Vijay Kumar C R Chippinkere",
+    "Relation": "Fathers Name: Veerabhadrappa chippinkere",
+    "address": "174",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 302,
+    "Voter ID": "SOH4151403",
+    "Name": "kusuma M Vijay",
+    "Relation": "Husbands Name: vijaykumar chippin kere",
+    "address": "174",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 303,
+    "Voter ID": "BTF0946889",
+    "Name": "Gangadharan P",
+    "Relation": "Fathers Name: Purushothama Rao",
+    "address": "175",
+    "Age": 92,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 304,
+    "Voter ID": "BTF1212455",
+    "Name": "G Shantha",
+    "Relation": "Husbands Name: P Gangadharan",
+    "address": "175",
+    "Age": 87,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 305,
+    "Voter ID": "SOH0847087",
+    "Name": "Sakkubai",
+    "Relation": "Husbands Name: K M Amaranath",
+    "address": "176",
+    "Age": 81,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 306,
+    "Voter ID": "SOH0847095",
+    "Name": "Rajesh K A",
+    "Relation": "Fathers Name: K M Amaranath",
+    "address": "176",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 307,
+    "Voter ID": "BTF2165744",
+    "Name": "Sanjeev Kumar G H",
+    "Relation": "Fathers Name: Hanumantharayappa",
+    "address": "176",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 308,
+    "Voter ID": "SOH5579362",
+    "Name": "Anjana G",
+    "Relation": "Fathers Name: Sanjeev Kumar G H",
+    "address": "176/1",
+    "Age": 28,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 309,
+    "Voter ID": "SOH0116996",
+    "Name": "Rajesh R",
+    "Relation": "Fathers Name: Ranganath M",
+    "address": "177",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 310,
+    "Voter ID": "SOH0164095",
+    "Name": "Hema B H",
+    "Relation": "Husbands Name: Rajesh R",
+    "address": "177",
+    "Age": 39,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 311,
+    "Voter ID": "SOH5970710",
+    "Name": "Mohamed Ismail Sheriff Sheriff",
+    "Relation": "Others: Pasha Rafath Thaseen Pasha",
+    "address": "178",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 312,
+    "Voter ID": "SOH5326004",
+    "Name": "SHAIK MAHMOOD",
+    "Relation": "Fathers Name: MOHAMMED ANWAR",
+    "address": "#178",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 313,
+    "Voter ID": "BTF0946947",
+    "Name": "H M Krishnaswamy Rao",
+    "Relation": "Fathers Name: H S Madhavarao",
+    "address": "186",
+    "Age": 92,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 314,
+    "Voter ID": "BTF0974519",
+    "Name": "Neela",
+    "Relation": "Husbands Name: H M Krishnaswamy Rao",
+    "address": "186",
+    "Age": 87,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 315,
+    "Voter ID": "BTF0974816",
+    "Name": "H.K. Prasanna",
+    "Relation": "Fathers Name: H M Krishnaswamy Rao",
+    "address": "186",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 316,
+    "Voter ID": "BTF0947309",
+    "Name": "Shylaja Prasanna",
+    "Relation": "Husbands Name: Prasanna H K",
+    "address": "186",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 317,
+    "Voter ID": "SOH5951041",
+    "Name": "Deepika Hungenahally",
+    "Relation": "Fathers Name: H K Prasanna",
+    "address": "186",
+    "Age": 29,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 318,
+    "Voter ID": "BTF0947580",
+    "Name": "S Saroja Bai",
+    "Relation": "Husbands Name: S R Ganesha Rao",
+    "address": "187",
+    "Age": 80,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 319,
+    "Voter ID": "BTF0973883",
+    "Name": "S G Ravichandra Rao",
+    "Relation": "Fathers Name: S R Ganesha Rao",
+    "address": "187",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 320,
+    "Voter ID": "SOH0847293",
+    "Name": "Ganesh Rao B. V",
+    "Relation": "Fathers Name: Balaji Vishwanath Rao",
+    "address": "187",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 321,
+    "Voter ID": "BTF0947598",
+    "Name": "S G Ramarao",
+    "Relation": "Fathers Name: S R Ganesha Rao",
+    "address": "187",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 322,
+    "Voter ID": "BTF0947572",
+    "Name": "S G Shobha Bai",
+    "Relation": "Husbands Name: S R Ganesha Rao",
+    "address": "187",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 323,
+    "Voter ID": "SOH0847343",
+    "Name": "Jyothi R Doddavalla",
+    "Relation": "Fathers Name: Ramakrishna Doddavalla",
+    "address": "187/2",
+    "Age": 44,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 324,
+    "Voter ID": "BTF0947945",
+    "Name": "H Yashodha",
+    "Relation": "Husbands Name: S Narayan",
+    "address": "189",
+    "Age": 86,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 325,
+    "Voter ID": "BTF0946418",
+    "Name": "N Chandrashekhar",
+    "Relation": "Fathers Name: S Narayan",
+    "address": "189",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 326,
+    "Voter ID": "BTF0946400",
+    "Name": "Sunitha Shekhar K",
+    "Relation": "Husbands Name: Chandrashekhar",
+    "address": "189",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 327,
+    "Voter ID": "SOH3865466",
+    "Name": "Rekha Raval",
+    "Relation": "Husbands Name: Javaharalal G Raval",
+    "address": "191/2",
+    "Age": 79,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 328,
+    "Voter ID": "SOH3865474",
+    "Name": "Bhavisha Raval Shukla",
+    "Relation": "Fathers Name: Jawaharalal G Raval",
+    "address": "191/2",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 329,
+    "Voter ID": "SOH4667341",
+    "Name": "Ramesh B.",
+    "Relation": "Fathers Name: Narasimha Murthy B.",
+    "address": "191N",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 330,
+    "Voter ID": "SOH0176602",
+    "Name": "Shyamala",
+    "Relation": "Husbands Name: Ramesh B.",
+    "address": "191N",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 331,
+    "Voter ID": "BTF0947929",
+    "Name": "K Chandrakanth",
+    "Relation": "Fathers Name: C Kuppa",
+    "address": "192",
+    "Age": 66,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 332,
+    "Voter ID": "BTF0947937",
+    "Name": "C Jayanthi",
+    "Relation": "Husbands Name: K Chandrakanth",
+    "address": "192",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 333,
+    "Voter ID": "BTF0950055",
+    "Name": "K Suresh",
+    "Relation": "Fathers Name: C Kuppa",
+    "address": "192",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 334,
+    "Voter ID": "BTF0950048",
+    "Name": "S Kanchana",
+    "Relation": "Husbands Name: K Suresh",
+    "address": "192",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 335,
+    "Voter ID": "SOH5663927",
+    "Name": "Gaffar S A",
+    "Relation": "Fathers Name: Syed Ghouse",
+    "address": "#192,flat no 102",
+    "Age": 29,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 336,
+    "Voter ID": "SOH5016852",
+    "Name": "Anupama B E",
+    "Relation": "Fathers Name: Eswarachari S K",
+    "address": "193",
+    "Age": 33,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 337,
+    "Voter ID": "SOH0646224",
+    "Name": "Rajamma Pillai L",
+    "Relation": "Husbands Name: Balakrishna Pillai K",
+    "address": "194",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 338,
+    "Voter ID": "SOH0646232",
+    "Name": "Jayamohana Pillai B.",
+    "Relation": "Fathers Name: Balakrishna Pillai K",
+    "address": "194",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 339,
+    "Voter ID": "BTF0949826",
+    "Name": "Prakash Chandra",
+    "Relation": "Fathers Name: Rama Iyer",
+    "address": "195",
+    "Age": 76,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 340,
+    "Voter ID": "BTF0949818",
+    "Name": "Rajeshwari Prakash",
+    "Relation": "Husbands Name: Prakash Chandra",
+    "address": "195",
+    "Age": 75,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 341,
+    "Voter ID": "BTF0949800",
+    "Name": "Megha Prakash",
+    "Relation": "Fathers Name: Prakash Chandra",
+    "address": "195",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 342,
+    "Voter ID": "SOH6164222",
+    "Name": "Mahesh M S",
+    "Relation": "Others: Ashwini M",
+    "address": "195/A",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 343,
+    "Voter ID": "SOH4356796",
+    "Name": "Rasheed Aslam S A",
+    "Relation": "Fathers Name: K A Sattar",
+    "address": "196",
+    "Age": 68,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 344,
+    "Voter ID": "SOH4356895",
+    "Name": "Wajid Akram.S.A",
+    "Relation": "Fathers Name: Sattar.K.A",
+    "address": "196",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 345,
+    "Voter ID": "BTF0949974",
+    "Name": "Meherunnisa",
+    "Relation": "Husbands Name: Rasheed Aslam S A",
+    "address": "196",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 346,
+    "Voter ID": "BTF0975763",
+    "Name": "WAHID AZAM S A",
+    "Relation": "Fathers Name: K A Sattar",
+    "address": "196",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 347,
+    "Voter ID": "SOH4356549",
+    "Name": "Shuhela Majid",
+    "Relation": "Husbands Name: Maajid Mukaram",
+    "address": "196",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 348,
+    "Voter ID": "BTF1171966",
+    "Name": "Zahid Mouzam S A",
+    "Relation": "Fathers Name: K A Sattar",
+    "address": "196",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 349,
+    "Voter ID": "BTF0984963",
+    "Name": "Khalid Nazim S A",
+    "Relation": "Fathers Name: K A Sattar",
+    "address": "196",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 350,
+    "Voter ID": "BTF0975730",
+    "Name": "Tabassum.N",
+    "Relation": "Husbands Name: Wajid Akram.S.A",
+    "address": "196",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 351,
+    "Voter ID": "BTF0975755",
+    "Name": "umme salma k",
+    "Relation": "Husbands Name: zahid Mouzam",
+    "address": "196",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 352,
+    "Voter ID": "SOH5818356",
+    "Name": "Abdul Hamid",
+    "Relation": "Fathers Name: Rasheed Aslam S A",
+    "address": "196",
+    "Age": 26,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 353,
+    "Voter ID": "SOH6285449",
+    "Name": "ABDUL MUID Z",
+    "Relation": "Fathers Name: S A ZAHID MOUZAM",
+    "address": "196",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 354,
+    "Voter ID": "BTF0975748",
+    "Name": "MUTHAHEERA BEGUM",
+    "Relation": "Husbands Name: SATTAR ABDUL WAHID AZAM",
+    "address": "196-2",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 355,
+    "Voter ID": "SOH4356754",
+    "Name": "Arifa Fathima Nazim",
+    "Relation": "Husbands Name: Khalid Nazim.S..A",
+    "address": "196/2",
+    "Age": 44,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 356,
+    "Voter ID": "TQH3342680",
+    "Name": "Asmiya Banu Syed",
+    "Relation": "Fathers Name: Syed sardar",
+    "address": "196 ,Tahir Manzil,9th cross",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 357,
+    "Voter ID": "SOH1807635",
+    "Name": "Mohmamada Khadir",
+    "Relation": "Fathers Name: Late..M.Abdul Khadar",
+    "address": "198",
+    "Age": 73,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 358,
+    "Voter ID": "SOH1807619",
+    "Name": "Ajmnnisha",
+    "Relation": "Husbands Name: Mohmamada Khadar",
+    "address": "198",
+    "Age": 64,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 359,
+    "Voter ID": "SOH0850644",
+    "Name": "Rizwana Patel",
+    "Relation": "Husbands Name: Althaf D Patel",
+    "address": "198N",
+    "Age": 63,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 360,
+    "Voter ID": "SOH5046834",
+    "Name": "Shivaraj S C",
+    "Relation": "Fathers Name: S V Chandrashekarappa",
+    "address": "199",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 361,
+    "Voter ID": "BTF3565454",
+    "Name": "Anupama",
+    "Relation": "Husbands Name: Shivaraj. S. C",
+    "address": "199",
+    "Age": 58,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 362,
+    "Voter ID": "SOH5035076",
+    "Name": "Sannuta S S",
+    "Relation": "Fathers Name: Shivaraj S C",
+    "address": "199",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 363,
+    "Voter ID": "SOH4482956",
+    "Name": "Mohammed Shabbir",
+    "Relation": "Fathers Name: Mohammed Ali Sab",
+    "address": "200",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 364,
+    "Voter ID": "BTF0951699",
+    "Name": "Nazima",
+    "Relation": "Husbands Name: Mohamed Shabbir",
+    "address": "200",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 365,
+    "Voter ID": "SOH0646737",
+    "Name": "Farah Naij",
+    "Relation": "Fathers Name: Mohammed Shabbir",
+    "address": "200",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 366,
+    "Voter ID": "SOH4356879",
+    "Name": "Mohammed Madani",
+    "Relation": "Fathers Name: Mohamad Shabeer",
+    "address": "200",
+    "Age": 38,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 367,
+    "Voter ID": "SOH5132758",
+    "Name": "Ramani Pooraneson",
+    "Relation": "Husbands Name: Pooraneson Raju",
+    "address": "200/A",
+    "Age": 73,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 368,
+    "Voter ID": "BTF3190725",
+    "Name": "J Bhagalakshmi",
+    "Relation": "Husbands Name: Srinivasan",
+    "address": "201-2",
+    "Age": 72,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 369,
+    "Voter ID": "BTF3190881",
+    "Name": "Pravin Srinivasan",
+    "Relation": "Fathers Name: Srinivasan",
+    "address": "201-2",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 370,
+    "Voter ID": "SOH5106653",
+    "Name": "Sukanya K",
+    "Relation": "Husbands Name: Sampath Kumar",
+    "address": "203",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 371,
+    "Voter ID": "BTF0950758",
+    "Name": "Amthul Jaleel",
+    "Relation": "Husbands Name: Abdul Mukthadir",
+    "address": "205",
+    "Age": 83,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 372,
+    "Voter ID": "BTF0950774",
+    "Name": "Balquice Jahan",
+    "Relation": "Fathers Name: Abdul Majid",
+    "address": "205",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 373,
+    "Voter ID": "SOH0847665",
+    "Name": "Nasreen Taj",
+    "Relation": "Husbands Name: Abdul Khadir",
+    "address": "205",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 374,
+    "Voter ID": "SOH6413173",
+    "Name": "MOHAMMED HAROON",
+    "Relation": "Fathers Name: ABDUL MAJID",
+    "address": "205",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 375,
+    "Voter ID": "SOH0847723",
+    "Name": "Rizwana Nusrath",
+    "Relation": "Husbands Name: Mansoor Althaf",
+    "address": "206",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 376,
+    "Voter ID": "BTF0975052",
+    "Name": "Shakhira Ummar",
+    "Relation": "Husbands Name: Mohammed Umar",
+    "address": "208",
+    "Age": 74,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 377,
+    "Voter ID": "SOH5045901",
+    "Name": "Nafeesa Sultana",
+    "Relation": "Husbands Name: Siddique Ahmed Shariff M",
+    "address": "208",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 378,
+    "Voter ID": "SOH4357042",
+    "Name": "Shahera Umar",
+    "Relation": "Fathers Name: Mohamad Umar",
+    "address": "208",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 379,
+    "Voter ID": "BTF0971481",
+    "Name": "Mohammed Zaffer Ummer",
+    "Relation": "Fathers Name: Mohammed Ummer",
+    "address": "208",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 380,
+    "Voter ID": "BTF0971499",
+    "Name": "Mohammed Khizer Umer",
+    "Relation": "Fathers Name: Mohammed Umer",
+    "address": "208",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 381,
+    "Voter ID": "SOH0175752",
+    "Name": "Khaira Unnisa",
+    "Relation": "Husbands Name: Haji Sab",
+    "address": "210/2",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 382,
+    "Voter ID": "SOH0127696",
+    "Name": "Amjad Pasha",
+    "Relation": "Fathers Name: Haji Sab",
+    "address": "210/2",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 383,
+    "Voter ID": "SOH0127381",
+    "Name": "Imtiyaz Ahmed",
+    "Relation": "Fathers Name: Haji Miya",
+    "address": "210/2",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 384,
+    "Voter ID": "SOH0104323",
+    "Name": "Rubina Siddiqa",
+    "Relation": "Husbands Name: Amjad Pasha",
+    "address": "210/2",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 385,
+    "Voter ID": "BTF0972265",
+    "Name": "Sarvamangala",
+    "Relation": "Husbands Name: J M Jayaramaiah",
+    "address": "211",
+    "Age": 80,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 386,
+    "Voter ID": "BTF0972232",
+    "Name": "Bindu Kumar J",
+    "Relation": "Fathers Name: J M Jayaramaiah",
+    "address": "211",
+    "Age": 57,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 387,
+    "Voter ID": "BTF0972224",
+    "Name": "Hemavathi M",
+    "Relation": "Husbands Name: Bindu Kumar J",
+    "address": "211",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 388,
+    "Voter ID": "BTF0974832",
+    "Name": "R Vasant",
+    "Relation": "Fathers Name: Ramalingam",
+    "address": "212",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 389,
+    "Voter ID": "BTF0974857",
+    "Name": "V Sumathi",
+    "Relation": "Husbands Name: R Vasant",
+    "address": "212",
+    "Age": 71,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 390,
+    "Voter ID": "SOH0800888",
+    "Name": "Sandeep V",
+    "Relation": "Fathers Name: Vasanth R",
+    "address": "212",
+    "Age": 41,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 391,
+    "Voter ID": "SOH0613729",
+    "Name": "Soniya V",
+    "Relation": "Fathers Name: Vasanth R",
+    "address": "212",
+    "Age": 38,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 392,
+    "Voter ID": "BTF0974493",
+    "Name": "Susan",
+    "Relation": "Husbands Name: Yospayana",
+    "address": "213",
+    "Age": 82,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 393,
+    "Voter ID": "BTF2165199",
+    "Name": "Eptha Deva Benjamin",
+    "Relation": "Fathers Name: Yoshya",
+    "address": "213",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 394,
+    "Voter ID": "BTF0972307",
+    "Name": "Y Philip Deva Martin",
+    "Relation": "Fathers Name: V Yesaian",
+    "address": "213",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 395,
+    "Voter ID": "SOH4356861",
+    "Name": "Mohamed Ishaq Shariff",
+    "Relation": "Fathers Name: M Abdul hakeem",
+    "address": "214",
+    "Age": 79,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 396,
+    "Voter ID": "SOH4356424",
+    "Name": "Nayeema Sultana",
+    "Relation": "Husbands Name: Mohamed Ishaq Sharif",
+    "address": "214",
+    "Age": 67,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 397,
+    "Voter ID": "SOH4474623",
+    "Name": "Fathima",
+    "Relation": "Fathers Name: Mohammed Ishaq Shariff",
+    "address": "214",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 398,
+    "Voter ID": "SOH4356598",
+    "Name": "Mahammed Yousuf",
+    "Relation": "Fathers Name: Mohamad Ishaq Sharif",
+    "address": "214",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 399,
+    "Voter ID": "SOH0154310",
+    "Name": "Prasanna Kumar B R",
+    "Relation": "Fathers Name: Ramaiah B",
+    "address": "217",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 400,
+    "Voter ID": "SOH0154096",
+    "Name": "Manjula Devi G",
+    "Relation": "Husbands Name: Prasanna Kumar B R",
+    "address": "217",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 401,
+    "Voter ID": "SOH0154088",
+    "Name": "Vinutha B P",
+    "Relation": "Fathers Name: Prasanna Kumar B R",
+    "address": "217",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 402,
+    "Voter ID": "SOH0847921",
+    "Name": "Shashikala S",
+    "Relation": "Husbands Name: Ramakrishna S",
+    "address": "219N",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 403,
+    "Voter ID": "SOH0847947",
+    "Name": "Sowmya Lakshmi N M",
+    "Relation": "Husbands Name: Madan Kumar N R",
+    "address": "219N",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 404,
+    "Voter ID": "BTF2163277",
+    "Name": "M Shakunthala",
+    "Relation": "Husbands Name: Vijayarathnakara",
+    "address": "221",
+    "Age": 88,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 405,
+    "Voter ID": "BTF2163285",
+    "Name": "Subhashini",
+    "Relation": "Fathers Name: Vijayarathnakara",
+    "address": "221",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 406,
+    "Voter ID": "SOH0850990",
+    "Name": "C G JACOB",
+    "Relation": "Fathers Name: C K GEORGE",
+    "address": "221",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 407,
+    "Voter ID": "SOH0852830",
+    "Name": "Anitha Janasa Helina",
+    "Relation": "Husbands Name: Vijayakumar",
+    "address": "221",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 408,
+    "Voter ID": "BTF2163293",
+    "Name": "Vinayakumar",
+    "Relation": "Fathers Name: Vijayarathnakara",
+    "address": "221",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 409,
+    "Voter ID": "SOH0847962",
+    "Name": "Elish Nischal",
+    "Relation": "Fathers Name: Rajashekhar Jude Paul",
+    "address": "221",
+    "Age": 36,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 410,
+    "Voter ID": "SOH4356382",
+    "Name": "Prabhakar",
+    "Relation": "Fathers Name: satya narayan S r",
+    "address": "226",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 411,
+    "Voter ID": "SOH4356689",
+    "Name": "S Manjula",
+    "Relation": "Husbands Name: Prabhakar s",
+    "address": "226",
+    "Age": 53,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 412,
+    "Voter ID": "SOH0712471",
+    "Name": "Sumithra",
+    "Relation": "Husbands Name: Keshav B",
+    "address": "227",
+    "Age": 88,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 413,
+    "Voter ID": "SOH0848051",
+    "Name": "K Bhaskar",
+    "Relation": "Fathers Name: B Keshava Rao",
+    "address": "227",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 414,
+    "Voter ID": "SOH0848069",
+    "Name": "Uma Bhaskar",
+    "Relation": "Husbands Name: K Bhaskar",
+    "address": "227",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 415,
+    "Voter ID": "SOH5579131",
+    "Name": "Annapoorna B",
+    "Relation": "Fathers Name: K Bhaskar",
+    "address": "227",
+    "Age": 29,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 416,
+    "Voter ID": "BTF0980144",
+    "Name": "Dr M Narayanappa",
+    "Relation": "Fathers Name: Late Anjanappa",
+    "address": "229",
+    "Age": 87,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 417,
+    "Voter ID": "BTF0956995",
+    "Name": "Kalavathi M",
+    "Relation": "Husbands Name: Dr M Narayanappa",
+    "address": "229",
+    "Age": 70,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 418,
+    "Voter ID": "SOH0848168",
+    "Name": "Mathivanan",
+    "Relation": "Fathers Name: Munikrishnan",
+    "address": "229",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 419,
+    "Voter ID": "BTF0956987",
+    "Name": "Dr Sreevidya N",
+    "Relation": "Fathers Name: M Narayanappa",
+    "address": "229",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 420,
+    "Voter ID": "BTF0980151",
+    "Name": "Manohar N",
+    "Relation": "Fathers Name: Dr Narayanappa M",
+    "address": "229",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 421,
+    "Voter ID": "SOH5106638",
+    "Name": "Satish Kumar Boddikuri",
+    "Relation": "Fathers Name: B Mohan",
+    "address": "229",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 422,
+    "Voter ID": "SOH3309838",
+    "Name": "S Na Jayram",
+    "Relation": "Fathers Name: Narayanswamy",
+    "address": "231",
+    "Age": 85,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 423,
+    "Voter ID": "SOH3310778",
+    "Name": "Chendil Nathan J",
+    "Relation": "Fathers Name: S. Na.Jayram",
+    "address": "231",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 424,
+    "Voter ID": "SOH3309820",
+    "Name": "S Vani Vidhya Lakshmi",
+    "Relation": "Husbands Name: J Chendil Nathan",
+    "address": "231",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 425,
+    "Voter ID": "BTF0946772",
+    "Name": "K S Vimalamma",
+    "Relation": "Husbands Name: K Subrahmanya",
+    "address": "235",
+    "Age": 86,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 426,
+    "Voter ID": "SOH5821459",
+    "Name": "Keerthana Krishnamurthy",
+    "Relation": "Mothers Name: Vinutha K S",
+    "address": "235",
+    "Age": 27,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 427,
+    "Voter ID": "BTF0974980",
+    "Name": "P V Jagannatha Rao",
+    "Relation": "Fathers Name: P Venkataramana Murthy",
+    "address": "239",
+    "Age": 80,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 428,
+    "Voter ID": "BTF0974998",
+    "Name": "Saraswathi",
+    "Relation": "Husbands Name: P V Jagannatha Rao",
+    "address": "239",
+    "Age": 71,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 429,
+    "Voter ID": "SOH4483111",
+    "Name": "Kalyani.H",
+    "Relation": "Husbands Name: Hariharan.G.N",
+    "address": "240",
+    "Age": 88,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 430,
+    "Voter ID": "SOH4483293",
+    "Name": "Chandrashekar.R Ramamurthy",
+    "Relation": "Fathers Name: Ramamurthy.N.V",
+    "address": "240",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 431,
+    "Voter ID": "SOH4483368",
+    "Name": "Lalitha H",
+    "Relation": "Husbands Name: Chandrashekar Ramamurthy",
+    "address": "240",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 432,
+    "Voter ID": "SOH5201108",
+    "Name": "Avinash Chandra shekar",
+    "Relation": "Fathers Name: Chandra shekar rama murthy",
+    "address": "240",
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 433,
+    "Voter ID": "SOH5200936",
+    "Name": "Krithika Chandra shekar",
+    "Relation": "Fathers Name: Chandra shekar Ramamurthy",
+    "address": "240",
+    "Age": 31,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 434,
+    "Voter ID": "BTF0945543",
+    "Name": "Latha Ashok",
+    "Relation": "Husbands Name: Ashok",
+    "address": "245",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 435,
+    "Voter ID": "BTF0950857",
+    "Name": "Mohsin Ahmed",
+    "Relation": "Fathers Name: Abdul Wahab",
+    "address": "245",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 436,
+    "Voter ID": "BTF0974485",
+    "Name": "Neshad Sulthana",
+    "Relation": "Husbands Name: Mohsin Ahmed",
+    "address": "245",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 437,
+    "Voter ID": "BTF0946491",
+    "Name": "Mahmood Alam",
+    "Relation": "Fathers Name: Abdul Wahab",
+    "address": "245",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 438,
+    "Voter ID": "SOH0181347",
+    "Name": "Tazeen Fathima",
+    "Relation": "Husbands Name: Mohammed Alam",
+    "address": "245",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 439,
+    "Voter ID": "SOH0647594",
+    "Name": "Raheel Mansoor",
+    "Relation": "Husbands Name: Mansoor Ahmed",
+    "address": "245",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 440,
+    "Voter ID": "SOH6543540",
+    "Name": "MUZAKKIR AHMED",
+    "Relation": "Fathers Name: MOHSIN AHMED",
+    "address": "245",
+    "Age": 25,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 441,
+    "Voter ID": "SOH0126417",
+    "Name": "Vasudevaraju M",
+    "Relation": "Fathers Name: Ramakrishnam Raju M",
+    "address": "245/1",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 442,
+    "Voter ID": "SOH0169102",
+    "Name": "Jalajia R",
+    "Relation": "Husbands Name: Vasudev Raju M",
+    "address": "245/1",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 443,
+    "Voter ID": "SOH5201215",
+    "Name": "Praveen kumar Gadheraju",
+    "Relation": "Fathers Name: Reddaiah gadheraju",
+    "address": "246",
+    "Age": 51,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 444,
+    "Voter ID": "SOH5201090",
+    "Name": "vasundharamma Gadheraju",
+    "Relation": "Husbands Name: Late Reddeiah rahu Gadheraju",
+    "address": "246",
+    "Age": 44,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 445,
+    "Voter ID": "SOH5201173",
+    "Name": "Sailaja kumari Konduru",
+    "Relation": "Husbands Name: Shankara raju Konduru",
+    "address": "246",
+    "Age": 42,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 446,
+    "Voter ID": "SOH5201124",
+    "Name": "Sree Vidya Gadheraju",
+    "Relation": "Husbands Name: Praveen kumar Gadheraju",
+    "address": "246",
+    "Age": 37,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 447,
+    "Voter ID": "SOH5201025",
+    "Name": "Sindhuja Konduru",
+    "Relation": "Fathers Name: Shankara raju Konduru",
+    "address": "246",
+    "Age": 35,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 448,
+    "Voter ID": "SOH5126800",
+    "Name": "J CAESAR DEVAPRASANNA",
+    "Relation": "Fathers Name: JOHN ZECHARIAH",
+    "address": "247",
+    "Age": 91,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 449,
+    "Voter ID": "SOH4356457",
+    "Name": "Rebekayananthara. S",
+    "Relation": "Husbands Name: Sham sundar S",
+    "address": "247",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 450,
+    "Voter ID": "BTF0984872",
+    "Name": "Jaisimha K",
+    "Relation": "Fathers Name: H K Sampath Kumar",
+    "address": "248",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 451,
+    "Voter ID": "SOH0851543",
+    "Name": "Kesari S N",
+    "Relation": "Fathers Name: HK Sampath Kumar",
+    "address": "248",
+    "Age": 57,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 452,
+    "Voter ID": "BTF1173517",
+    "Name": "D K Roopashree",
+    "Relation": "Husbands Name: S Jaisimha",
+    "address": "248",
+    "Age": 53,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 453,
+    "Voter ID": "SOH0851550",
+    "Name": "Usha Kesari",
+    "Relation": "Husbands Name: Kesari S N",
+    "address": "248",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 454,
+    "Voter ID": "BTF3544855",
+    "Name": "Rajasimha",
+    "Relation": "Fathers Name: Krishnamurthy",
+    "address": "249",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 455,
+    "Voter ID": "BTF2165579",
+    "Name": "Manjula Rajasimha",
+    "Relation": "Husbands Name: Rajasimha K N",
+    "address": "249",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 456,
+    "Voter ID": "SOH5578174",
+    "Name": "Anusha Rajasimha",
+    "Relation": "Fathers Name: Rajasimha N",
+    "address": "249",
+    "Age": 29,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 457,
+    "Voter ID": "SOH6317150",
+    "Name": "ADITYA RAJSIMHA RAJSIMHA",
+    "Relation": "Fathers Name: RAJASIMHA NARASIMHA MURTHY",
+    "address": "249",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 458,
+    "Voter ID": "SOH6376081",
+    "Name": "Dwijesh D Donthy",
+    "Relation": "Fathers Name: Dwarakish D R",
+    "address": "253",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 459,
+    "Voter ID": "SOH0848366",
+    "Name": "D R Venkatesh",
+    "Relation": "Fathers Name: D R Radhakrishna",
+    "address": "253-2",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 460,
+    "Voter ID": "BTF2165256",
+    "Name": "D R Dwarakesha",
+    "Relation": "Fathers Name: D R Radhakrishna",
+    "address": "253-2",
+    "Age": 49,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 461,
+    "Voter ID": "SOH0848374",
+    "Name": "Anitha Dwarakish",
+    "Relation": "Husbands Name: Dwarakish D R",
+    "address": "253/2",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 462,
+    "Voter ID": "SOH4071502",
+    "Name": "Safa Albadri",
+    "Relation": "Fathers Name: Zuhur Albadri",
+    "address": "254",
+    "Age": 38,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 463,
+    "Voter ID": "SOH5125364",
+    "Name": "WAROOD ALBADRI",
+    "Relation": "Fathers Name: ZUHUR ALBADRI",
+    "address": "254",
+    "Age": 31,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 464,
+    "Voter ID": "SOH0170829",
+    "Name": "Gangamma Devaiah B",
+    "Relation": "Husbands Name: Devaiah",
+    "address": "255",
+    "Age": 85,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 465,
+    "Voter ID": "SOH0170886",
+    "Name": "Sangeetha",
+    "Relation": "Fathers Name: Devaiah",
+    "address": "255",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 466,
+    "Voter ID": "BTF3544921",
+    "Name": "B N Ramesh",
+    "Relation": "Fathers Name: B R Nagaraj Swamy",
+    "address": "256",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 467,
+    "Voter ID": "BTF3565496",
+    "Name": "SHASHIDHARA BELAVADI NAGARAJSWAMY",
+    "Relation": "Fathers Name: NAGARAJSWAMY BELAVADI RAMASHASTRY",
+    "address": "256",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 468,
+    "Voter ID": "SOH3317401",
+    "Name": "Kavitha P",
+    "Relation": "Husbands Name: Manoj",
+    "address": "256",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 469,
+    "Voter ID": "BTF2165983",
+    "Name": "PRATHIMA NAGESH",
+    "Relation": "Husbands Name: SHASHIDHARA BELAVADI NAGARAJSWAMY",
+    "address": "256",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 470,
+    "Voter ID": "SOH1807650",
+    "Name": "C Meenakshamma",
+    "Relation": "Husbands Name: T.Chandrashekharaiah",
+    "address": "257",
+    "Age": 80,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 471,
+    "Voter ID": "SOH1807643",
+    "Name": "Latha M",
+    "Relation": "Husbands Name: Hanumegowda H N",
+    "address": "257",
+    "Age": 65,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 472,
+    "Voter ID": "SOH1807668",
+    "Name": "Nithushree",
+    "Relation": "Husbands Name: Hanumegowda H N",
+    "address": "257",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 473,
+    "Voter ID": "SOH0850529",
+    "Name": "Vathsala",
+    "Relation": "Husbands Name: A N Govinda Raj",
+    "address": "258",
+    "Age": 82,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 474,
+    "Voter ID": "SOH0850420",
+    "Name": "A N Govinda Raju",
+    "Relation": "Fathers Name: Narasinha Char",
+    "address": "258",
+    "Age": 80,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 475,
+    "Voter ID": "SOH5893110",
+    "Name": "V Sridhara",
+    "Relation": "Fathers Name: Venugopalachar",
+    "address": "258",
+    "Age": 68,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 476,
+    "Voter ID": "SOH0850602",
+    "Name": "Bhargavi",
+    "Relation": "Fathers Name: A N Govinda Raj",
+    "address": "258",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 477,
+    "Voter ID": "SOH6446678",
+    "Name": "Arjun Sridhar",
+    "Relation": "Fathers Name: Sridhar Venugopalachar",
+    "address": "258",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 478,
+    "Voter ID": "BTF0971812",
+    "Name": "K Kamalashram",
+    "Relation": "Husbands Name: K Subraya Sharma",
+    "address": "264",
+    "Age": 80,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 479,
+    "Voter ID": "SOH0848531",
+    "Name": "Divya Sharma K",
+    "Relation": "Fathers Name: Sharma K S",
+    "address": "264",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 480,
+    "Voter ID": "BTF0950352",
+    "Name": "Sundaramma",
+    "Relation": "Husbands Name: V Srinivasa",
+    "address": "266",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 481,
+    "Voter ID": "BTF0948463",
+    "Name": "B N Sarojamma",
+    "Relation": "Husbands Name: R Ramachandra",
+    "address": "272",
+    "Age": 85,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 482,
+    "Voter ID": "BTF0972083",
+    "Name": "K Nagaraju",
+    "Relation": "Fathers Name: M Krishnaiah",
+    "address": "272",
+    "Age": 74,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 483,
+    "Voter ID": "BTF0948455",
+    "Name": "R Usha",
+    "Relation": "Husbands Name: K Nagaraj",
+    "address": "272",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 484,
+    "Voter ID": "SOH4483244",
+    "Name": "Chirag.N",
+    "Relation": "Fathers Name: Nagaraju.K",
+    "address": "272",
+    "Age": 36,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 485,
+    "Voter ID": "BTF0959486",
+    "Name": "Aleykutty Matthews",
+    "Relation": "Husbands Name: K M Mathews",
+    "address": "273",
+    "Age": 84,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 486,
+    "Voter ID": "BTF0945469",
+    "Name": "Priya Mathews",
+    "Relation": "Husbands Name: K M Mathews",
+    "address": "273",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 487,
+    "Voter ID": "BTF0977975",
+    "Name": "B M Shrikanthamma",
+    "Relation": "Husbands Name: L V Palakshachari",
+    "address": "274",
+    "Age": 81,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 488,
+    "Voter ID": "BTF0977967",
+    "Name": "Latha Mahesh",
+    "Relation": "Husbands Name: Mahesh",
+    "address": "274",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 489,
+    "Voter ID": "BTF3565322",
+    "Name": "Bharathi Thejaswi",
+    "Relation": "Husbands Name: Thejaswi P",
+    "address": "274",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 490,
+    "Voter ID": "SOH0122697",
+    "Name": "ASHWINI KUMAR M S",
+    "Relation": "Fathers Name: Shivamurthy M",
+    "address": "274",
+    "Age": 46,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 491,
+    "Voter ID": "SOH6508139",
+    "Name": "Vignesh M",
+    "Relation": "Mothers Name: Latha Mahesh",
+    "address": "274",
+    "Age": 28,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 492,
+    "Voter ID": "SOH4356960",
+    "Name": "Sunitha p",
+    "Relation": "Fathers Name: parameshwaraiah",
+    "address": "275",
+    "Age": 54,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 493,
+    "Voter ID": "BTF0945824",
+    "Name": "K L Sumitra",
+    "Relation": "Husbands Name: A T Krishnamurthy",
+    "address": "276",
+    "Age": 77,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 494,
+    "Voter ID": "BTF0945832",
+    "Name": "K Sharath",
+    "Relation": "Fathers Name: A T Krishnamurthy",
+    "address": "276",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 495,
+    "Voter ID": "SOH0647370",
+    "Name": "Asha Sharath",
+    "Relation": "Husbands Name: Sharath K",
+    "address": "276",
+    "Age": 44,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 496,
+    "Voter ID": "SOH4357034",
+    "Name": "Srikanth Srinivasan",
+    "Relation": "Fathers Name: K R Srinivasan",
+    "address": "277",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 497,
+    "Voter ID": "SOH0850370",
+    "Name": "Kamini",
+    "Relation": "Husbands Name: Srikanth Srinivasan",
+    "address": "277",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 498,
+    "Voter ID": "SOH6497382",
+    "Name": "Pranav Srikanth",
+    "Relation": "Fathers Name: Srikanth Srinivasan",
+    "address": "277",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 499,
+    "Voter ID": "SOH6444079",
+    "Name": "TANISHA SRIKANTH",
+    "Relation": "Fathers Name: SRIKANTH SRINIVASAN",
+    "address": "277",
+    "Age": 21,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 500,
+    "Voter ID": "SOH0165233",
+    "Name": "Pramila D G",
+    "Relation": "Husbands Name: Govinda Rao D R",
+    "address": "278",
+    "Age": 83,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 501,
+    "Voter ID": "SOH0850362",
+    "Name": "Archana Nagaraja P",
+    "Relation": "Fathers Name: Nagaraja P",
+    "address": "278",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 502,
+    "Voter ID": "SOH5579123",
+    "Name": "Yashashav D K",
+    "Relation": "Fathers Name: Kamal Raj D G",
+    "address": "278",
+    "Age": 27,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 503,
+    "Voter ID": "BTF3546173",
+    "Name": "D K Paithvi Raj",
+    "Relation": "Fathers Name: K S Dwarakanath",
+    "address": "280",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 504,
+    "Voter ID": "BTF3546272",
+    "Name": "Rupa B",
+    "Relation": "Husbands Name: D Dwarakanath",
+    "address": "280",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 505,
+    "Voter ID": "SOH4670782",
+    "Name": "Mohan. D. Kulakarni",
+    "Relation": "Fathers Name: Dathathreya Kulakarni",
+    "address": "281",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 506,
+    "Voter ID": "SOH0707463",
+    "Name": "Madhuri. M. Kulakarni",
+    "Relation": "Husbands Name: Mohan Kulakarni",
+    "address": "281",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 507,
+    "Voter ID": "SOH5620083",
+    "Name": "MEKHALA MOHAN KULKARNI",
+    "Relation": "Fathers Name: MOHAN D KULKARNI",
+    "address": "281",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 508,
+    "Voter ID": "SOH5204219",
+    "Name": "Mallika Kulkarni",
+    "Relation": "Fathers Name: Mohan D",
+    "address": "281",
+    "Age": 31,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 509,
+    "Voter ID": "SOH4356465",
+    "Name": "Muneera Begum",
+    "Relation": "Husbands Name: KHR khan",
+    "address": "282",
+    "Age": 76,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 510,
+    "Voter ID": "SOH6187330",
+    "Name": "ASHOK K S",
+    "Relation": "Fathers Name: K B SHANAPPA",
+    "address": "283",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 511,
+    "Voter ID": "BTF2164309",
+    "Name": "N C Kiran",
+    "Relation": "Fathers Name: Chikkegowda",
+    "address": "283",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 512,
+    "Voter ID": "SOH4357067",
+    "Name": "Asha Rani H. R.",
+    "Relation": "Husbands Name: Kiran.N.C",
+    "address": "283",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 513,
+    "Voter ID": "SOH5997473",
+    "Name": "Neha Kiran",
+    "Relation": "Fathers Name: N C Kiran",
+    "address": "283",
+    "Age": 23,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 514,
+    "Voter ID": "SOH0848796",
+    "Name": "B S Umadevi",
+    "Relation": "Husbands Name: B R Shankar",
+    "address": "285",
+    "Age": 88,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 515,
+    "Voter ID": "BTF0945311",
+    "Name": "B S Girisha",
+    "Relation": "Fathers Name: B R Shankar",
+    "address": "285",
+    "Age": 56,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 516,
+    "Voter ID": "SOH5579958",
+    "Name": "Chethana M",
+    "Relation": "Husbands Name: Girisha B S",
+    "address": "285",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 517,
+    "Voter ID": "SOH0848812",
+    "Name": "Aruna",
+    "Relation": "Fathers Name: Shankar",
+    "address": "285",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 518,
+    "Voter ID": "BTF0950162",
+    "Name": "Purandara Beliya",
+    "Relation": "Fathers Name: Purushotham Beliya",
+    "address": "287-2",
+    "Age": 80,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 519,
+    "Voter ID": "BTF0950154",
+    "Name": "Manjula",
+    "Relation": "Husbands Name: Purandara Beliya",
+    "address": "287-2",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 520,
+    "Voter ID": "BTF0950170",
+    "Name": "Bharathi Beliya",
+    "Relation": "Fathers Name: Purandhara Beliya",
+    "address": "287-2",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 521,
+    "Voter ID": "SOH0848879",
+    "Name": "Sharath P Billy",
+    "Relation": "Fathers Name: Purandara Billy",
+    "address": "287/2",
+    "Age": 37,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 522,
+    "Voter ID": "SOH0850545",
+    "Name": "R K Manjula",
+    "Relation": "Husbands Name: N Ramakrishnappa",
+    "address": "288",
+    "Age": 82,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 523,
+    "Voter ID": "SOH0850115",
+    "Name": "R Nagendra",
+    "Relation": "Fathers Name: N Ramakrishnappa",
+    "address": "288",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 524,
+    "Voter ID": "SOH4357018",
+    "Name": "Sudhindra R.",
+    "Relation": "Fathers Name: rama Krishna",
+    "address": "288",
+    "Age": 57,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 525,
+    "Voter ID": "SOH0850727",
+    "Name": "Malini",
+    "Relation": "Husbands Name: Sudhindra",
+    "address": "288",
+    "Age": 52,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 526,
+    "Voter ID": "SOH0848929",
+    "Name": "Rahamath Unnisa",
+    "Relation": "Husbands Name: Mazherulla Khan Asif",
+    "address": "289",
+    "Age": 75,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 527,
+    "Voter ID": "BTF0946103",
+    "Name": "Biany D'Souza",
+    "Relation": "Fathers Name: L Desoza",
+    "address": "291",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 528,
+    "Voter ID": "BTF0946095",
+    "Name": "Fresilia Desoza",
+    "Relation": "Husbands Name: Baini Desoza",
+    "address": "291",
+    "Age": 53,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 529,
+    "Voter ID": "SOH4356721",
+    "Name": "H.S Krishna Murthy",
+    "Relation": "Fathers Name: late H srinivas rao",
+    "address": "294",
+    "Age": 86,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 530,
+    "Voter ID": "SOH0849117",
+    "Name": "Saroja K",
+    "Relation": "Husbands Name: H S Krishnamurthy",
+    "address": "294",
+    "Age": 79,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 531,
+    "Voter ID": "SOH0849158",
+    "Name": "Arun Kumar",
+    "Relation": "Fathers Name: H S Krishnamurthy",
+    "address": "294",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 532,
+    "Voter ID": "BTF1170869",
+    "Name": "K Srinivas Prasad",
+    "Relation": "Fathers Name: Krishnamurthy",
+    "address": "294",
+    "Age": 50,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 533,
+    "Voter ID": "SOH0849166",
+    "Name": "Kavitha",
+    "Relation": "Husbands Name: Arun Kumar",
+    "address": "294",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 534,
+    "Voter ID": "SOH0174854",
+    "Name": "Sowmya",
+    "Relation": "Husbands Name: Srinivasa Prasad",
+    "address": "294",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 535,
+    "Voter ID": "SOH0849174",
+    "Name": "Prema Kumari",
+    "Relation": "Husbands Name: Lakshmana Rao Jadav",
+    "address": "295",
+    "Age": 85,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 536,
+    "Voter ID": "SOH0849182",
+    "Name": "J L Sanath",
+    "Relation": "Fathers Name: Lakshmanarao Jadav",
+    "address": "295",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 537,
+    "Voter ID": "SOH0849190",
+    "Name": "J L Nandini",
+    "Relation": "Fathers Name: Lakshmanarao Jadav",
+    "address": "295",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 538,
+    "Voter ID": "BTF0959734",
+    "Name": "Kavitha Sannatha",
+    "Relation": "Husbands Name: Sannatha J L",
+    "address": "295",
+    "Age": 53,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 539,
+    "Voter ID": "BTF3565389",
+    "Name": "Ashwini J L",
+    "Relation": "Fathers Name: Lakshmanarao Jadav",
+    "address": "295",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 540,
+    "Voter ID": "BTF3192283",
+    "Name": "Krishna Bhat S",
+    "Relation": "Fathers Name: Mahalinga Bhat",
+    "address": "296",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 541,
+    "Voter ID": "SOH4483145",
+    "Name": "Pavithra Ganga Krishna Bhat",
+    "Relation": "Husbands Name: Krishna.S Bhat",
+    "address": "296",
+    "Age": 37,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 542,
+    "Voter ID": "BTF2165553",
+    "Name": "Sowmya Kumar B",
+    "Relation": "Fathers Name: Chandragupta",
+    "address": "297",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 543,
+    "Voter ID": "BTF2165561",
+    "Name": "Srimathi B",
+    "Relation": "Husbands Name: Sowmya Kumar",
+    "address": "297",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 544,
+    "Voter ID": "SOH4357117",
+    "Name": "Pranam Battepati",
+    "Relation": "Fathers Name: Sowmya Kumar",
+    "address": "298",
+    "Age": 37,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 545,
+    "Voter ID": "SOH4356408",
+    "Name": "Dr B Subbarayudu",
+    "Relation": "Fathers Name: Chinna Rosaiah naidu",
+    "address": "300",
+    "Age": 67,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 546,
+    "Voter ID": "SOH4356432",
+    "Name": "N Vijaya Lakshmi",
+    "Relation": "Husbands Name: Dr B Subba Ramudu",
+    "address": "300",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 547,
+    "Voter ID": "SOH5016928",
+    "Name": "Kavya B S",
+    "Relation": "Fathers Name: Dr B Subbarayudu",
+    "address": "300",
+    "Age": 33,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 548,
+    "Voter ID": "SOH0849240",
+    "Name": "Peter Pinto",
+    "Relation": "Mothers Name: Sevarina Pinto",
+    "address": "301",
+    "Age": 78,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 549,
+    "Voter ID": "SOH0849257",
+    "Name": "Thereja J Pinto",
+    "Relation": "Husbands Name: Peter Pinto",
+    "address": "301",
+    "Age": 75,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 550,
+    "Voter ID": "SOH5016886",
+    "Name": "Alphones Chethan Dsilva",
+    "Relation": "Mothers Name: Juliana Dsilva",
+    "address": "301",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 551,
+    "Voter ID": "SOH0849265",
+    "Name": "Nisha P Pinto",
+    "Relation": "Fathers Name: Peter Pinto",
+    "address": "301",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 552,
+    "Voter ID": "SOH4981338",
+    "Name": "Natasha Serha Pinto",
+    "Relation": "Fathers Name: Peter Pinto",
+    "address": "301",
+    "Age": 35,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 553,
+    "Voter ID": "BTF1172196",
+    "Name": "Sudha V R",
+    "Relation": "Husbands Name: Rajakumar M V",
+    "address": "302",
+    "Age": 60,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 554,
+    "Voter ID": "BTF0945626",
+    "Name": "Jagadeesh.M.V",
+    "Relation": "Fathers Name: Veerabhadrappa.M",
+    "address": "302",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 555,
+    "Voter ID": "BTF1172204",
+    "Name": "V.J. Chethana",
+    "Relation": "Husbands Name: Jagadeesh.M.V",
+    "address": "302",
+    "Age": 49,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 556,
+    "Voter ID": "SOH4483186",
+    "Name": "Neha.V.R",
+    "Relation": "Husbands Name: Raj Kumar.M.V",
+    "address": "302",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 557,
+    "Voter ID": "BTF2166452",
+    "Name": "R Krishnagallagali",
+    "Relation": "Husbands Name: Late Dwarakanath",
+    "address": "303",
+    "Age": 73,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 558,
+    "Voter ID": "SOH5578786",
+    "Name": "P Pavan Parihar",
+    "Relation": "Fathers Name: Prakash Chand Seervi B",
+    "address": "304",
+    "Age": 27,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 559,
+    "Voter ID": "SOH6163984",
+    "Name": "TISHA PARIHAR",
+    "Relation": "Fathers Name: PRAKASH CHAND SEERVI B",
+    "address": "304",
+    "Age": 23,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 560,
+    "Voter ID": "BTF3565249",
+    "Name": "Mohammed Iqbal",
+    "Relation": "Fathers Name: Mohammed Amirjan",
+    "address": "305",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 561,
+    "Voter ID": "BTF3565405",
+    "Name": "Yasmeen Taj",
+    "Relation": "Husbands Name: Mohammed Iqbal",
+    "address": "305",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 562,
+    "Voter ID": "BTF3565645",
+    "Name": "Mohammed Yasin",
+    "Relation": "Fathers Name: Mohammed Iqbal",
+    "address": "305",
+    "Age": 45,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 563,
+    "Voter ID": "BTF3544913",
+    "Name": "Mohammed Thashina",
+    "Relation": "Fathers Name: Mohammed Iqbal",
+    "address": "305",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 564,
+    "Voter ID": "SOH4483012",
+    "Name": "Syed Zakir Hussain",
+    "Relation": "Fathers Name: Syed Rahamathulla",
+    "address": "306",
+    "Age": 76,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 565,
+    "Voter ID": "SOH4483152",
+    "Name": "Reshma Fathima",
+    "Relation": "Husbands Name: Syed Zakir Hussain",
+    "address": "306",
+    "Age": 71,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 566,
+    "Voter ID": "SOH0849331",
+    "Name": "Kumar Bablu",
+    "Relation": "Fathers Name: Parasnath Tiwari",
+    "address": "306",
+    "Age": 49,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 567,
+    "Voter ID": "SOH4483137",
+    "Name": "Syed Shiraz Hussain",
+    "Relation": "Fathers Name: Syed Zakir Hussain",
+    "address": "306",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 568,
+    "Voter ID": "SOH0849323",
+    "Name": "Anubala Thaiwari",
+    "Relation": "Husbands Name: Kumar Bablu",
+    "address": "306",
+    "Age": 44,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 569,
+    "Voter ID": "SOH4482964",
+    "Name": "Noor Jahan",
+    "Relation": "Husbands Name: Syed Shiraz Hussain",
+    "address": "306",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 570,
+    "Voter ID": "SOH5135447",
+    "Name": "MURALIDHAR H N",
+    "Relation": "Fathers Name: NAGARAJA SETTY H C",
+    "address": "336,",
+    "Age": 61,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 571,
+    "Voter ID": "SOH5124060",
+    "Name": "ANITHA R",
+    "Relation": "Husbands Name: MURALIDHARA H N",
+    "address": "336,",
+    "Age": 59,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 572,
+    "Voter ID": "SOH5131099",
+    "Name": "GANESH H M",
+    "Relation": "Fathers Name: MURALIDHARA H N",
+    "address": "#336",
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 573,
+    "Voter ID": "SOH6342729",
+    "Name": "VINOD K R",
+    "Relation": "Others: RADHIKA K R",
+    "address": "484",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 574,
+    "Voter ID": "SOH5994355",
+    "Name": "CHANDANA R",
+    "Relation": "Fathers Name: RAGHUNATH V",
+    "address": "484",
+    "Age": 23,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 575,
+    "Voter ID": "SOH5976683",
+    "Name": "RAGHUNATH V",
+    "Relation": "Fathers Name: VENKATAPPA",
+    "address": "484, RRI APARTEMENTS",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 576,
+    "Voter ID": "SOH6188429",
+    "Name": "SHASHIKALA R RAGHUNATH",
+    "Relation": "Husbands Name: RAGHUNATH VENKATAPPA",
+    "address": "484, RRI APARTEMENTS",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 577,
+    "Voter ID": "SOH6186555",
+    "Name": "SHESHADRI R",
+    "Relation": "Fathers Name: RAGHUNATH V",
+    "address": "#484, RRI Apartments",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 578,
+    "Voter ID": "SOH6373492",
+    "Name": "VISHAL KRISHNA",
+    "Relation": "Fathers Name: GOPALA KRISHNA M R",
+    "address": "484, R.R.I. Quarters",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 579,
+    "Voter ID": "SOH6080311",
+    "Name": "PRAPTI BOPANA KADEMADA",
+    "Relation": "Fathers Name: BOPANA KADEMADA GANAPATHY",
+    "address": "492",
+    "Age": 24,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 580,
+    "Voter ID": "SOH0123125",
+    "Name": "Munisiddappa",
+    "Relation": "Fathers Name: Muniswamappa",
+    "address": "497",
+    "Age": 52,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 581,
+    "Voter ID": "SOH0170449",
+    "Name": "Deepa. R",
+    "Relation": "Husbands Name: Munisiddappa",
+    "address": "497",
+    "Age": 43,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 582,
+    "Voter ID": "SOH6332449",
+    "Name": "Sana Ayesha Qazi",
+    "Relation": "Mothers Name: Kubra Bano",
+    "address": "502",
+    "Age": 24,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 583,
+    "Voter ID": "SOH6268940",
+    "Name": "SHEELA K",
+    "Relation": "Husbands Name: UMESH NUCHIN NUCHIN",
+    "address": "508",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 584,
+    "Voter ID": "SOH5864400",
+    "Name": "Bhoomika Aswath",
+    "Relation": "Fathers Name: Aswath Reddy",
+    "address": "521",
+    "Age": 27,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 585,
+    "Voter ID": "SOH4356341",
+    "Name": "Udaya K.S.",
+    "Relation": "Fathers Name: k shankara",
+    "address": "522",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 586,
+    "Voter ID": "SOH4356937",
+    "Name": "Vinutha Udaya Bhat Bhat",
+    "Relation": "Husbands Name: KS udaya",
+    "address": "522",
+    "Age": 57,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 587,
+    "Voter ID": "AKB3802824",
+    "Name": "SHAMEEMUNNISA",
+    "Relation": "Husbands Name: MEER MOHAMED HASHIM",
+    "address": "535, Koolz Coral Hill Apartme",
+    "Age": 79,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 588,
+    "Voter ID": "AKB3802618",
+    "Name": "MOHAMMED TAHA HASHMI",
+    "Relation": "Fathers Name: MOHAMMED AIJAZ",
+    "address": "535, Koolz Coral Hill Apartme",
+    "Age": 22,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 589,
+    "Voter ID": "SOH6528301",
+    "Name": "Zuha Fathima",
+    "Relation": "Fathers Name: Mohammed Aijaz",
+    "address": "535, Koolz Coral Hill Apartme",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 590,
+    "Voter ID": "SOH4721320",
+    "Name": "Atmaram.K",
+    "Relation": "Fathers Name: Late. Muniswamy Krishnasw",
+    "address": "543",
+    "Age": 93,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 591,
+    "Voter ID": "SOH6300867",
+    "Name": "Gaurav Nirmal Kumar",
+    "Relation": "Fathers Name: Nirmal Kumar ATMARAM",
+    "address": "543",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 592,
+    "Voter ID": "SOH4720967",
+    "Name": "Suraj.M",
+    "Relation": "Fathers Name: Mohan.R",
+    "address": "544",
+    "Age": 32,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 593,
+    "Voter ID": "SOH4901195",
+    "Name": "vanamali G V S",
+    "Relation": "Fathers Name: Bhagavan G V S",
+    "address": "#548",
+    "Age": 43,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 594,
+    "Voter ID": "SOH0117176",
+    "Name": "Dr.Nagaraja G N",
+    "Relation": "Fathers Name: Late B NarayanaGowda",
+    "address": "549",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 595,
+    "Voter ID": "SOH0164061",
+    "Name": "Usha Nagaraj",
+    "Relation": "Husbands Name: Nagaraj G N",
+    "address": "549",
+    "Age": 64,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 596,
+    "Voter ID": "SOH4721411",
+    "Name": "Revathi.K.L",
+    "Relation": "Fathers Name: Lokanath.K Raju",
+    "address": "563",
+    "Age": 33,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 597,
+    "Voter ID": "SOH6416770",
+    "Name": "SHRIJAN SURESH",
+    "Relation": "Mothers Name: PRIYA SURESH",
+    "address": "565",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 598,
+    "Voter ID": "SOH4721312",
+    "Name": "Mathew James Athoopallil",
+    "Relation": "Fathers Name: James.A.J",
+    "address": "576",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 599,
+    "Voter ID": "SOH6372759",
+    "Name": "B K UDAYA KUMAR",
+    "Relation": "Fathers Name: B M KUMARASWAMY",
+    "address": "595",
+    "Age": 65,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 600,
+    "Voter ID": "SOH6372742",
+    "Name": "TEJASWI UDAY PRASHANTHI KUMAR",
+    "Relation": "Fathers Name: B K UDAYA KUMAR",
+    "address": "595",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 601,
+    "Voter ID": "SOH6493746",
+    "Name": "S. HITHA NAYANA",
+    "Relation": "Fathers Name: N. R. SAMPATH KUMAR",
+    "address": "610, Sri Ranga Nilaya",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 602,
+    "Voter ID": "SVF5910849",
+    "Name": "Girija N",
+    "Relation": "Fathers Name: Nagarajareddy",
+    "address": "619",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 603,
+    "Voter ID": "SOH5163555",
+    "Name": "J Rajee",
+    "Relation": "Husbands Name: S Na Jayram",
+    "address": "622",
+    "Age": 70,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 604,
+    "Voter ID": "SOH6309512",
+    "Name": "Ashish Jonathan Maben",
+    "Relation": "Fathers Name: Naveen Hubert Maben",
+    "address": "625",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 605,
+    "Voter ID": "SOH5194337",
+    "Name": "Shreya Khanna",
+    "Relation": "Fathers Name: Vinay Khanna",
+    "address": "653",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 606,
+    "Voter ID": "SOH5029434",
+    "Name": "Mallikarjuna M S",
+    "Relation": "Fathers Name: Lakshman",
+    "address": "661",
+    "Age": 62,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 607,
+    "Voter ID": "SOH5031687",
+    "Name": "Nagarathna",
+    "Relation": "Fathers Name: Shivanandappa",
+    "address": "661",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 608,
+    "Voter ID": "SOH6269682",
+    "Name": "Vishal Shivakumar",
+    "Relation": "Fathers Name: RN Shivakumar",
+    "address": "664",
+    "Age": 27,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 609,
+    "Voter ID": "SOH5016829",
+    "Name": "S K Keshavan",
+    "Relation": "Fathers Name: S V Kannan",
+    "address": "679",
+    "Age": 58,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 610,
+    "Voter ID": "SOH5016795",
+    "Name": "Jyothi K",
+    "Relation": "Husbands Name: S K Keshavan",
+    "address": "679",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 611,
+    "Voter ID": "SOH5272083",
+    "Name": "NAGAPPA K",
+    "Relation": "Fathers Name: KARIYAPPA KADANA",
+    "address": "680",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 612,
+    "Voter ID": "SOH5272075",
+    "Name": "SUDHA T K",
+    "Relation": "Husbands Name: NAGAPPA K",
+    "address": "680",
+    "Age": 64,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 613,
+    "Voter ID": "SOH5047162",
+    "Name": "Mamatha B O",
+    "Relation": "Husbands Name: Srikanth N R",
+    "address": "680",
+    "Age": 36,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 614,
+    "Voter ID": "SOH4721122",
+    "Name": "Anitha.R.P",
+    "Relation": "Husbands Name: Lakshmi Narayana",
+    "address": "681",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 615,
+    "Voter ID": "SOH6096515",
+    "Name": "S K SATISH KUMAR",
+    "Relation": "Fathers Name: KRISHNA MURTHY",
+    "address": "682",
+    "Age": 60,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 616,
+    "Voter ID": "SOH4721221",
+    "Name": "Shilpa.G.B",
+    "Relation": "Fathers Name: Bakkeshwara Patil.G.B",
+    "address": "685",
+    "Age": 37,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 617,
+    "Voter ID": "SOH5375654",
+    "Name": "Naomi Sanjana Sharath",
+    "Relation": "Fathers Name: Sharath Sampath",
+    "address": "689",
+    "Age": 30,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 618,
+    "Voter ID": "SOH6470876",
+    "Name": "Abdullah Rayyan Khan Khan",
+    "Relation": "Mothers Name: Nadira Begum Asad Asad",
+    "address": "706",
+    "Age": 25,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 619,
+    "Voter ID": "SOH5272117",
+    "Name": "Kollipura Ravi Babu",
+    "Relation": "Fathers Name: K Kotilingam",
+    "address": "708",
+    "Age": 63,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 620,
+    "Voter ID": "SOH6290084",
+    "Name": "KEERTHANA ISHWARA",
+    "Relation": "Fathers Name: P, ISHWARA BHAT",
+    "address": "126, 7th A Cross",
+    "Age": 22,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 621,
+    "Voter ID": "SOH6256846",
+    "Name": "Samyuktha",
+    "Relation": "Mothers Name: Suma Sridhar",
+    "address": "131,2nd Floor",
+    "Age": 23,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 622,
+    "Voter ID": "SOH6508923",
+    "Name": "FAYEEQA BANU K",
+    "Relation": "Fathers Name: ABDUL KHADIR",
+    "address": "205 9TH CROSS NEAR POORNIMA H",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 623,
+    "Voter ID": "SOH6534903",
+    "Name": "D S SUMEDHA",
+    "Relation": "Fathers Name: D G SUJAY",
+    "address": "278 6TH B MAIN ROAD",
+    "Age": 23,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 624,
+    "Voter ID": "SOH6343594",
+    "Name": "Karthik B",
+    "Relation": "Fathers Name: B Subbarayudu",
+    "address": "#300, 6th A Main Road",
+    "Age": 29,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 625,
+    "Voter ID": "SOH5951553",
+    "Name": "SAMEER SHERIFF",
+    "Relation": "Fathers Name: Usman Sheriff",
+    "address": "503 5th Cross HMT Layout",
+    "Age": 27,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 626,
+    "Voter ID": "SOH0845305",
+    "Name": "Sreja K",
+    "Relation": "Husbands Name: B P Mohan Rao Harale",
+    "address": "#5301",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 627,
+    "Voter ID": "SOH4283487",
+    "Name": "krishna kumar",
+    "Relation": "Fathers Name: s v s mani",
+    "address": "544 1st Floor 4th Cross",
+    "Age": 38,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 628,
+    "Voter ID": "SOH6316806",
+    "Name": "md akhlak shaikh",
+    "Relation": "Others: akheela",
+    "address": "555 4th cross",
+    "Age": 42,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 629,
+    "Voter ID": "SOH6416804",
+    "Name": "SURESH GOVINDAN",
+    "Relation": "Others: PRIYA SURESH",
+    "address": "565,4TH CROSS",
+    "Age": 59,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 630,
+    "Voter ID": "RRC1533116",
+    "Name": "PRIYA SURESH",
+    "Relation": "Husbands Name: SURESH SURESH",
+    "address": "565,4TH CROSS",
+    "Age": 51,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 631,
+    "Voter ID": "SOH6419543",
+    "Name": "MITTAL S PATEL PATEL",
+    "Relation": "Husbands Name: CHETHAN G L",
+    "address": "604 3rd cross",
+    "Age": 25,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 632,
+    "Voter ID": "SOH6439467",
+    "Name": "LATHA S",
+    "Relation": "Husbands Name: PURUSHOTHAM M",
+    "address": "607 1st floor",
+    "Age": 48,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 633,
+    "Voter ID": "SOH6355499",
+    "Name": "Prajwal R B",
+    "Relation": "Fathers Name: Ramakrishna B B",
+    "address": "636,7th Main 3rd Cross",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 634,
+    "Voter ID": "SOH6019467",
+    "Name": "SURYA PRAKAASH H N",
+    "Relation": "Fathers Name: HARI HARAN S",
+    "address": "651,1ST FLOOR, 2ND CROSS",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 635,
+    "Voter ID": "SOH6469795",
+    "Name": "VASIMULLA KHAN D",
+    "Relation": "Mothers Name: ZAREENA BEGUM",
+    "address": "NO 137,",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 636,
+    "Voter ID": "SOH6612550",
+    "Name": "YOHAAN JOSEPH JOHN",
+    "Relation": "Fathers Name: VINOD JOHN JOSEPH KURIOTTU",
+    "address": "NO 688, CBI Road",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 637,
+    "Voter ID": "BCW3682739",
+    "Name": "S. Lavanyakumari",
+    "Relation": "Fathers Name: Srinivasan",
+    "address": "NO 7",
+    "Age": 45,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 638,
+    "Voter ID": "SOH6332357",
+    "Name": "MOHAMMED FAIZ UMAR",
+    "Relation": "Fathers Name: MOHAMMED UMAR FAROOQ",
+    "address": "NO 10",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 639,
+    "Voter ID": "SOH5029392",
+    "Name": "PADMASHREE SURESH PATEL",
+    "Relation": "Husbands Name: SURESH KHIMJIBHAI PATEL",
+    "address": "NO 40",
+    "Age": 55,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 640,
+    "Voter ID": "SOH4903019",
+    "Name": "Revathi.S.K",
+    "Relation": "Husbands Name: Surendra.H",
+    "address": "No -43",
+    "Age": 50,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 641,
+    "Voter ID": "SOH6068407",
+    "Name": "AMREEN TAJ",
+    "Relation": "Husbands Name: ATHEEQ B A",
+    "address": "No 10 1st Floor",
+    "Age": 35,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 642,
+    "Voter ID": "ZLW4168019",
+    "Name": "Nishat Asima A",
+    "Relation": "Fathers Name: Ayub Sharieff",
+    "address": "No 125",
+    "Age": 34,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 643,
+    "Voter ID": "SOH6354484",
+    "Name": "Ansar Basha",
+    "Relation": "Fathers Name: Issac Basha",
+    "address": "No.137",
+    "Age": 73,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 644,
+    "Voter ID": "SOH5555651",
+    "Name": "SURAJ SESHADRI",
+    "Relation": "Fathers Name: SESHADRI SARANGAPANI",
+    "address": "NO 141,",
+    "Age": 30,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 645,
+    "Voter ID": "SOH6006266",
+    "Name": "CHANIDNI A",
+    "Relation": "Fathers Name: AZAM M",
+    "address": "NO 161",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 646,
+    "Voter ID": "SOH6068399",
+    "Name": "ATHEEQ B A",
+    "Relation": "Fathers Name: AMEER JAN",
+    "address": "No 178",
+    "Age": 44,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 647,
+    "Voter ID": "UAN6639736",
+    "Name": "Shameem Begum",
+    "Relation": "Husbands Name: Mohammed Vazeer",
+    "address": "No 197",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 648,
+    "Voter ID": "BTF0974659",
+    "Name": "MANSOOR AHMED",
+    "Relation": "Fathers Name: Abdul Wahab",
+    "address": "NO 20 4TH CROSS",
+    "Age": 72,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 649,
+    "Voter ID": "BTF0974642",
+    "Name": "AYESHA SULTANA",
+    "Relation": "Husbands Name: Mansoor Ahmed",
+    "address": "NO 20 4TH CROSS",
+    "Age": 62,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 650,
+    "Voter ID": "BTF0950790",
+    "Name": "Abdul Sattar",
+    "Relation": "Fathers Name: Abdul Mukthadir",
+    "address": "NO 205",
+    "Age": 47,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 651,
+    "Voter ID": "SOH0848192",
+    "Name": "Vinutha K.S",
+    "Relation": "Husbands Name: Subramanya K",
+    "address": "No 235",
+    "Age": 58,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 652,
+    "Voter ID": "SOH6372718",
+    "Name": "UMAIR ABDUL WAHAB",
+    "Relation": "Fathers Name: MAHMOOD ALAM",
+    "address": "No 245",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 653,
+    "Voter ID": "SOH6372734",
+    "Name": "EMAAD ABDUL WAHAB",
+    "Relation": "Fathers Name: MAHMOOD ALAM",
+    "address": "No 245",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 654,
+    "Voter ID": "SOH6471304",
+    "Name": "SAMYUKTHA",
+    "Relation": "Husbands Name: GURU PRAKASH S",
+    "address": "NO 266",
+    "Age": 40,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 655,
+    "Voter ID": "SOH6332399",
+    "Name": "Sanjana Vaaishita",
+    "Relation": "Husbands Name: Girisha Shankar",
+    "address": "No. 285",
+    "Age": 21,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 656,
+    "Voter ID": "SOH6433494",
+    "Name": "MOHAMMED MOIN UDDIN",
+    "Relation": "Fathers Name: NASEER UDDIN",
+    "address": "No. 286 Ground Floor",
+    "Age": 27,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 657,
+    "Voter ID": "SOH0848945",
+    "Name": "AYSHA TARANNUM KHAN Mrs",
+    "Relation": "Husbands Name: Inayath Ulla Khan",
+    "address": "No 289",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 658,
+    "Voter ID": "SOH6332555",
+    "Name": "Aasim Ali Khan",
+    "Relation": "Fathers Name: Inayath Ulla Khan",
+    "address": "No 289",
+    "Age": 25,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 659,
+    "Voter ID": "HRM0532705",
+    "Name": "FEROZ KHAN",
+    "Relation": "Fathers Name: Sattar Ali Khan",
+    "address": "NO 299, GROUND FLOOR ZEENATH",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 660,
+    "Voter ID": "SOH6540066",
+    "Name": "SAARIM KHAN",
+    "Relation": "Fathers Name: FEROZ KHAN",
+    "address": "NO 299, GROUND FLOOR, ZEENATH",
+    "Age": 23,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 661,
+    "Voter ID": "AKB3596087",
+    "Name": "Firdouse Khanum",
+    "Relation": "Fathers Name: Feroz Khan",
+    "address": "NO 299, GROUND FLOOR, ZEENATH",
+    "Age": 24,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 662,
+    "Voter ID": "SOH4895264",
+    "Name": "KUSHAL KADABA",
+    "Relation": "Fathers Name: ADINARAYANA MURTHY K N",
+    "address": "NO 319",
+    "Age": 37,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 663,
+    "Voter ID": "SOH5068770",
+    "Name": "S PAVAN REDDY",
+    "Relation": "Fathers Name: SRINIVASA REDDY",
+    "address": "NO 340",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 664,
+    "Voter ID": "SOH6371967",
+    "Name": "V CHARITH REDDY",
+    "Relation": "Fathers Name: V PURUSHOTHAMA REDDY",
+    "address": "No 35, 2nd Floor",
+    "Age": 20,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 665,
+    "Voter ID": "SOH6163869",
+    "Name": "Mohammed Kaif",
+    "Relation": "Fathers Name: Aslam Pasha",
+    "address": "No 35 4th Floor",
+    "Age": 26,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 666,
+    "Voter ID": "SOH6432330",
+    "Name": "ANUSHA N",
+    "Relation": "Husbands Name: NAGESH B S",
+    "address": "no 46, 7th cross",
+    "Age": 35,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 667,
+    "Voter ID": "SOH0166249",
+    "Name": "Shashikala R",
+    "Relation": "Husbands Name: Ramakrishna Gowda",
+    "address": "No 48 3rd Floor 10th Cross",
+    "Age": 56,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 668,
+    "Voter ID": "SOH4120226",
+    "Name": "Gopala Krishna M R",
+    "Relation": "Fathers Name: Rama Krishna",
+    "address": "NO. 484",
+    "Age": 54,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 669,
+    "Voter ID": "SOH6027171",
+    "Name": "Raju Mahadu Kadam",
+    "Relation": "Fathers Name: Mahadu Kadam",
+    "address": "No.518",
+    "Age": 57,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 670,
+    "Voter ID": "SOH5558374",
+    "Name": "Mayur madhuraj",
+    "Relation": "Fathers Name: K B madhuraj",
+    "address": "No 562",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 671,
+    "Voter ID": "SOH6355630",
+    "Name": "Yashwanth N Gorappa",
+    "Relation": "Fathers Name: M Naryana Swamy",
+    "address": "No 570",
+    "Age": 24,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 672,
+    "Voter ID": "SOH5366034",
+    "Name": "Jayalakshmi",
+    "Relation": "Husbands Name: Late Narasimha Murthy",
+    "address": "No 573",
+    "Age": 91,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 673,
+    "Voter ID": "SOH6311658",
+    "Name": "SATYATMA CHINCHOLI",
+    "Relation": "Fathers Name: RAGHAVENDRACHAR CHINCHOLI",
+    "address": "NO 585 MAHIDASA",
+    "Age": 21,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 674,
+    "Voter ID": "SOH6189039",
+    "Name": "RUDANI VILASH GANGARAM",
+    "Relation": "Fathers Name: GANGARAM RUDHANI",
+    "address": "No 587",
+    "Age": 33,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 675,
+    "Voter ID": "SOH6267702",
+    "Name": "PRAMITH KARANAM",
+    "Relation": "Fathers Name: RAGHURAMARAO K",
+    "address": "NO 630 GROUND FLOOR",
+    "Age": 22,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 676,
+    "Voter ID": "SOH6162960",
+    "Name": "VISHAL SAGAR MURTHY",
+    "Relation": "Mothers Name: REKHA C",
+    "address": "NO.677/A,SAI NILAYA",
+    "Age": 22,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 677,
+    "Voter ID": "SOH4901153",
+    "Name": "RAMYA H R",
+    "Relation": "Fathers Name: RAMASWAMY",
+    "address": "977",
+    "Age": 32,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 678,
+    "Voter ID": "SOH6332340",
+    "Name": "Mulla Shabina",
+    "Relation": "Fathers Name: Bakshusab Mulla",
+    "address": "No 180 3rd Floor",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 679,
+    "Voter ID": "SOH6508931",
+    "Name": "FOUQIYA BANU K",
+    "Relation": "Fathers Name: ABDUL KHADIR",
+    "address": "NO.205 9TH CROSS NEAR POORNIM",
+    "Age": 19,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 680,
+    "Voter ID": "SOH6471379",
+    "Name": "GURUPRAKASH",
+    "Relation": "Fathers Name: SRINIVASA V",
+    "address": "NO 266 1ST FLOOR",
+    "Age": 49,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 681,
+    "Voter ID": "SOH6413561",
+    "Name": "Arunkumar N",
+    "Relation": "Fathers Name: Nagaraju S",
+    "address": "No 279 6th B Main",
+    "Age": 53,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 682,
+    "Voter ID": "SOH6413553",
+    "Name": "Sridevi N",
+    "Relation": "Husbands Name: Nagaraj K",
+    "address": "No 279 6th B Main",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 683,
+    "Voter ID": "SOH6439442",
+    "Name": "Haritha A",
+    "Relation": "Fathers Name: Arun Kumar N",
+    "address": "No 279, 6th B Main",
+    "Age": 20,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 684,
+    "Voter ID": "SOH0848937",
+    "Name": "Mazherulla Khan Asif",
+    "Relation": "Fathers Name: Hafizulla Khan Sharif",
+    "address": "No 289, 6 B Main",
+    "Age": 90,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 685,
+    "Voter ID": "SOH4644555",
+    "Name": "Inayath Ulla Khan",
+    "Relation": "Fathers Name: Mazherulla Khan Asif",
+    "address": "No 289, 6 B Main",
+    "Age": 55,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 686,
+    "Voter ID": "SOH6471718",
+    "Name": "Kamala Aminabhavi",
+    "Relation": "Husbands Name: Raghavendra Aminabhavi",
+    "address": "No 294 6th A Main",
+    "Age": 42,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 687,
+    "Voter ID": "SOH6188593",
+    "Name": "Veeru P Mehta",
+    "Relation": "Fathers Name: Prataprai M Mehta",
+    "address": "NO 510 1st Floor 5th Cross",
+    "Age": 69,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 688,
+    "Voter ID": "SOH6188585",
+    "Name": "Kokila V Mehta",
+    "Relation": "Husbands Name: Veeru P Mehta",
+    "address": "NO 510 5th Cross",
+    "Age": 68,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 689,
+    "Voter ID": "SOH6188551",
+    "Name": "M Ddeena kapleshh",
+    "Relation": "Husbands Name: Kapleeshh V K Mehta",
+    "address": "NO 510 5th Cross",
+    "Age": 41,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 690,
+    "Voter ID": "SOH6188569",
+    "Name": "Kalpeeshh V K Mehta",
+    "Relation": "Fathers Name: Veeru P Mehta",
+    "address": "NO 510 5th Cross",
+    "Age": 41,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 691,
+    "Voter ID": "SOH6523351",
+    "Name": "G T ANANDA KUMAR",
+    "Relation": "Fathers Name: THIRUMALA RAO GUMMANUR",
+    "address": "NO 539 2ND FLOOR 4TH CROSS",
+    "Age": 68,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 692,
+    "Voter ID": "SOH6284798",
+    "Name": "Satish D",
+    "Relation": "Fathers Name: Durai swamy",
+    "address": "No 544 1st Floor",
+    "Age": 49,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 693,
+    "Voter ID": "SOH5309125",
+    "Name": "HARI MANI",
+    "Relation": "Fathers Name: SVS MANI",
+    "address": "No.544 1st Floor",
+    "Age": 40,
+    "Gender": "Male"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 694,
+    "Voter ID": "SOH6316442",
+    "Name": "akheela",
+    "Relation": "Husbands Name: md akhlak shaikh",
+    "address": "NO 555,4th cross",
+    "Age": 46,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 695,
+    "Voter ID": "SOH4811360",
+    "Name": "Swapna.S",
+    "Relation": "Husbands Name: Gopala Krishna.M.R",
+    "address": "T-2",
+    "Age": 47,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 696,
+    "Voter ID": "SOH6444962",
+    "Name": "PADMA K",
+    "Relation": "Husbands Name: SREENIVAS B V",
+    "address": "162",
+    "Age": 61,
+    "Gender": "Female"
+  },
+  {
+    "Dataset": "208",
+    "Serial Number": 697,
+    "Voter ID": "WVR3474137",
+    "Name": "Shahnaz Hussain",
+    "Relation": "Husbands Name: Hyder Masthri",
+    "address": "Flat 302 No 192 BV Sai Brundh",
+    "Age": 72,
+    "Gender": "Female"
+  }
+]

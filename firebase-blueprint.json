@@ -1,0 +1,86 @@
+{
+  "entities": {
+    "Dataset": {
+      "title": "Dataset",
+      "description": "An electoral roll dataset part definition",
+      "type": "object",
+      "properties": {
+        "id": {
+          "type": "string",
+          "description": "Unique identifier for dataset, e.g. 208, 207"
+        },
+        "name": {
+          "type": "string",
+          "description": "Descriptive name for the dataset"
+        },
+        "partNo": {
+          "type": "string",
+          "description": "Part number of electoral roll"
+        },
+        "constituency": {
+          "type": "string",
+          "description": "Constituency name and number"
+        },
+        "totalElectors": {
+          "type": "number",
+          "description": "Total count of electors"
+        },
+        "createdAt": {
+          "type": "string",
+          "description": "ISO timestamp of sync"
+        }
+      },
+      "required": ["id", "name", "partNo", "totalElectors"]
+    },
+    "Elector": {
+      "title": "Elector",
+      "description": "An individual elector voter record",
+      "type": "object",
+      "properties": {
+        "dataset": {
+          "type": "string",
+          "description": "Dataset part number (e.g. 208, 207)"
+        },
+        "serialNumber": {
+          "type": "number",
+          "description": "Serial number of elector on roll"
+        },
+        "voterId": {
+          "type": "string",
+          "description": "EPIC Voter ID card number"
+        },
+        "name": {
+          "type": "string",
+          "description": "Elector full name"
+        },
+        "relation": {
+          "type": "string",
+          "description": "Relation details (Father/Husband/Mother)"
+        },
+        "address": {
+          "type": "string",
+          "description": "House number / address"
+        },
+        "age": {
+          "type": "number",
+          "description": "Age of elector"
+        },
+        "gender": {
+          "type": "string",
+          "description": "Gender of elector"
+        }
+      },
+      "required": ["dataset", "serialNumber", "voterId", "name", "relation", "address", "age", "gender"]
+    }
+  },
+  "firestore": {
+    "/datasets/{datasetId}": {
+      "schema": "Dataset",
+      "description": "Electoral roll dataset documents"
+    },
+    "/datasets/{datasetId}/electors/{electorId}": {
+      "schema": "Elector",
+      "description": "Individual voter records within a dataset"
+    }
+  }
+}

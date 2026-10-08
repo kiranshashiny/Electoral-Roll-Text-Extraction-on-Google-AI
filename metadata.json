@@ -1,0 +1,6 @@
+{
+  "name": "Electoral Roll PDF Parser & CSV Extractor",
+  "description": "Automated electoral roll PDF parser that compiles card data, extracts voter records into individual dataset CSVs, and streams live compilation status and console outputs.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

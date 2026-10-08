@@ -1,0 +1,698 @@
+Dataset,Serial Number,Voter ID,Name,Relation,address,Age,Gender
+208,1,SOH5577911,Meenakshi G,Husbands Name: Nagaraja A Reddy,03,32,Female
+208,2,SOH5042528,Sanghamitra lyengar,Mothers Name: Rajalakshmi Bhupal,05,74,Female
+208,3,SOH5201082,Ujwala,Husbands Name: Jawaherlal Doddanavar,6,62,Female
+208,4,SOH5201199,Jawaharalal Doddanavar,Fathers Name: Parishnath Doddanavar,6,31,Male
+208,5,SOH6092605,SURESHA B S,Fathers Name: SUBBANNA,7,54,Male
+208,6,SOH6096259,S N PADMAVATHI,Husbands Name: SURESHA B S,7,47,Female
+208,7,SOH6092621,SANJAY SURESHA,Fathers Name: SURESHA B S,7,28,Male
+208,8,SOH6092639,SWATHI SURESHA,Fathers Name: SURESHA B S,7,25,Female
+208,9,SOH0843631,Dr. Dilip Deshpande,Fathers Name: Vasanth Deshpande,9,76,Male
+208,10,SOH0843649,Shalini Deshpande,Husbands Name: Dr Dilip Deshpande,9,71,Female
+208,11,SOH0843730,M D Satyanarayana,Fathers Name: M D Devarasegowda,14,77,Male
+208,12,SOH0843789,Sujatha M,Husbands Name: Sathya Narayana M D,14,65,Female
+208,13,BTF1234236,Smruti M S,Fathers Name: Sathyanarayan M D,14,45,Female
+208,14,BTF3546058,M. S. Shriyas,Fathers Name: M. D. Sathyanarayan,14,42,Male
+208,15,BTF0978130,Prabhakaran,Fathers Name: K K Bhupalan,21,66,Male
+208,16,BTF0975193,Shanthi B,Husbands Name: Prabhakaran,21,60,Female
+208,17,SOH0124719,Pravinkumar.P,Fathers Name: Prabhakaran,21,38,Male
+208,18,SOH4356804,G Kiran,Fathers Name: D R Guru Prasad,26,48,Male
+208,19,SOH0844175,Suresh Babu Lokunde S,Fathers Name: Late. Sundar Rao Lokunde V L,27,70,Male
+208,20,SOH0844159,Manjunabath S,Fathers Name: Sundara Rao Lakonda V L,27,62,Male
+208,21,SOH0844134,Kalpana K,Husbands Name: Suresh Babu,27,59,Female
+208,22,SOH0844142,Bharathi K,Husbands Name: Manjunath S,27,54,Female
+208,23,TNH3649134,MEGHANA NARASINGARAO,Fathers Name: R NARASINGARAO,27,27,Female
+208,24,BTF2165249,Bhaskar B S,Fathers Name: Sriramulu G,29,61,Male
+208,25,BTF2165231,Susheela,Husbands Name: Bhaskar,29,55,Female
+208,26,SOH5579289,SUMITRA R,Fathers Name: Rajanna,29,29,Female
+208,27,SOH5578992,Sowmya R,Fathers Name: Rajanna,29,27,Female
+208,28,SOH6355820,AKARSH KIRAN BHASKAR,Fathers Name: BHASKAR,"#29, Sri sapthagiri",21,Male
+208,29,BTF2165660,Nayana Padiyar,Husbands Name: Nagesh Padiyar,31,65,Female
+208,30,BTF2165546,Prasad Kamatha,Fathers Name: Raghavendra Kamath,31,52,Male
+208,31,BTF2165678,Nithina Padiyar,Fathers Name: Nagesh Padiyar,31,43,Male
+208,32,SOH0702696,Naveen Kadiyar,Fathers Name: Nagesh Kadiyar,31,40,Male
+208,33,SOH5375662,Latha C,Mothers Name: Gunasundari,32,36,Female
+208,34,SOH0705012,Mir Himayath Uddin,Fathers Name: Mir Ajiz Uddin,32/2,77,Male
+208,35,SOH0844266,Shah Banu,Husbands Name: Mir Himayath Ddin,32/2,65,Female
+208,36,SOH0851337,Jayalakshmamma,Husbands Name: Prabhakara Reddy,33,82,Female
+208,37,SOH0844324,Priyadarshini P,Fathers Name: S Prabhakara Reddy,33,49,Female
+208,38,SOH4939856,Manjula.S,Husbands Name: Lokesh.K.S,34,47,Female
+208,39,SOH0167064,Ramakrishna Gowda .K.N,Fathers Name: Narayana,34/1,61,Male
+208,40,SOH0844332,C Devaraj,Fathers Name: Chikkannappa M P Late,34-2,83,Male
+208,41,SOH0844340,M Nagarathna,Husbands Name: C Devaraj,34-2,74,Female
+208,42,SOH0844357,Chethana.D,Fathers Name: Devaraj.C,34/2,42,Female
+208,43,SOH5201009,S Kalavathi,Fathers Name: N C Somashekar,37,44,Male
+208,44,SOH5201181,Vijaya Raghavan,Fathers Name: N C Somashekar,37,42,Male
+208,45,SOH4356580,Prabhudev H T,Fathers Name: H R Tammaiah,39,77,Male
+208,46,SOH4356374,U P Bhagirathi,Husbands Name: HT Prabhu deev,39,69,Female
+208,47,SOH0612622,Radha,Husbands Name: P Balakrishna,40,67,Female
+208,48,SOH0612630,B Ravikumar,Fathers Name: P Balakrishna,40,53,Male
+208,49,SOH0612648,B Shashikumar,Fathers Name: P Balakrishna,40,51,Male
+208,50,SOH4356705,Chandan K,Husbands Name: ravi kumar bala krishna,40,47,Female
+208,51,SOH0844506,Vanitha Shashikumar,Husbands Name: Shashikumar B.,40,43,Female
+208,52,SOH6512180,Anirudh B Shashikumar,Fathers Name: Shashikumar Balakrishna,40,19,Male
+208,53,SOH5950506,Savithri G,Husbands Name: S R N Prasad,41,62,Female
+208,54,BTF0971994,K Kumar,Fathers Name: R V Krishnamurthy,42,75,Male
+208,55,BTF0971978,K Venkatesh,Fathers Name: Late R V Krishnamurthy,42,63,Male
+208,56,BTF0972000,K Vijayalakshmi,Husbands Name: K Kumar,42,63,Female
+208,57,BTF3545399,SHANKAR KUMAR,Fathers Name: K. Kumar,42,42,Male
+208,58,SOH4483160,Shreyas.R,Fathers Name: Raja Ram.K,42,35,Male
+208,59,SOH0844605,Lalitha Gopalakrishna,Husbands Name: G Gopalakrishna,43,83,Female
+208,60,SOH0844613,Nagendra H,Fathers Name: G Gopalakrishna,43,60,Male
+208,61,SOH4482949,Vasuki.H.R,Husbands Name: Nagendra.H Hulikal,43,59,Female
+208,62,SOH0844621,Surendra H,Fathers Name: G Gopalakrishna,43,55,Male
+208,63,SOH6112965,KAUSTUBH HOLLA,Fathers Name: NAGENDRA HULIKAL,43,23,Male
+208,64,BTF2165298,Ajay Prasad,Fathers Name: Prasad M R,44,47,Male
+208,65,SOH3868676,Tarini Bohra,Fathers Name: Dinesh Singh Bohra,45,35,Female
+208,66,SOH4474573,Dirsha Bohra,Fathers Name: Dinesh Singh Bohra,45,33,Female
+208,67,SOH0612135,Dinesh Sing Bahura,Fathers Name: Late. Sampath Sing Bahura,45N,65,Male
+208,68,SOH0612127,Mala Bahura,Husbands Name: Dinesh Sing Bahura,45N,62,Female
+208,69,SOH0612119,Sonam Murut,Fathers Name: Abhya Munut,45N,41,Female
+208,70,BTF0948331,B S Venkatesh Kumar,Fathers Name: V Srinivasalah,46,60,Male
+208,71,BTF0978445,Nagesh B S,Fathers Name: V Srinivasalah,46,54,Male
+208,72,SOH6437024,HUMSIKA V VENKTESH,Fathers Name: VENKATESH KUMAR BS,#46 venkateshwara nilaya,20,Female
+208,73,SOH3854726,Shilpa Sambasivan,Fathers Name: D Samba Sivan,47,46,Female
+208,74,SOH6013734,PAVAN KUMAR R,Fathers Name: RAJU M,47,23,Male
+208,75,SOH4120168,T R Narayanan kutty,Fathers Name: K Raman Kutty,48,84,Male
+208,76,SOH4120200,Radha kutty,Husbands Name: Narayana kutty kutty,48,74,Female
+208,77,SOH3880010,Dilshad,Husbands Name: Khasim Beig,49/5,68,Female
+208,78,SOH4120317,Sindhu pradeep,Husbands Name: S Pradeep,50,52,Female
+208,79,BTF0975334,Rohini,Husbands Name: N Pandurangan,54,74,Female
+208,80,SOH0634915,Dilip .P,Fathers Name: Panduranga.N,54,38,Male
+208,81,SOH1807593,Deeraj .P,Fathers Name: N.Pandurangan,54,36,Male
+208,82,SOH3877503,Pradeep Kumar,Fathers Name: K Jayaram,60,43,Male
+208,83,SOH4356416,N B Shobha,Fathers Name: NN Bheemaiah,61,69,Female
+208,84,BTF1200344,ABHISHEK SRINIVAS GOWDA,Fathers Name: Srinivas K K,"65, SREE NILAYA",45,Male
+208,85,SOH4449260,Majida Begaum,Fathers Name: Khasim Ali Khan,66A/N,46,Female
+208,86,SOH4356911,P K Ramesha,Fathers Name: P Krishna Rao,73,68,Male
+208,87,SOH4356390,H R Kalavathi,Husbands Name: P K ramesh,73,62,Female
+208,88,SOH4356978,P K Veenakumari,Husbands Name: Krishna Rao,73,62,Female
+208,89,SOH4356762,N.V Chikkaramaiah,Fathers Name: vagappa chikka Ramaiah,74,92,Male
+208,90,SOH4356903,Vijayalakshmi Chikkaramaiah,Husbands Name: chikka ramaiah,74,81,Female
+208,91,SOH4356606,Shridhar Chikkavaraiah,Fathers Name: Chikkavaraiah.N.V,74,62,Male
+208,92,SOH4357109,Kusuma M,Husbands Name: Shashidar,74,60,Female
+208,93,SOH0845271,H Puttaiah,Fathers Name: Hanumoji Rao,76,92,Male
+208,94,SOH4947438,Hussainabee,Fathers Name: Hasanasab Meladamani,76,34,Female
+208,95,SOH6445852,SHAHEEN BEGUM,Fathers Name: RAJESAB RAJESAB,#76,20,Female
+208,96,SOH6501886,Jhanvi Bai Bangalore Manohar,Fathers Name: Manohar Rao Harale Bangalore Puttaiah,76 PUJA,19,Female
+208,97,BTF0972125,C G Subbamma,Husbands Name: C A Gopinath,79,84,Female
+208,98,BTF0972133,C G Anand,Fathers Name: C A Gopinath,79,64,Male
+208,99,BTF0972141,C S Padmarekha,Husbands Name: C G Aanand,79,63,Female
+208,100,BTF0955617,C G Muralimohan,Fathers Name: Gopinath,79,59,Male
+208,101,SOH0845370,Ananthalakshmi,Husbands Name: Ram Belludi,81,85,Female
+208,102,SOH0845388,Anjaneya B R,Fathers Name: Ramappa Belludi,81,54,Male
+208,103,SOH0845396,Janardhana,Fathers Name: Natarajan,82,68,Male
+208,104,SOH0845404,Sudha Janardhana,Husbands Name: Janardhana,82,63,Female
+208,105,SOH0845420,Muralidharan K.R,Fathers Name: Krishna Pillai,83,79,Male
+208,106,SOH0845438,Sree Kumari.R,Husbands Name: Muralidharan K R,83,78,Female
+208,107,SOH0845453,Vijay M Krishna,Fathers Name: Muralidharan.K.R,83,43,Male
+208,108,SOH5204201,Vijay Kumar,Fathers Name: Lakshman Rao,85,84,Male
+208,109,SOH5204193,Vanamala Padaki,Husbands Name: Vijay Kumar Padaki,85,56,Female
+208,110,BTF2165157,Vikram Padaki,Fathers Name: Vijayakumar,85,46,Male
+208,111,BTF0947515,Vinutha V Padaki,Fathers Name: Vijayakumar,85,45,Female
+208,112,SOH0612051,Vinayak Vijya Padaki,Fathers Name: Vijye Kumar,85,41,Male
+208,113,SOH4656880,Venkatesh Reddy.C.R,Fathers Name: Ramareddi,87N,63,Male
+208,114,SOH0646950,Veena.R,Husbands Name: Venkatesh Reddy.C.R,87N,50,Female
+208,115,SOH6278055,Darshan N Patel,Fathers Name: Niraj Manubhai Patel,90,30,Male
+208,116,SOH4071262,Sonal N Patel,Husbands Name: NIRAJ M PATEL,"90, SHREE AMBE",60,Female
+208,117,SOH0845495,NIRAJ M PATEL,Fathers Name: MANUBHAI M PATEL,"90, SHREE AMBE",40,Male
+208,118,BTF1171982,B T Seshachalam,Fathers Name: B R T Mudaliyar,91,94,Male
+208,119,SOH4449229,Saraswathi Raman,Husbands Name: Raman,91,72,Female
+208,120,SOH4356697,V. Shekhar,Fathers Name: H R Vishwanath,91,70,Male
+208,121,BTF1173400,B S Chandrika,Husbands Name: V Shekar,91,64,Female
+208,122,SOH6484885,Anshul Khurana,Mothers Name: Devaki Khurana,"91/1, Nikhil Apartments",21,Male
+208,123,SOH0845594,B Vijaya,Husbands Name: J M Veerannagowda,92,73,Female
+208,124,BTF0949131,Aravind M V,Fathers Name: G M Veerannagowda,92,56,Male
+208,125,TPC4310397,Najma M,Fathers Name: Mahammad Khan,#92,36,Female
+208,126,BTF0949123,Geetha B,Husbands Name: Aravind M V,92-A,49,Female
+208,127,BTF2160984,Prathibha,Husbands Name: Mahesh Niyogi R,94,55,Female
+208,128,BTF0974782,Susheelamma,Husbands Name: Siddagangappa,95,80,Female
+208,129,BTF0974774,Jayaprakash B S,Fathers Name: Siddagangappa,95,56,Male
+208,130,BTF0974766,Jyothi N V,Husbands Name: Jayaprakash B S,95,50,Female
+208,131,SOH6420087,ANEESH J PRAKASH,Fathers Name: JAYAPRAKASH B S,95,20,Male
+208,132,BTF3545647,Venkatesh Ellora,Fathers Name: E. K. Govindaraj,96,70,Male
+208,133,SOH5200977,Srikrishna ellore,Fathers Name: Venkatesh ellore,96,33,Male
+208,134,SOH5201157,Arjun Ellore,Fathers Name: Venkatesh Ellore,96,32,Male
+208,135,BTF2160927,C Niranjan,Fathers Name: B K Chennanna,98,67,Male
+208,136,BTF0975102,Rekha. N,Husbands Name: C Niranjan,98,65,Female
+208,137,BTF0972034,M.K. Radha,Husbands Name: C S Kumar,99,84,Female
+208,138,SOH0124230,M. K. Satish Kumar,Fathers Name: C. S. Kumar,99,62,Male
+208,139,SOH4666061,Ambika Satish,Husbands Name: Satish Kumar. M. K,99,57,Female
+208,140,BTF0972026,H Leelavathi,Husbands Name: D Harikrishnan,100,86,Female
+208,141,SOH6447338,Pradeep Harikrishnan,Mothers Name: Leelavathi H,100,60,Male
+208,142,SOH6447239,Indira Pradeep,Husbands Name: Pradeep Harikrishnan,100,54,Female
+208,143,SOH0845768,Shamala,Husbands Name: G A Nirmala Kumar,101,81,Female
+208,144,SOH0845776,Manasa,Fathers Name: Nirmal Kumar G A,101,45,Female
+208,145,BTF2165413,Pramila,Husbands Name: R Subbaraju,102,60,Female
+208,146,BTF0951889,G Sridhar Raju,Fathers Name: G S Raghavaraju,102,59,Male
+208,147,BTF0974113,Srivani G,Husbands Name: Sridhar Raju G,102,52,Female
+208,148,BTF0950469,R Vasugi,Husbands Name: M Ranganathan,103,84,Female
+208,149,SOH5460852,R Bhaskaran,Fathers Name: M Ranga nath,103,62,Male
+208,150,SOH0845800,R Parthiban,Fathers Name: Ranganathan M,103,60,Male
+208,151,SOH0845818,R Gangadharan,Fathers Name: M Ranganathan,103,56,Male
+208,152,BTF2174167,K V Balakrishna Urs,Fathers Name: K P Venkate Urs,106,93,Male
+208,153,BTF2174175,Jayalakshammany R,Husbands Name: K V Balakrishna Urs,106,86,Female
+208,154,SOH0845883,Srinivasa..B..K,Fathers Name: Balakrishna Urs.K.V,106,56,Male
+208,155,SOH5960786,NEHA S,Mothers Name: JYOTHI K,106,25,Female
+208,156,SOH6534986,NITHIN S URS,Fathers Name: B K SRINIVAS,106,19,Male
+208,157,SOH0845933,Prathibhaa M Bhat,Husbands Name: Mahadev S Bhat,107,75,Female
+208,158,SOH0845941,C Pramod Bhat,Fathers Name: Mahadev S Bhat,107,54,Male
+208,159,SOH0845966,Jyothi Padiadpu,Husbands Name: C Pramod Bhat,107,48,Female
+208,160,SOH0845974,Ashwath Narayan K,Fathers Name: K Ramaiah,108,87,Male
+208,161,BTF2165710,K A Venkatesh,Fathers Name: K Ashwath Narayan,108,50,Male
+208,162,BTF0955047,I G Ponnappa,Fathers Name: I K Ganapathi,109,51,Male
+208,163,BTF0972596,I K Ganapathi,Fathers Name: I K Kuttappa,109/1,87,Male
+208,164,BTF2166247,Chitharanjan K,Fathers Name: Annappaiah K,110,85,Male
+208,165,BTF2166254,Shakunthala K,Husbands Name: Chitharanjan K,110,77,Female
+208,166,BTF3545761,Gayithri K,Husbands Name: Chitharanjan K,110,57,Female
+208,167,SOH6373757,K Jhenkar,Fathers Name: K Shailendra,110,28,Male
+208,168,BTF0947366,Shobi Thomas,Fathers Name: Thomas Omain,111,65,Male
+208,169,BTF0947358,Sara S Thomas,Husbands Name: Shobi Thomas,111,61,Female
+208,170,SOH4483228,Johann.S Thomas,Fathers Name: Shobi Thomas,111,35,Male
+208,171,BTF3191913,H S Prabhakar,Fathers Name: Subraya,112,83,Male
+208,172,SOH0846022,Rathna Prabhakar,Husbands Name: Prabhakar H.S.,112,73,Female
+208,173,BTF3192614,H P Prithwikumara,Fathers Name: Prabhakar H S,112,48,Male
+208,174,SOH0175844,Divya Pruthavi,Husbands Name: Pruthavi Kumar.H .P,112,43,Female
+208,175,BTF0976597,G D Kavitha,Fathers Name: G S Dwarakanath,113,57,Female
+208,176,SOH5706437,BHOOMIKA B S,Fathers Name: R SHANKAR,114 gowrisharan,26,Female
+208,177,SOH4356846,Sajida Begaum khaji,Husbands Name: sharif sab,115,72,Female
+208,178,SOH4356994,Mohammed Arif Khazi,Fathers Name: Mohamad Sharif,115,46,Male
+208,179,BTF0974865,Mahamada Thanwira Khaji,Fathers Name: Mohammed Sharif Kazi,115,44,Male
+208,180,SOH4356440,Pharaha Naz Khazi,Husbands Name: Shariff Sab,115,38,Female
+208,181,SOH3799525,G Deepa,Husbands Name: U Girish Kumar,116,60,Female
+208,182,SOH3799517,U Girish Kumar,Fathers Name: Umapathi,116,60,Male
+208,183,SOH5553946,Sanjana G,Fathers Name: U Girish Kumar,116,30,Female
+208,184,BTF3544574,Achinthyakumara Basu,Fathers Name: Sachiranjana. B,117,82,Male
+208,185,BTF3544582,Kalpana. A. Basu,Husbands Name: Achinthyakumara. B,117,74,Female
+208,186,BTF3545639,Subrahmanyan G K R,Fathers Name: Gopalakrishna,118,75,Male
+208,187,BTF3545548,Padma Subrahmanyan,Husbands Name: Subrahmanyan,118,69,Female
+208,188,SOH0611053,Shri Krishnan,Fathers Name: Subramanayya.G.K.R,118,43,Male
+208,189,SOH5194246,Rathnamma T N,Husbands Name: Akkalappa A C,121,67,Female
+208,190,SOH0846121,Ramamangaladevi B,Husbands Name: S Basava Rajaiah,122,84,Female
+208,191,SOH0846139,Jayanth B,Fathers Name: S Basavarajaiah,122,63,Male
+208,192,SOH0846147,Geeta Jayanth,Husbands Name: Jayanth B,122,57,Female
+208,193,SOH5577622,Padmanabha M D,Fathers Name: Late Doreswamy M S,123,64,Male
+208,194,SOH5578802,Ramesh M D,Fathers Name: Late Doreswamy M S,123,62,Male
+208,195,SOH5578836,Shobha M Kanakapur,Husbands Name: Padnamabha M D,123,61,Female
+208,196,SOH4356887,Jubedha Khathun,Husbands Name: Syed Maqbool Ahmed,124,73,Female
+208,197,ZBG7001936,Anam Fathima,Husbands Name: Kalim Pasha,125,31,Female
+208,198,BTF0971234,Savithri P R,Husbands Name: P Ramakrishna Bhat,126,84,Female
+208,199,BTF0971218,P Ishwara Bhat,Fathers Name: P Ramakrishna Bhat,126,55,Male
+208,200,BTF0971226,Kavyashree P I,Husbands Name: Ishwara Bhat P,126,49,Female
+208,201,BTF3544012,Jameela Matheen,Fathers Name: Abdul Majid Khan,127,62,Female
+208,202,BTF0951632,Abdul Razaq Khari,Fathers Name: Abdul Majeed Khan,127,58,Male
+208,203,BTF0946541,TASNEEM FATHIMA A S,Husbands Name: Abdul Razaq Khan,127,50,Female
+208,204,SOH4667358,Aasiph Muhumda .A.H,Fathers Name: Late Abdul Hamid,127,39,Male
+208,205,SOH5994173,Mohammed Farhan Khan,Fathers Name: Abdul Razaq Khan,127,24,Male
+208,206,SOH6372601,SUMAIYA FATHIMA,Mothers Name: TASNEEM FATHIMA A S,127,21,Female
+208,207,SOH6532840,MOHAMMED IRFAN KHAN,Fathers Name: ABDUL RAZAQ KHAN,127,19,Male
+208,208,SOH5927280,Shahbuddin Kaleem Khan,Fathers Name: Shahbuddin Khan,# 127,75,Male
+208,209,SOH5457767,Mappala Karthik Kumar,Fathers Name: M V Narayana Raju,128,40,Male
+208,210,SOH5194105,V C Shridhar,Fathers Name: V P C Naidu,131,62,Male
+208,211,SOH5194378,Suma Sridhar,Husbands Name: V C Sridhar,131,56,Female
+208,212,SOH0846337,M S Kamala,Husbands Name: B K Subramanyam,135,94,Female
+208,213,SOH0176487,B S Prathibha,Fathers Name: B K Subramanyam,135,67,Female
+208,214,SOH0128298,S Anantha,Fathers Name: Shivaram,135,42,Male
+208,215,SOH0846345,Trishul,Mothers Name: Parthiba S,135,37,Male
+208,216,BTF0973297,Suguna Selvan,Husbands Name: Selvan J,136,88,Female
+208,217,SOH0846352,Suresh Selvan,Fathers Name: Selvan.J,136,65,Male
+208,218,SOH0846360,Shanthi Suresh,Husbands Name: Suresh Selvan,136,57,Female
+208,219,SOH4120119,supriya suresh,Fathers Name: suresh,136,34,Female
+208,220,SOH0846386,Masood Khan D,Fathers Name: Davud Khan D,137,67,Male
+208,221,BTF0971820,Zareena Begum,Husbands Name: Davood Khan,137,51,Female
+208,222,BTF0971838,Rokhiya Sultana,Husbands Name: Vasimulla Khan,137,50,Female
+208,223,SOH6010722,SAUD MASOOD KHAN KHAN,Mothers Name: SHABANA KOUSER,137,25,Male
+208,224,SOH6010706,RIMSHA MEHNAAZ KHAN KHAN,Fathers Name: DAWOOD MASOOD KHAN,137,22,Female
+208,225,SOH6186621,SYED SHABUDDIN,Fathers Name: SYED NAYEEMUDDIN,138,22,Male
+208,226,BTF0948554,Sachin S,Fathers Name: K Sridhar,138-1,46,Male
+208,227,SOH5791066,T Rajaram,Fathers Name: Rajaram Thirumalachar,139,65,Male
+208,228,SOH5791058,M S Kanyakumari,Husbands Name: T Rajaram,139,55,Female
+208,229,SOH0846469,S Sarang Pani,Fathers Name: Shamachar,141,94,Male
+208,230,SOH0846493,Shamasundar S,Fathers Name: S Sarang Pani,141,58,Male
+208,231,BTF2165629,Chakravarthi Raman Sridhar,Fathers Name: Karurna Bura Chakravarthi Raman,143,76,Male
+208,232,SOH0647651,Sarayu Shridhara,Husbands Name: Shridhar.C.R,143,41,Female
+208,233,SOH0846568,Guddaiah,Fathers Name: Chikkaiah,144,83,Male
+208,234,SOH0846576,Keshav G,Fathers Name: Guddaiah,144,77,Male
+208,235,SOH0846584,Padma T,Husbands Name: Guddaiah,144,77,Female
+208,236,SOH0846592,Aanand V,Fathers Name: Viranna Gowda,144,60,Male
+208,237,SOH0611038,Sarala,Husbands Name: Aanand V,144,57,Female
+208,238,SOH0846600,Shilpa G,Husbands Name: Keshava.G,144,45,Female
+208,239,SOH6443063,Reyansh Keshava,Mothers Name: Shilpa G,144,20,Male
+208,240,BTF0945154,Vinodha Surendranath,Husbands Name: K P Surendra Nath,145,89,Female
+208,241,BTF1177138,G N Uma,Husbands Name: G Nagesh,148,77,Female
+208,242,BTF2162667,G N Madhu,Fathers Name: G Nagesh,148,51,Male
+208,243,SOH0846667,Padmini P,Husbands Name: Madhu.G.N,148,46,Female
+208,244,SOH4071395,Bindesh A Patel,Fathers Name: Aravind Bai Patel,149,84,Male
+208,245,SOH4071387,Damayanthi A Patel,Husbands Name: Aravind Bai Patel,149,84,Female
+208,246,SOH3881521,Nikhil A Patel,Fathers Name: Aravind Patel,149,59,Male
+208,247,SOH4071411,Bela B Patel,Husbands Name: Bindesh Patel,149,59,Female
+208,248,SOH3881513,Hemangini N Patel,Husbands Name: Nikhil Kumar Patel,149,57,Female
+208,249,SOH4356515,Prasanna,Husbands Name: mohan,151,70,Female
+208,250,BTF1170505,Tharabai S,Husbands Name: S Mahabala Shet,152,90,Female
+208,251,BTF1174465,S Ravi Shankar Shet,Fathers Name: S Mahabala Shet,152,72,Male
+208,252,BTF1170497,Latha R,Husbands Name: S Ravi Shankar Shet,152,62,Female
+208,253,SOH0122143,Navanith.R,Fathers Name: Ravishankar Shet.S,152,39,Male
+208,254,BTF0944793,K P Ananthagopal,Fathers Name: K S Perumal,153,69,Male
+208,255,BTF0944553,Sandhya K,Husbands Name: Ananthagopal K P,153,64,Female
+208,256,SOH0846691,Lakshmi,Fathers Name: Ananth Gopal,153,40,Female
+208,257,SOH4898631,KANTHI K A,Fathers Name: Ananthagopal K P,153,32,Female
+208,258,SOH6108203,Navin Suparna Bindiganavile,Mothers Name: Usha Suparna,155,43,Male
+208,259,SOH6103022,Priyanka J P,Husbands Name: Jayaprakash P,155 Madiiu 8th Cross,41,Female
+208,260,BTF0971291,Narayan Swamy S T,Fathers Name: B Thopegowda,156,62,Male
+208,261,SOH6185789,MANISH L V L V,Fathers Name: VIJAYAKUMAR N L N L,159,21,Male
+208,262,SOH0170951,Anjum Afshan,Husbands Name: Haroon Pasha,160,70,Female
+208,263,SOH3799210,Jainabe,Husbands Name: M Shakila,160,68,Female
+208,264,SOH3799228,M Shakei,Fathers Name: Rehaman,160,66,Male
+208,265,SOH4660759,Shuyrab Haron,Fathers Name: Dr. Haron Pasha,160,49,Male
+208,266,SOH4636296,Zuheb Harun,Fathers Name: Dr Haron Pasha,160,44,Male
+208,267,SOH0170431,Hamza Haroon,Fathers Name: Haroon Pasha,160,41,Male
+208,268,SOH0170969,Sana Chhaudhyari,Husbands Name: Shuybe Harun,160,40,Female
+208,269,SOH0846790,Jayalakshmi,Husbands Name: Chandrashekhar,163,87,Female
+208,270,BTF0946640,Shashidhar M C Holla,Fathers Name: Chandrashekhar M N,163,60,Male
+208,271,SOH0847103,Mayuri G,Husbands Name: Sanjeev Kumar G H,163,59,Female
+208,272,BTF0946632,Akhila,Husbands Name: Shashidhar,163,57,Female
+208,273,BTF0972521,Dattatri,Fathers Name: Mannoji Rao,164,58,Male
+208,274,SOH0177311,Bharathi,Husbands Name: Daththadri,164,49,Female
+208,275,SOH0846840,Khatija Hussain,Fathers Name: Mohammed Hamza,166,58,Female
+208,276,SOH0846865,Mohammed Arif,Fathers Name: Mohammed Hamza,166,55,Male
+208,277,SOH4356523,Mohammed Jabed,Fathers Name: Mohamad hamja,166,53,Male
+208,278,SOH0846881,Mohammed Usman,Fathers Name: Mohammed Hamza,166,51,Male
+208,279,SOH0846899,Nasareen Arif,Husbands Name: Mohammed Arif,166,50,Female
+208,280,SOH0169185,Sajida.T.A,Husbands Name: Mahummad Zubera,166,47,Female
+208,281,BTF0971549,Mohammed Ali,Fathers Name: Mohammed Hamza,166,46,Male
+208,282,BTF0974600,Mohammed Faizal,Fathers Name: Mohammed Hamza,166,44,Male
+208,283,BTF3544889,Bibi Balkisa,Fathers Name: Mohammed Ham,166,42,Female
+208,284,SOH5291356,Sajani,Husbands Name: Mohammed Usman,166,40,Female
+208,285,SOH6186027,Saadia Zakir Hussain,Mothers Name: KHATIJA HUSSAIN,166,24,Female
+208,286,SOH0846949,Dr. Mallik Kamaruddin Ahmed,Fathers Name: Mallik Azeezuddin,169,77,Male
+208,287,SOH0846964,Malik Najamuddin,Fathers Name: Malik Kamaruddin Ahmed,169,47,Male
+208,288,SOH0846972,Nerjis Malik,Fathers Name: Malik Khamruddin Ahmed,169,40,Female
+208,289,BTF0974618,Malik Shamsuddin,Fathers Name: Malik Khamaruddin,169-1,44,Male
+208,290,BTF0948570,Zeenathunnisa,Husbands Name: Azeez Khan H K,171,78,Female
+208,291,SOH0171298,Aaptha Chaubega,Husbands Name: Hyedara Beg,171,75,Female
+208,292,BTF0948588,Nabilia Azeez,Husbands Name: Mohamed Farook,171,54,Female
+208,293,SOH0171579,Baig Aftab Hyder,Fathers Name: Hyder Baig,171,50,Male
+208,294,BTF0948596,Shahilla Azeez,Husbands Name: K Azeez Khan,171,50,Female
+208,295,SOH0171215,Syed Roshan,Husbands Name: Munavar Baig,171,47,Female
+208,296,BTF0958587,Prabhakara,Fathers Name: Bairappa,172,83,Male
+208,297,BTF0982850,Vijayalakshmi,Husbands Name: Prabhakara,172,76,Female
+208,298,BTF0947283,Kanthimathi,Husbands Name: P D S Pandian,173,79,Female
+208,299,BTF0958363,Sudhakar P Joshua,Fathers Name: P D S Pandiyan,173,51,Male
+208,300,BTF0972729,Surovi Ganguly,Husbands Name: M K Gangopadhyay,174,69,Female
+208,301,SOH4151437,Vijay Kumar C R Chippinkere,Fathers Name: Veerabhadrappa chippinkere,174,50,Male
+208,302,SOH4151403,kusuma M Vijay,Husbands Name: vijaykumar chippin kere,174,49,Female
+208,303,BTF0946889,Gangadharan P,Fathers Name: Purushothama Rao,175,92,Male
+208,304,BTF1212455,G Shantha,Husbands Name: P Gangadharan,175,87,Female
+208,305,SOH0847087,Sakkubai,Husbands Name: K M Amaranath,176,81,Female
+208,306,SOH0847095,Rajesh K A,Fathers Name: K M Amaranath,176,60,Male
+208,307,BTF2165744,Sanjeev Kumar G H,Fathers Name: Hanumantharayappa,176,58,Male
+208,308,SOH5579362,Anjana G,Fathers Name: Sanjeev Kumar G H,176/1,28,Female
+208,309,SOH0116996,Rajesh R,Fathers Name: Ranganath M,177,43,Male
+208,310,SOH0164095,Hema B H,Husbands Name: Rajesh R,177,39,Female
+208,311,SOH5970710,Mohamed Ismail Sheriff Sheriff,Others: Pasha Rafath Thaseen Pasha,178,69,Male
+208,312,SOH5326004,SHAIK MAHMOOD,Fathers Name: MOHAMMED ANWAR,#178,50,Male
+208,313,BTF0946947,H M Krishnaswamy Rao,Fathers Name: H S Madhavarao,186,92,Male
+208,314,BTF0974519,Neela,Husbands Name: H M Krishnaswamy Rao,186,87,Female
+208,315,BTF0974816,H.K. Prasanna,Fathers Name: H M Krishnaswamy Rao,186,60,Male
+208,316,BTF0947309,Shylaja Prasanna,Husbands Name: Prasanna H K,186,55,Female
+208,317,SOH5951041,Deepika Hungenahally,Fathers Name: H K Prasanna,186,29,Female
+208,318,BTF0947580,S Saroja Bai,Husbands Name: S R Ganesha Rao,187,80,Female
+208,319,BTF0973883,S G Ravichandra Rao,Fathers Name: S R Ganesha Rao,187,58,Male
+208,320,SOH0847293,Ganesh Rao B. V,Fathers Name: Balaji Vishwanath Rao,187,52,Male
+208,321,BTF0947598,S G Ramarao,Fathers Name: S R Ganesha Rao,187,53,Male
+208,322,BTF0947572,S G Shobha Bai,Husbands Name: S R Ganesha Rao,187,48,Female
+208,323,SOH0847343,Jyothi R Doddavalla,Fathers Name: Ramakrishna Doddavalla,187/2,44,Female
+208,324,BTF0947945,H Yashodha,Husbands Name: S Narayan,189,86,Female
+208,325,BTF0946418,N Chandrashekhar,Fathers Name: S Narayan,189,58,Male
+208,326,BTF0946400,Sunitha Shekhar K,Husbands Name: Chandrashekhar,189,49,Female
+208,327,SOH3865466,Rekha Raval,Husbands Name: Javaharalal G Raval,191/2,79,Female
+208,328,SOH3865474,Bhavisha Raval Shukla,Fathers Name: Jawaharalal G Raval,191/2,55,Female
+208,329,SOH4667341,Ramesh B.,Fathers Name: Narasimha Murthy B.,191N,55,Male
+208,330,SOH0176602,Shyamala,Husbands Name: Ramesh B.,191N,50,Female
+208,331,BTF0947929,K Chandrakanth,Fathers Name: C Kuppa,192,66,Male
+208,332,BTF0947937,C Jayanthi,Husbands Name: K Chandrakanth,192,59,Female
+208,333,BTF0950055,K Suresh,Fathers Name: C Kuppa,192,58,Male
+208,334,BTF0950048,S Kanchana,Husbands Name: K Suresh,192,54,Female
+208,335,SOH5663927,Gaffar S A,Fathers Name: Syed Ghouse,"#192,flat no 102",29,Male
+208,336,SOH5016852,Anupama B E,Fathers Name: Eswarachari S K,193,33,Female
+208,337,SOH0646224,Rajamma Pillai L,Husbands Name: Balakrishna Pillai K,194,84,Female
+208,338,SOH0646232,Jayamohana Pillai B.,Fathers Name: Balakrishna Pillai K,194,51,Male
+208,339,BTF0949826,Prakash Chandra,Fathers Name: Rama Iyer,195,76,Male
+208,340,BTF0949818,Rajeshwari Prakash,Husbands Name: Prakash Chandra,195,75,Female
+208,341,BTF0949800,Megha Prakash,Fathers Name: Prakash Chandra,195,46,Female
+208,342,SOH6164222,Mahesh M S,Others: Ashwini M,195/A,44,Male
+208,343,SOH4356796,Rasheed Aslam S A,Fathers Name: K A Sattar,196,68,Male
+208,344,SOH4356895,Wajid Akram.S.A,Fathers Name: Sattar.K.A,196,63,Male
+208,345,BTF0949974,Meherunnisa,Husbands Name: Rasheed Aslam S A,196,61,Female
+208,346,BTF0975763,WAHID AZAM S A,Fathers Name: K A Sattar,196,59,Male
+208,347,SOH4356549,Shuhela Majid,Husbands Name: Maajid Mukaram,196,56,Female
+208,348,BTF1171966,Zahid Mouzam S A,Fathers Name: K A Sattar,196,56,Male
+208,349,BTF0984963,Khalid Nazim S A,Fathers Name: K A Sattar,196,52,Male
+208,350,BTF0975730,Tabassum.N,Husbands Name: Wajid Akram.S.A,196,50,Female
+208,351,BTF0975755,umme salma k,Husbands Name: zahid Mouzam,196,49,Female
+208,352,SOH5818356,Abdul Hamid,Fathers Name: Rasheed Aslam S A,196,26,Male
+208,353,SOH6285449,ABDUL MUID Z,Fathers Name: S A ZAHID MOUZAM,196,21,Male
+208,354,BTF0975748,MUTHAHEERA BEGUM,Husbands Name: SATTAR ABDUL WAHID AZAM,196-2,52,Female
+208,355,SOH4356754,Arifa Fathima Nazim,Husbands Name: Khalid Nazim.S..A,196/2,44,Female
+208,356,TQH3342680,Asmiya Banu Syed,Fathers Name: Syed sardar,"196 ,Tahir Manzil,9th cross",34,Female
+208,357,SOH1807635,Mohmamada Khadir,Fathers Name: Late..M.Abdul Khadar,198,73,Male
+208,358,SOH1807619,Ajmnnisha,Husbands Name: Mohmamada Khadar,198,64,Female
+208,359,SOH0850644,Rizwana Patel,Husbands Name: Althaf D Patel,198N,63,Female
+208,360,SOH5046834,Shivaraj S C,Fathers Name: S V Chandrashekarappa,199,65,Male
+208,361,BTF3565454,Anupama,Husbands Name: Shivaraj. S. C,199,58,Female
+208,362,SOH5035076,Sannuta S S,Fathers Name: Shivaraj S C,199,34,Female
+208,363,SOH4482956,Mohammed Shabbir,Fathers Name: Mohammed Ali Sab,200,69,Male
+208,364,BTF0951699,Nazima,Husbands Name: Mohamed Shabbir,200,65,Female
+208,365,SOH0646737,Farah Naij,Fathers Name: Mohammed Shabbir,200,40,Female
+208,366,SOH4356879,Mohammed Madani,Fathers Name: Mohamad Shabeer,200,38,Male
+208,367,SOH5132758,Ramani Pooraneson,Husbands Name: Pooraneson Raju,200/A,73,Female
+208,368,BTF3190725,J Bhagalakshmi,Husbands Name: Srinivasan,201-2,72,Female
+208,369,BTF3190881,Pravin Srinivasan,Fathers Name: Srinivasan,201-2,43,Male
+208,370,SOH5106653,Sukanya K,Husbands Name: Sampath Kumar,203,40,Female
+208,371,BTF0950758,Amthul Jaleel,Husbands Name: Abdul Mukthadir,205,83,Female
+208,372,BTF0950774,Balquice Jahan,Fathers Name: Abdul Majid,205,56,Female
+208,373,SOH0847665,Nasreen Taj,Husbands Name: Abdul Khadir,205,49,Female
+208,374,SOH6413173,MOHAMMED HAROON,Fathers Name: ABDUL MAJID,205,23,Male
+208,375,SOH0847723,Rizwana Nusrath,Husbands Name: Mansoor Althaf,206,51,Female
+208,376,BTF0975052,Shakhira Ummar,Husbands Name: Mohammed Umar,208,74,Female
+208,377,SOH5045901,Nafeesa Sultana,Husbands Name: Siddique Ahmed Shariff M,208,51,Female
+208,378,SOH4357042,Shahera Umar,Fathers Name: Mohamad Umar,208,51,Female
+208,379,BTF0971481,Mohammed Zaffer Ummer,Fathers Name: Mohammed Ummer,208,50,Male
+208,380,BTF0971499,Mohammed Khizer Umer,Fathers Name: Mohammed Umer,208,46,Male
+208,381,SOH0175752,Khaira Unnisa,Husbands Name: Haji Sab,210/2,65,Female
+208,382,SOH0127696,Amjad Pasha,Fathers Name: Haji Sab,210/2,47,Male
+208,383,SOH0127381,Imtiyaz Ahmed,Fathers Name: Haji Miya,210/2,46,Male
+208,384,SOH0104323,Rubina Siddiqa,Husbands Name: Amjad Pasha,210/2,43,Female
+208,385,BTF0972265,Sarvamangala,Husbands Name: J M Jayaramaiah,211,80,Female
+208,386,BTF0972232,Bindu Kumar J,Fathers Name: J M Jayaramaiah,211,57,Male
+208,387,BTF0972224,Hemavathi M,Husbands Name: Bindu Kumar J,211,52,Female
+208,388,BTF0974832,R Vasant,Fathers Name: Ramalingam,212,72,Male
+208,389,BTF0974857,V Sumathi,Husbands Name: R Vasant,212,71,Female
+208,390,SOH0800888,Sandeep V,Fathers Name: Vasanth R,212,41,Male
+208,391,SOH0613729,Soniya V,Fathers Name: Vasanth R,212,38,Female
+208,392,BTF0974493,Susan,Husbands Name: Yospayana,213,82,Female
+208,393,BTF2165199,Eptha Deva Benjamin,Fathers Name: Yoshya,213,56,Male
+208,394,BTF0972307,Y Philip Deva Martin,Fathers Name: V Yesaian,213,51,Male
+208,395,SOH4356861,Mohamed Ishaq Shariff,Fathers Name: M Abdul hakeem,214,79,Male
+208,396,SOH4356424,Nayeema Sultana,Husbands Name: Mohamed Ishaq Sharif,214,67,Female
+208,397,SOH4474623,Fathima,Fathers Name: Mohammed Ishaq Shariff,214,45,Female
+208,398,SOH4356598,Mahammed Yousuf,Fathers Name: Mohamad Ishaq Sharif,214,43,Male
+208,399,SOH0154310,Prasanna Kumar B R,Fathers Name: Ramaiah B,217,69,Male
+208,400,SOH0154096,Manjula Devi G,Husbands Name: Prasanna Kumar B R,217,61,Female
+208,401,SOH0154088,Vinutha B P,Fathers Name: Prasanna Kumar B R,217,41,Female
+208,402,SOH0847921,Shashikala S,Husbands Name: Ramakrishna S,219N,77,Female
+208,403,SOH0847947,Sowmya Lakshmi N M,Husbands Name: Madan Kumar N R,219N,54,Female
+208,404,BTF2163277,M Shakunthala,Husbands Name: Vijayarathnakara,221,88,Female
+208,405,BTF2163285,Subhashini,Fathers Name: Vijayarathnakara,221,61,Female
+208,406,SOH0850990,C G JACOB,Fathers Name: C K GEORGE,221,59,Male
+208,407,SOH0852830,Anitha Janasa Helina,Husbands Name: Vijayakumar,221,55,Female
+208,408,BTF2163293,Vinayakumar,Fathers Name: Vijayarathnakara,221,54,Male
+208,409,SOH0847962,Elish Nischal,Fathers Name: Rajashekhar Jude Paul,221,36,Male
+208,410,SOH4356382,Prabhakar,Fathers Name: satya narayan S r,226,58,Male
+208,411,SOH4356689,S Manjula,Husbands Name: Prabhakar s,226,53,Female
+208,412,SOH0712471,Sumithra,Husbands Name: Keshav B,227,88,Female
+208,413,SOH0848051,K Bhaskar,Fathers Name: B Keshava Rao,227,62,Male
+208,414,SOH0848069,Uma Bhaskar,Husbands Name: K Bhaskar,227,57,Female
+208,415,SOH5579131,Annapoorna B,Fathers Name: K Bhaskar,227,29,Female
+208,416,BTF0980144,Dr M Narayanappa,Fathers Name: Late Anjanappa,229,87,Male
+208,417,BTF0956995,Kalavathi M,Husbands Name: Dr M Narayanappa,229,70,Female
+208,418,SOH0848168,Mathivanan,Fathers Name: Munikrishnan,229,54,Male
+208,419,BTF0956987,Dr Sreevidya N,Fathers Name: M Narayanappa,229,51,Female
+208,420,BTF0980151,Manohar N,Fathers Name: Dr Narayanappa M,229,47,Male
+208,421,SOH5106638,Satish Kumar Boddikuri,Fathers Name: B Mohan,229,44,Male
+208,422,SOH3309838,S Na Jayram,Fathers Name: Narayanswamy,231,85,Male
+208,423,SOH3310778,Chendil Nathan J,Fathers Name: S. Na.Jayram,231,52,Male
+208,424,SOH3309820,S Vani Vidhya Lakshmi,Husbands Name: J Chendil Nathan,231,46,Female
+208,425,BTF0946772,K S Vimalamma,Husbands Name: K Subrahmanya,235,86,Female
+208,426,SOH5821459,Keerthana Krishnamurthy,Mothers Name: Vinutha K S,235,27,Female
+208,427,BTF0974980,P V Jagannatha Rao,Fathers Name: P Venkataramana Murthy,239,80,Male
+208,428,BTF0974998,Saraswathi,Husbands Name: P V Jagannatha Rao,239,71,Female
+208,429,SOH4483111,Kalyani.H,Husbands Name: Hariharan.G.N,240,88,Female
+208,430,SOH4483293,Chandrashekar.R Ramamurthy,Fathers Name: Ramamurthy.N.V,240,60,Male
+208,431,SOH4483368,Lalitha H,Husbands Name: Chandrashekar Ramamurthy,240,55,Female
+208,432,SOH5201108,Avinash Chandra shekar,Fathers Name: Chandra shekar rama murthy,240,32,Male
+208,433,SOH5200936,Krithika Chandra shekar,Fathers Name: Chandra shekar Ramamurthy,240,31,Female
+208,434,BTF0945543,Latha Ashok,Husbands Name: Ashok,245,57,Female
+208,435,BTF0950857,Mohsin Ahmed,Fathers Name: Abdul Wahab,245,60,Male
+208,436,BTF0974485,Neshad Sulthana,Husbands Name: Mohsin Ahmed,245,56,Female
+208,437,BTF0946491,Mahmood Alam,Fathers Name: Abdul Wahab,245,53,Male
+208,438,SOH0181347,Tazeen Fathima,Husbands Name: Mohammed Alam,245,49,Female
+208,439,SOH0647594,Raheel Mansoor,Husbands Name: Mansoor Ahmed,245,41,Female
+208,440,SOH6543540,MUZAKKIR AHMED,Fathers Name: MOHSIN AHMED,245,25,Male
+208,441,SOH0126417,Vasudevaraju M,Fathers Name: Ramakrishnam Raju M,245/1,54,Male
+208,442,SOH0169102,Jalajia R,Husbands Name: Vasudev Raju M,245/1,47,Female
+208,443,SOH5201215,Praveen kumar Gadheraju,Fathers Name: Reddaiah gadheraju,246,51,Male
+208,444,SOH5201090,vasundharamma Gadheraju,Husbands Name: Late Reddeiah rahu Gadheraju,246,44,Female
+208,445,SOH5201173,Sailaja kumari Konduru,Husbands Name: Shankara raju Konduru,246,42,Female
+208,446,SOH5201124,Sree Vidya Gadheraju,Husbands Name: Praveen kumar Gadheraju,246,37,Female
+208,447,SOH5201025,Sindhuja Konduru,Fathers Name: Shankara raju Konduru,246,35,Female
+208,448,SOH5126800,J CAESAR DEVAPRASANNA,Fathers Name: JOHN ZECHARIAH,247,91,Male
+208,449,SOH4356457,Rebekayananthara. S,Husbands Name: Sham sundar S,247,41,Female
+208,450,BTF0984872,Jaisimha K,Fathers Name: H K Sampath Kumar,248,58,Male
+208,451,SOH0851543,Kesari S N,Fathers Name: HK Sampath Kumar,248,57,Male
+208,452,BTF1173517,D K Roopashree,Husbands Name: S Jaisimha,248,53,Female
+208,453,SOH0851550,Usha Kesari,Husbands Name: Kesari S N,248,52,Female
+208,454,BTF3544855,Rajasimha,Fathers Name: Krishnamurthy,249,60,Male
+208,455,BTF2165579,Manjula Rajasimha,Husbands Name: Rajasimha K N,249,57,Female
+208,456,SOH5578174,Anusha Rajasimha,Fathers Name: Rajasimha N,249,29,Female
+208,457,SOH6317150,ADITYA RAJSIMHA RAJSIMHA,Fathers Name: RAJASIMHA NARASIMHA MURTHY,249,24,Male
+208,458,SOH6376081,Dwijesh D Donthy,Fathers Name: Dwarakish D R,253,20,Male
+208,459,SOH0848366,D R Venkatesh,Fathers Name: D R Radhakrishna,253-2,53,Male
+208,460,BTF2165256,D R Dwarakesha,Fathers Name: D R Radhakrishna,253-2,49,Male
+208,461,SOH0848374,Anitha Dwarakish,Husbands Name: Dwarakish D R,253/2,48,Female
+208,462,SOH4071502,Safa Albadri,Fathers Name: Zuhur Albadri,254,38,Female
+208,463,SOH5125364,WAROOD ALBADRI,Fathers Name: ZUHUR ALBADRI,254,31,Female
+208,464,SOH0170829,Gangamma Devaiah B,Husbands Name: Devaiah,255,85,Female
+208,465,SOH0170886,Sangeetha,Fathers Name: Devaiah,255,54,Female
+208,466,BTF3544921,B N Ramesh,Fathers Name: B R Nagaraj Swamy,256,59,Male
+208,467,BTF3565496,SHASHIDHARA BELAVADI NAGARAJSWAMY,Fathers Name: NAGARAJSWAMY BELAVADI RAMASHASTRY,256,52,Male
+208,468,SOH3317401,Kavitha P,Husbands Name: Manoj,256,50,Female
+208,469,BTF2165983,PRATHIMA NAGESH,Husbands Name: SHASHIDHARA BELAVADI NAGARAJSWAMY,256,46,Female
+208,470,SOH1807650,C Meenakshamma,Husbands Name: T.Chandrashekharaiah,257,80,Female
+208,471,SOH1807643,Latha M,Husbands Name: Hanumegowda H N,257,65,Female
+208,472,SOH1807668,Nithushree,Husbands Name: Hanumegowda H N,257,41,Female
+208,473,SOH0850529,Vathsala,Husbands Name: A N Govinda Raj,258,82,Female
+208,474,SOH0850420,A N Govinda Raju,Fathers Name: Narasinha Char,258,80,Male
+208,475,SOH5893110,V Sridhara,Fathers Name: Venugopalachar,258,68,Male
+208,476,SOH0850602,Bhargavi,Fathers Name: A N Govinda Raj,258,62,Female
+208,477,SOH6446678,Arjun Sridhar,Fathers Name: Sridhar Venugopalachar,258,33,Male
+208,478,BTF0971812,K Kamalashram,Husbands Name: K Subraya Sharma,264,80,Female
+208,479,SOH0848531,Divya Sharma K,Fathers Name: Sharma K S,264,40,Female
+208,480,BTF0950352,Sundaramma,Husbands Name: V Srinivasa,266,77,Female
+208,481,BTF0948463,B N Sarojamma,Husbands Name: R Ramachandra,272,85,Female
+208,482,BTF0972083,K Nagaraju,Fathers Name: M Krishnaiah,272,74,Male
+208,483,BTF0948455,R Usha,Husbands Name: K Nagaraj,272,68,Female
+208,484,SOH4483244,Chirag.N,Fathers Name: Nagaraju.K,272,36,Male
+208,485,BTF0959486,Aleykutty Matthews,Husbands Name: K M Mathews,273,84,Female
+208,486,BTF0945469,Priya Mathews,Husbands Name: K M Mathews,273,52,Female
+208,487,BTF0977975,B M Shrikanthamma,Husbands Name: L V Palakshachari,274,81,Female
+208,488,BTF0977967,Latha Mahesh,Husbands Name: Mahesh,274,59,Female
+208,489,BTF3565322,Bharathi Thejaswi,Husbands Name: Thejaswi P,274,48,Female
+208,490,SOH0122697,ASHWINI KUMAR M S,Fathers Name: Shivamurthy M,274,46,Male
+208,491,SOH6508139,Vignesh M,Mothers Name: Latha Mahesh,274,28,Male
+208,492,SOH4356960,Sunitha p,Fathers Name: parameshwaraiah,275,54,Female
+208,493,BTF0945824,K L Sumitra,Husbands Name: A T Krishnamurthy,276,77,Female
+208,494,BTF0945832,K Sharath,Fathers Name: A T Krishnamurthy,276,50,Male
+208,495,SOH0647370,Asha Sharath,Husbands Name: Sharath K,276,44,Female
+208,496,SOH4357034,Srikanth Srinivasan,Fathers Name: K R Srinivasan,277,54,Male
+208,497,SOH0850370,Kamini,Husbands Name: Srikanth Srinivasan,277,49,Female
+208,498,SOH6497382,Pranav Srikanth,Fathers Name: Srikanth Srinivasan,277,24,Male
+208,499,SOH6444079,TANISHA SRIKANTH,Fathers Name: SRIKANTH SRINIVASAN,277,21,Female
+208,500,SOH0165233,Pramila D G,Husbands Name: Govinda Rao D R,278,83,Female
+208,501,SOH0850362,Archana Nagaraja P,Fathers Name: Nagaraja P,278,51,Female
+208,502,SOH5579123,Yashashav D K,Fathers Name: Kamal Raj D G,278,27,Male
+208,503,BTF3546173,D K Paithvi Raj,Fathers Name: K S Dwarakanath,280,56,Male
+208,504,BTF3546272,Rupa B,Husbands Name: D Dwarakanath,280,56,Female
+208,505,SOH4670782,Mohan. D. Kulakarni,Fathers Name: Dathathreya Kulakarni,281,72,Male
+208,506,SOH0707463,Madhuri. M. Kulakarni,Husbands Name: Mohan Kulakarni,281,61,Female
+208,507,SOH5620083,MEKHALA MOHAN KULKARNI,Fathers Name: MOHAN D KULKARNI,281,34,Female
+208,508,SOH5204219,Mallika Kulkarni,Fathers Name: Mohan D,281,31,Female
+208,509,SOH4356465,Muneera Begum,Husbands Name: KHR khan,282,76,Female
+208,510,SOH6187330,ASHOK K S,Fathers Name: K B SHANAPPA,283,60,Male
+208,511,BTF2164309,N C Kiran,Fathers Name: Chikkegowda,283,56,Male
+208,512,SOH4357067,Asha Rani H. R.,Husbands Name: Kiran.N.C,283,48,Female
+208,513,SOH5997473,Neha Kiran,Fathers Name: N C Kiran,283,23,Female
+208,514,SOH0848796,B S Umadevi,Husbands Name: B R Shankar,285,88,Female
+208,515,BTF0945311,B S Girisha,Fathers Name: B R Shankar,285,56,Male
+208,516,SOH5579958,Chethana M,Husbands Name: Girisha B S,285,51,Female
+208,517,SOH0848812,Aruna,Fathers Name: Shankar,285,50,Female
+208,518,BTF0950162,Purandara Beliya,Fathers Name: Purushotham Beliya,287-2,80,Male
+208,519,BTF0950154,Manjula,Husbands Name: Purandara Beliya,287-2,68,Female
+208,520,BTF0950170,Bharathi Beliya,Fathers Name: Purandhara Beliya,287-2,45,Female
+208,521,SOH0848879,Sharath P Billy,Fathers Name: Purandara Billy,287/2,37,Male
+208,522,SOH0850545,R K Manjula,Husbands Name: N Ramakrishnappa,288,82,Female
+208,523,SOH0850115,R Nagendra,Fathers Name: N Ramakrishnappa,288,60,Male
+208,524,SOH4357018,Sudhindra R.,Fathers Name: rama Krishna,288,57,Male
+208,525,SOH0850727,Malini,Husbands Name: Sudhindra,288,52,Female
+208,526,SOH0848929,Rahamath Unnisa,Husbands Name: Mazherulla Khan Asif,289,75,Female
+208,527,BTF0946103,Biany D'Souza,Fathers Name: L Desoza,291,59,Male
+208,528,BTF0946095,Fresilia Desoza,Husbands Name: Baini Desoza,291,53,Female
+208,529,SOH4356721,H.S Krishna Murthy,Fathers Name: late H srinivas rao,294,86,Male
+208,530,SOH0849117,Saroja K,Husbands Name: H S Krishnamurthy,294,79,Female
+208,531,SOH0849158,Arun Kumar,Fathers Name: H S Krishnamurthy,294,52,Male
+208,532,BTF1170869,K Srinivas Prasad,Fathers Name: Krishnamurthy,294,50,Male
+208,533,SOH0849166,Kavitha,Husbands Name: Arun Kumar,294,46,Female
+208,534,SOH0174854,Sowmya,Husbands Name: Srinivasa Prasad,294,45,Female
+208,535,SOH0849174,Prema Kumari,Husbands Name: Lakshmana Rao Jadav,295,85,Female
+208,536,SOH0849182,J L Sanath,Fathers Name: Lakshmanarao Jadav,295,62,Male
+208,537,SOH0849190,J L Nandini,Fathers Name: Lakshmanarao Jadav,295,55,Female
+208,538,BTF0959734,Kavitha Sannatha,Husbands Name: Sannatha J L,295,53,Female
+208,539,BTF3565389,Ashwini J L,Fathers Name: Lakshmanarao Jadav,295,51,Female
+208,540,BTF3192283,Krishna Bhat S,Fathers Name: Mahalinga Bhat,296,44,Male
+208,541,SOH4483145,Pavithra Ganga Krishna Bhat,Husbands Name: Krishna.S Bhat,296,37,Female
+208,542,BTF2165553,Sowmya Kumar B,Fathers Name: Chandragupta,297,72,Male
+208,543,BTF2165561,Srimathi B,Husbands Name: Sowmya Kumar,297,68,Female
+208,544,SOH4357117,Pranam Battepati,Fathers Name: Sowmya Kumar,298,37,Male
+208,545,SOH4356408,Dr B Subbarayudu,Fathers Name: Chinna Rosaiah naidu,300,67,Male
+208,546,SOH4356432,N Vijaya Lakshmi,Husbands Name: Dr B Subba Ramudu,300,62,Female
+208,547,SOH5016928,Kavya B S,Fathers Name: Dr B Subbarayudu,300,33,Female
+208,548,SOH0849240,Peter Pinto,Mothers Name: Sevarina Pinto,301,78,Male
+208,549,SOH0849257,Thereja J Pinto,Husbands Name: Peter Pinto,301,75,Female
+208,550,SOH5016886,Alphones Chethan Dsilva,Mothers Name: Juliana Dsilva,301,54,Male
+208,551,SOH0849265,Nisha P Pinto,Fathers Name: Peter Pinto,301,47,Female
+208,552,SOH4981338,Natasha Serha Pinto,Fathers Name: Peter Pinto,301,35,Female
+208,553,BTF1172196,Sudha V R,Husbands Name: Rajakumar M V,302,60,Female
+208,554,BTF0945626,Jagadeesh.M.V,Fathers Name: Veerabhadrappa.M,302,53,Male
+208,555,BTF1172204,V.J. Chethana,Husbands Name: Jagadeesh.M.V,302,49,Female
+208,556,SOH4483186,Neha.V.R,Husbands Name: Raj Kumar.M.V,302,32,Female
+208,557,BTF2166452,R Krishnagallagali,Husbands Name: Late Dwarakanath,303,73,Female
+208,558,SOH5578786,P Pavan Parihar,Fathers Name: Prakash Chand Seervi B,304,27,Male
+208,559,SOH6163984,TISHA PARIHAR,Fathers Name: PRAKASH CHAND SEERVI B,304,23,Female
+208,560,BTF3565249,Mohammed Iqbal,Fathers Name: Mohammed Amirjan,305,72,Male
+208,561,BTF3565405,Yasmeen Taj,Husbands Name: Mohammed Iqbal,305,61,Female
+208,562,BTF3565645,Mohammed Yasin,Fathers Name: Mohammed Iqbal,305,45,Male
+208,563,BTF3544913,Mohammed Thashina,Fathers Name: Mohammed Iqbal,305,42,Male
+208,564,SOH4483012,Syed Zakir Hussain,Fathers Name: Syed Rahamathulla,306,76,Male
+208,565,SOH4483152,Reshma Fathima,Husbands Name: Syed Zakir Hussain,306,71,Female
+208,566,SOH0849331,Kumar Bablu,Fathers Name: Parasnath Tiwari,306,49,Male
+208,567,SOH4483137,Syed Shiraz Hussain,Fathers Name: Syed Zakir Hussain,306,47,Male
+208,568,SOH0849323,Anubala Thaiwari,Husbands Name: Kumar Bablu,306,44,Female
+208,569,SOH4482964,Noor Jahan,Husbands Name: Syed Shiraz Hussain,306,43,Female
+208,570,SOH5135447,MURALIDHAR H N,Fathers Name: NAGARAJA SETTY H C,"336,",61,Male
+208,571,SOH5124060,ANITHA R,Husbands Name: MURALIDHARA H N,"336,",59,Female
+208,572,SOH5131099,GANESH H M,Fathers Name: MURALIDHARA H N,#336,32,Male
+208,573,SOH6342729,VINOD K R,Others: RADHIKA K R,484,54,Male
+208,574,SOH5994355,CHANDANA R,Fathers Name: RAGHUNATH V,484,23,Female
+208,575,SOH5976683,RAGHUNATH V,Fathers Name: VENKATAPPA,"484, RRI APARTEMENTS",54,Male
+208,576,SOH6188429,SHASHIKALA R RAGHUNATH,Husbands Name: RAGHUNATH VENKATAPPA,"484, RRI APARTEMENTS",43,Female
+208,577,SOH6186555,SHESHADRI R,Fathers Name: RAGHUNATH V,"#484, RRI Apartments",21,Male
+208,578,SOH6373492,VISHAL KRISHNA,Fathers Name: GOPALA KRISHNA M R,"484, R.R.I. Quarters",20,Male
+208,579,SOH6080311,PRAPTI BOPANA KADEMADA,Fathers Name: BOPANA KADEMADA GANAPATHY,492,24,Female
+208,580,SOH0123125,Munisiddappa,Fathers Name: Muniswamappa,497,52,Male
+208,581,SOH0170449,Deepa. R,Husbands Name: Munisiddappa,497,43,Female
+208,582,SOH6332449,Sana Ayesha Qazi,Mothers Name: Kubra Bano,502,24,Female
+208,583,SOH6268940,SHEELA K,Husbands Name: UMESH NUCHIN NUCHIN,508,50,Female
+208,584,SOH5864400,Bhoomika Aswath,Fathers Name: Aswath Reddy,521,27,Female
+208,585,SOH4356341,Udaya K.S.,Fathers Name: k shankara,522,63,Male
+208,586,SOH4356937,Vinutha Udaya Bhat Bhat,Husbands Name: KS udaya,522,57,Female
+208,587,AKB3802824,SHAMEEMUNNISA,Husbands Name: MEER MOHAMED HASHIM,"535, Koolz Coral Hill Apartme",79,Female
+208,588,AKB3802618,MOHAMMED TAHA HASHMI,Fathers Name: MOHAMMED AIJAZ,"535, Koolz Coral Hill Apartme",22,Male
+208,589,SOH6528301,Zuha Fathima,Fathers Name: Mohammed Aijaz,"535, Koolz Coral Hill Apartme",19,Female
+208,590,SOH4721320,Atmaram.K,Fathers Name: Late. Muniswamy Krishnasw,543,93,Male
+208,591,SOH6300867,Gaurav Nirmal Kumar,Fathers Name: Nirmal Kumar ATMARAM,543,21,Male
+208,592,SOH4720967,Suraj.M,Fathers Name: Mohan.R,544,32,Male
+208,593,SOH4901195,vanamali G V S,Fathers Name: Bhagavan G V S,#548,43,Male
+208,594,SOH0117176,Dr.Nagaraja G N,Fathers Name: Late B NarayanaGowda,549,69,Male
+208,595,SOH0164061,Usha Nagaraj,Husbands Name: Nagaraj G N,549,64,Female
+208,596,SOH4721411,Revathi.K.L,Fathers Name: Lokanath.K Raju,563,33,Female
+208,597,SOH6416770,SHRIJAN SURESH,Mothers Name: PRIYA SURESH,565,24,Male
+208,598,SOH4721312,Mathew James Athoopallil,Fathers Name: James.A.J,576,33,Male
+208,599,SOH6372759,B K UDAYA KUMAR,Fathers Name: B M KUMARASWAMY,595,65,Male
+208,600,SOH6372742,TEJASWI UDAY PRASHANTHI KUMAR,Fathers Name: B K UDAYA KUMAR,595,21,Male
+208,601,SOH6493746,S. HITHA NAYANA,Fathers Name: N. R. SAMPATH KUMAR,"610, Sri Ranga Nilaya",19,Female
+208,602,SVF5910849,Girija N,Fathers Name: Nagarajareddy,619,34,Female
+208,603,SOH5163555,J Rajee,Husbands Name: S Na Jayram,622,70,Female
+208,604,SOH6309512,Ashish Jonathan Maben,Fathers Name: Naveen Hubert Maben,625,24,Male
+208,605,SOH5194337,Shreya Khanna,Fathers Name: Vinay Khanna,653,32,Female
+208,606,SOH5029434,Mallikarjuna M S,Fathers Name: Lakshman,661,62,Male
+208,607,SOH5031687,Nagarathna,Fathers Name: Shivanandappa,661,56,Female
+208,608,SOH6269682,Vishal Shivakumar,Fathers Name: RN Shivakumar,664,27,Male
+208,609,SOH5016829,S K Keshavan,Fathers Name: S V Kannan,679,58,Male
+208,610,SOH5016795,Jyothi K,Husbands Name: S K Keshavan,679,50,Female
+208,611,SOH5272083,NAGAPPA K,Fathers Name: KARIYAPPA KADANA,680,69,Male
+208,612,SOH5272075,SUDHA T K,Husbands Name: NAGAPPA K,680,64,Female
+208,613,SOH5047162,Mamatha B O,Husbands Name: Srikanth N R,680,36,Female
+208,614,SOH4721122,Anitha.R.P,Husbands Name: Lakshmi Narayana,681,34,Female
+208,615,SOH6096515,S K SATISH KUMAR,Fathers Name: KRISHNA MURTHY,682,60,Male
+208,616,SOH4721221,Shilpa.G.B,Fathers Name: Bakkeshwara Patil.G.B,685,37,Female
+208,617,SOH5375654,Naomi Sanjana Sharath,Fathers Name: Sharath Sampath,689,30,Female
+208,618,SOH6470876,Abdullah Rayyan Khan Khan,Mothers Name: Nadira Begum Asad Asad,706,25,Male
+208,619,SOH5272117,Kollipura Ravi Babu,Fathers Name: K Kotilingam,708,63,Male
+208,620,SOH6290084,KEERTHANA ISHWARA,"Fathers Name: P, ISHWARA BHAT","126, 7th A Cross",22,Female
+208,621,SOH6256846,Samyuktha,Mothers Name: Suma Sridhar,"131,2nd Floor",23,Female
+208,622,SOH6508923,FAYEEQA BANU K,Fathers Name: ABDUL KHADIR,205 9TH CROSS NEAR POORNIMA H,19,Female
+208,623,SOH6534903,D S SUMEDHA,Fathers Name: D G SUJAY,278 6TH B MAIN ROAD,23,Female
+208,624,SOH6343594,Karthik B,Fathers Name: B Subbarayudu,"#300, 6th A Main Road",29,Male
+208,625,SOH5951553,SAMEER SHERIFF,Fathers Name: Usman Sheriff,503 5th Cross HMT Layout,27,Male
+208,626,SOH0845305,Sreja K,Husbands Name: B P Mohan Rao Harale,#5301,47,Female
+208,627,SOH4283487,krishna kumar,Fathers Name: s v s mani,544 1st Floor 4th Cross,38,Male
+208,628,SOH6316806,md akhlak shaikh,Others: akheela,555 4th cross,42,Male
+208,629,SOH6416804,SURESH GOVINDAN,Others: PRIYA SURESH,"565,4TH CROSS",59,Male
+208,630,RRC1533116,PRIYA SURESH,Husbands Name: SURESH SURESH,"565,4TH CROSS",51,Female
+208,631,SOH6419543,MITTAL S PATEL PATEL,Husbands Name: CHETHAN G L,604 3rd cross,25,Female
+208,632,SOH6439467,LATHA S,Husbands Name: PURUSHOTHAM M,607 1st floor,48,Female
+208,633,SOH6355499,Prajwal R B,Fathers Name: Ramakrishna B B,"636,7th Main 3rd Cross",21,Male
+208,634,SOH6019467,SURYA PRAKAASH H N,Fathers Name: HARI HARAN S,"651,1ST FLOOR, 2ND CROSS",24,Male
+208,635,SOH6469795,VASIMULLA KHAN D,Mothers Name: ZAREENA BEGUM,"NO 137,",54,Male
+208,636,SOH6612550,YOHAAN JOSEPH JOHN,Fathers Name: VINOD JOHN JOSEPH KURIOTTU,"NO 688, CBI Road",23,Male
+208,637,BCW3682739,S. Lavanyakumari,Fathers Name: Srinivasan,NO 7,45,Female
+208,638,SOH6332357,MOHAMMED FAIZ UMAR,Fathers Name: MOHAMMED UMAR FAROOQ,NO 10,24,Male
+208,639,SOH5029392,PADMASHREE SURESH PATEL,Husbands Name: SURESH KHIMJIBHAI PATEL,NO 40,55,Female
+208,640,SOH4903019,Revathi.S.K,Husbands Name: Surendra.H,No -43,50,Female
+208,641,SOH6068407,AMREEN TAJ,Husbands Name: ATHEEQ B A,No 10 1st Floor,35,Female
+208,642,ZLW4168019,Nishat Asima A,Fathers Name: Ayub Sharieff,No 125,34,Female
+208,643,SOH6354484,Ansar Basha,Fathers Name: Issac Basha,No.137,73,Male
+208,644,SOH5555651,SURAJ SESHADRI,Fathers Name: SESHADRI SARANGAPANI,"NO 141,",30,Male
+208,645,SOH6006266,CHANIDNI A,Fathers Name: AZAM M,NO 161,32,Female
+208,646,SOH6068399,ATHEEQ B A,Fathers Name: AMEER JAN,No 178,44,Male
+208,647,UAN6639736,Shameem Begum,Husbands Name: Mohammed Vazeer,No 197,68,Female
+208,648,BTF0974659,MANSOOR AHMED,Fathers Name: Abdul Wahab,NO 20 4TH CROSS,72,Male
+208,649,BTF0974642,AYESHA SULTANA,Husbands Name: Mansoor Ahmed,NO 20 4TH CROSS,62,Female
+208,650,BTF0950790,Abdul Sattar,Fathers Name: Abdul Mukthadir,NO 205,47,Male
+208,651,SOH0848192,Vinutha K.S,Husbands Name: Subramanya K,No 235,58,Female
+208,652,SOH6372718,UMAIR ABDUL WAHAB,Fathers Name: MAHMOOD ALAM,No 245,23,Male
+208,653,SOH6372734,EMAAD ABDUL WAHAB,Fathers Name: MAHMOOD ALAM,No 245,21,Male
+208,654,SOH6471304,SAMYUKTHA,Husbands Name: GURU PRAKASH S,NO 266,40,Female
+208,655,SOH6332399,Sanjana Vaaishita,Husbands Name: Girisha Shankar,No. 285,21,Female
+208,656,SOH6433494,MOHAMMED MOIN UDDIN,Fathers Name: NASEER UDDIN,No. 286 Ground Floor,27,Male
+208,657,SOH0848945,AYSHA TARANNUM KHAN Mrs,Husbands Name: Inayath Ulla Khan,No 289,47,Female
+208,658,SOH6332555,Aasim Ali Khan,Fathers Name: Inayath Ulla Khan,No 289,25,Male
+208,659,HRM0532705,FEROZ KHAN,Fathers Name: Sattar Ali Khan,"NO 299, GROUND FLOOR ZEENATH",55,Male
+208,660,SOH6540066,SAARIM KHAN,Fathers Name: FEROZ KHAN,"NO 299, GROUND FLOOR, ZEENATH",23,Male
+208,661,AKB3596087,Firdouse Khanum,Fathers Name: Feroz Khan,"NO 299, GROUND FLOOR, ZEENATH",24,Female
+208,662,SOH4895264,KUSHAL KADABA,Fathers Name: ADINARAYANA MURTHY K N,NO 319,37,Male
+208,663,SOH5068770,S PAVAN REDDY,Fathers Name: SRINIVASA REDDY,NO 340,33,Male
+208,664,SOH6371967,V CHARITH REDDY,Fathers Name: V PURUSHOTHAMA REDDY,"No 35, 2nd Floor",20,Male
+208,665,SOH6163869,Mohammed Kaif,Fathers Name: Aslam Pasha,No 35 4th Floor,26,Male
+208,666,SOH6432330,ANUSHA N,Husbands Name: NAGESH B S,"no 46, 7th cross",35,Female
+208,667,SOH0166249,Shashikala R,Husbands Name: Ramakrishna Gowda,No 48 3rd Floor 10th Cross,56,Female
+208,668,SOH4120226,Gopala Krishna M R,Fathers Name: Rama Krishna,NO. 484,54,Male
+208,669,SOH6027171,Raju Mahadu Kadam,Fathers Name: Mahadu Kadam,No.518,57,Male
+208,670,SOH5558374,Mayur madhuraj,Fathers Name: K B madhuraj,No 562,33,Male
+208,671,SOH6355630,Yashwanth N Gorappa,Fathers Name: M Naryana Swamy,No 570,24,Male
+208,672,SOH5366034,Jayalakshmi,Husbands Name: Late Narasimha Murthy,No 573,91,Female
+208,673,SOH6311658,SATYATMA CHINCHOLI,Fathers Name: RAGHAVENDRACHAR CHINCHOLI,NO 585 MAHIDASA,21,Male
+208,674,SOH6189039,RUDANI VILASH GANGARAM,Fathers Name: GANGARAM RUDHANI,No 587,33,Male
+208,675,SOH6267702,PRAMITH KARANAM,Fathers Name: RAGHURAMARAO K,NO 630 GROUND FLOOR,22,Male
+208,676,SOH6162960,VISHAL SAGAR MURTHY,Mothers Name: REKHA C,"NO.677/A,SAI NILAYA",22,Male
+208,677,SOH4901153,RAMYA H R,Fathers Name: RAMASWAMY,977,32,Female
+208,678,SOH6332340,Mulla Shabina,Fathers Name: Bakshusab Mulla,No 180 3rd Floor,41,Female
+208,679,SOH6508931,FOUQIYA BANU K,Fathers Name: ABDUL KHADIR,NO.205 9TH CROSS NEAR POORNIM,19,Female
+208,680,SOH6471379,GURUPRAKASH,Fathers Name: SRINIVASA V,NO 266 1ST FLOOR,49,Male
+208,681,SOH6413561,Arunkumar N,Fathers Name: Nagaraju S,No 279 6th B Main,53,Male
+208,682,SOH6413553,Sridevi N,Husbands Name: Nagaraj K,No 279 6th B Main,47,Female
+208,683,SOH6439442,Haritha A,Fathers Name: Arun Kumar N,"No 279, 6th B Main",20,Female
+208,684,SOH0848937,Mazherulla Khan Asif,Fathers Name: Hafizulla Khan Sharif,"No 289, 6 B Main",90,Male
+208,685,SOH4644555,Inayath Ulla Khan,Fathers Name: Mazherulla Khan Asif,"No 289, 6 B Main",55,Male
+208,686,SOH6471718,Kamala Aminabhavi,Husbands Name: Raghavendra Aminabhavi,No 294 6th A Main,42,Female
+208,687,SOH6188593,Veeru P Mehta,Fathers Name: Prataprai M Mehta,NO 510 1st Floor 5th Cross,69,Male
+208,688,SOH6188585,Kokila V Mehta,Husbands Name: Veeru P Mehta,NO 510 5th Cross,68,Female
+208,689,SOH6188551,M Ddeena kapleshh,Husbands Name: Kapleeshh V K Mehta,NO 510 5th Cross,41,Female
+208,690,SOH6188569,Kalpeeshh V K Mehta,Fathers Name: Veeru P Mehta,NO 510 5th Cross,41,Male
+208,691,SOH6523351,G T ANANDA KUMAR,Fathers Name: THIRUMALA RAO GUMMANUR,NO 539 2ND FLOOR 4TH CROSS,68,Male
+208,692,SOH6284798,Satish D,Fathers Name: Durai swamy,No 544 1st Floor,49,Male
+208,693,SOH5309125,HARI MANI,Fathers Name: SVS MANI,No.544 1st Floor,40,Male
+208,694,SOH6316442,akheela,Husbands Name: md akhlak shaikh,"NO 555,4th cross",46,Female
+208,695,SOH4811360,Swapna.S,Husbands Name: Gopala Krishna.M.R,T-2,47,Female
+208,696,SOH6444962,PADMA K,Husbands Name: SREENIVAS B V,162,61,Female
+208,697,WVR3474137,Shahnaz Hussain,Husbands Name: Hyder Masthri,Flat 302 No 192 BV Sai Brundh,72,Female
